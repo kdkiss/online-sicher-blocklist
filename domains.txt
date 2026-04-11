@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-04-11
-# Domains: 826
+# Domains: 847
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -58,15 +58,19 @@ auroradore.com
 auto-handel.org
 autoforum-schoenau.de
 autoforumoberursel.de
+autoingenieurbereich.com
 autoinnendesign.com
 autosbios.com
 autoteilejetzt.com
 autozubehormarkt.com
+avemiosolutions.com
 baboktransports.com
 babyausstattung-de.com
 babylissde.de
 babymodepur.com
+babyroom-shop.com
 back-dani.shop
+badartikelsupply.com
 baer--schuhe.com
 baristadiscount.com
 barzubehoerhaus.com
@@ -74,9 +78,11 @@ bauhobby.com
 baukomps.com
 bayerischegeschenke.com
 bch-oberursel.de
+bcpstores.shop
 befast.wedshape.click
 belizal.com
 bergschatz.de
+bergwanderbase.com
 berlinmusicscores.com
 berlinrideservice.com
 bestandigwert.com
@@ -87,6 +93,7 @@ bestes-brennholz-pellets.de
 bestsoluvs.click
 bicyclegodshop.com
 bicycleseatpostde.com
+bidmask.com
 bike-components-de.com
 bike-trailer24.de
 bikeproshops.com
@@ -141,6 +148,7 @@ cibomatt.com
 cineluxdeutschland.com
 civ-vertrieb.de
 clashtek.com
+clearancecrest.com
 clothlve.com
 cloudtritt.de
 coastalresin.store
@@ -172,6 +180,7 @@ das-montessori-spielzeug.de
 dasoo.de
 davesbiomarkt.de
 de-frilufts.com
+de-musicshop.com
 deal-aktion.de
 dealballad.com
 dealcourier.com
@@ -402,6 +411,7 @@ jdsportsoutlet.de
 jlxdiffusion.com
 jokettlannd.com
 jolamsneaker.com
+jonla.shop
 jordanat.at
 jordanmania.de
 jumpft.de
@@ -465,18 +475,21 @@ loewedeutschland.de
 loopearplugs.at
 loopearplugsosterreich.com
 loporty.shop
+lori24.de
 loro-pianas.de
 lorrauy.shop
 love-roses.com
 loveknitzab.click
 lovelyiqar.click
 lowaid.cardsbaby.shop
+lowcostlustermart.com
 lozukiwojudo.media
 luladiffusion.com
 lunakinderwelt.com
 luxecycleshop.com
 luxeshopcart.com
 luxurioserstil.com
+lxcvt.shop
 m.sakerplus.de
 mahershop24.com
 major-agentur.de
@@ -494,6 +507,7 @@ meindls.at
 meisterkuchen-pro.de
 meldezettel-digital.at
 merveillesdhiver.com
+mhpa.net
 michel-auto-concpt.com
 midwayschiesspulver.de
 millaura.com
@@ -503,6 +517,7 @@ misterwatch.shop
 mml-container.de
 mmtaccessibility.com
 mobelonlineshop24.com
+mobilitaetsnation.de
 mobilixpro.com
 modeausaugsburg.com
 moebel-onlineshop.com
@@ -531,6 +546,7 @@ myspirituosen.com
 nachhaltigewohndeko.com
 nackel-handel.de
 naiora.de
+natur-brennholz.de
 naturacare360.com
 naturelabs.store
 naturvitalia.com
@@ -596,6 +612,7 @@ pinneberg-handel.de
 placidco.com
 placidena.com
 planguage.org
+plants-stores.com
 platten-paradies.com
 pmtree.lowcruise.shop
 polluxer.com
@@ -606,6 +623,7 @@ primarycarenw.com
 pro-truckmarket.com
 profahrradteile.com
 profibaubedarf.com
+proinstrumentshop.com
 proofsagen.com
 prooplitecommunity.shop
 prowar.sixbrowse.shop
@@ -615,6 +633,7 @@ purewellness-shop.de
 puritawa.com
 qavelo.com
 qcificspez.club
+qinero.com
 qrvawuep.shop
 qualitatsdampf.com
 radrudel.de
@@ -772,6 +791,7 @@ vifelt.workscap.shop
 villause.com
 vingeneral.com
 vintedreselling.eu
+voigtklimaanlage.com
 volthausgeraete.de
 vorwerk-de.com
 vynxaria.com
@@ -780,6 +800,7 @@ waffen-outdoor.com
 wampole.de
 wampole.shop
 wanderstiefeldeal.com
+warenmax.com
 warnerbrosshp.com
 warnerbrossuk.com
 waschzone.com
