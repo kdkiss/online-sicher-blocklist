@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-04-11
-# Domains: 766
+# Domains: 790
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -26,13 +26,16 @@ alfakherstore.de
 alfiag.cfd
 amsterdamout.store
 andreaswerkstatt.de
+angebote-kauf.de
 anhaenger-geraete.com
 anhangerwagen.com
+anreutrp.com
 anuraclo.com
 anwalt-sirrenberg.com
 apelt-handel.com
 apelt-handel.de
 apelt-shop.de
+apelt-shops.de
 aphroditecards.com
 appleofedenshoes.shop
 aquascapers-galerie.com
@@ -70,6 +73,7 @@ baukomps.com
 bayerischegeschenke.com
 befast.wedshape.click
 belizal.com
+bergschatz.de
 berlinmusicscores.com
 berlinrideservice.com
 bestandigwert.com
@@ -116,6 +120,7 @@ carboar.ar
 carteloshop.com
 cartsaga.com
 casaeternaluz.com
+casualstore77.de
 cbvdshj.com
 cccup.atmonitor.shop
 cccup.cardsbaby.shop
@@ -131,6 +136,7 @@ chippewa--boots.com
 cibomat.com
 cibomatt.com
 cineluxdeutschland.com
+civ-vertrieb.de
 clashtek.com
 clothlve.com
 coastalresin.store
@@ -194,6 +200,7 @@ drink-horizon.com
 dunstro.shop
 dwellinguse.com
 dyson-de.de
+e-bikermarkt.de
 earljourdier.com
 ebikedolomiti.com
 ecohabitsy.com
@@ -365,6 +372,7 @@ hutdesignherren.com
 i-velus.com
 ihljpbdo.shop
 ihreedelmetallprofis.de
+ikkimelpoppstar.de
 ilair.cardsbaby.shop
 ilair.linebell.shop
 imperial-hamburg.de
@@ -429,6 +437,7 @@ liport.estclose.shop
 liport.evenfix.shop
 liport.lowcruise.shop
 liquidationstockz.com
+living-smarter24.com
 livorentino.com
 liwed.barpalm.shop
 loewedeutschland.de
@@ -448,6 +457,7 @@ luxeshopcart.com
 luxurioserstil.com
 m.sakerplus.de
 mahershop24.com
+major-agentur.de
 marineausstattung.com
 markierskibindungen.com
 marveliona.com
@@ -473,6 +483,7 @@ moebelcenterremscheid.de
 moebelpunkt.com
 moebelundgarten.com
 montblancsale.de
+moriaccessoires.com
 mossvibers.com
 motelmio.shop
 moto-discounts-germany.com
@@ -503,6 +514,7 @@ newair.blacktime.sbs
 newsee.datevote.shop
 nexoil.de
 nexus-reputation.com
+nibeguq.com
 nizle.shop
 nloia.shop
 nordic-pellets.de
@@ -513,6 +525,7 @@ nqior.shop
 nurioso.com
 nurulamal.com
 nyhead.morepush.shop
+oakhabitsy.com
 obstbaumrabatt.com
 oelbonus.de
 oelfast.de
@@ -527,6 +540,7 @@ oelwert.de
 offfit.viewwed.shop
 oilexa.de
 oldestteabrand.com
+olivercabelldeutschland.de
 on-osterreich.at
 oneact.incomelog.shop
 oneact.petermoon.click
@@ -585,6 +599,7 @@ reeddecory.com
 reifen-direkt24.com
 reindesigner-handel.de
 reisenthell.shop
+rekordpellets.com
 reliableretaildeals.com
 remingtons.co.at
 rentyet.shop
@@ -595,6 +610,7 @@ ripob.com
 rjmiljmv.shop
 roborocks.de
 rollladenjalousie.com
+romodana.de
 roomfurnitureshop.com
 rossignol.com.de
 rs-remorque.com
@@ -639,6 +655,7 @@ snksinc.de
 snowbuils.online
 snowhow.shop
 soccerssp.com
+softdays-shop.de
 solanik.de
 solanix.de
 solarmik.de
@@ -652,6 +669,7 @@ sprinttosave.com
 standesamt-portal.de
 starkwerkzeug.de
 steelseries.com.de
+steinberg-munchen.com
 stelonira.com
 steyrtracteursgmbh.at
 stoicdraussen.com
@@ -681,9 +699,11 @@ tickgreen.net
 timberlandde.de
 tkpelletsgmbh.de
 tojo-heizoel.de
+tonerklick24.de
 tonieshorspiele.com
 toolkomp.com
 topeat.foodarray.shop
+topeat.lightview.shop
 topeat.morepush.shop
 topeat.smallfall.shop
 topelectronicshop.com
@@ -708,7 +728,9 @@ unibois-stammholz.com
 upcock.hetouch.shop
 utilitech-anhaenger.com
 vamosschuhedamen.com
+vega-energy.de
 velozenit.com
+venorital.com
 verdalucina.com
 vertigo-technik.com
 viennadecor.online
@@ -740,10 +762,12 @@ weinfreunoutlet.com
 wellott.com
 wellunora.com
 werke-anhangers.com
+werkerswelt-moelln.de
 werkzeug-und-maschinen.com
 werkzeugbrandl.com
 werkzeugdiscount.com
 werkzeugemaschinen.com
+wertglanzedelmetall.de
 wfh-markt.de
 wildblumenparadies.de
 wildcatchco.com
