@@ -1,11 +1,12 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-04-11
-# Domains: 813
+# Domains: 826
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
 365tageedelmetall.de
+6pmhoodies.de
 7k9lod.com
 aatrailers.de
 abodeare.com
@@ -16,6 +17,7 @@ adilizzz2748.mfuvis.shop
 agebob.dehorse.shop
 agrarbedarfshop.com
 agriandindusupply.com
+ai-energy.net
 aicheleholzgmbh.de
 air-uposterreich.at
 air-uposterreich.com
@@ -188,11 +190,13 @@ degussaonline.de
 dekorations-o-grod.de
 dertagesreport.com
 desportartikelrabatt.com
+deutchshop24.de
 deutschebapotheke.net
 deutschersammlerschatz.com
 deutsches-gut.de
 deutschlandtv-4k.de
 dewello-shop.de
+dexer-handel.de
 diag-wagen.de
 diana-apotheke.com
 diesel-outlet.de
@@ -201,6 +205,7 @@ direktbericht.de
 diybuildsupplies.com
 dly-home.com
 draussenmenschen.de
+dreamsleepz.de
 drink-horizon.com
 dunstro.shop
 dwellinguse.com
@@ -388,6 +393,7 @@ ilair.linebell.shop
 imperial-hamburg.de
 ipuroangebote.com
 issamtransports.com
+it2-use.de
 iuwaqlbm.shop
 jardinovano.com
 jbl-deutschland.de
@@ -402,10 +408,12 @@ jumpft.de
 kaffeeuhlenbusch.de
 kaffeglueck.de
 kagasa.com
+kaminholz-premium.de
 kartsportzubehoer.com
 kastner-oehler-de.com
 kaufen-vignette.shop
 kaufhaustier.com
+kaufwonne.com
 kbetake.com
 kellerspirit.com
 kgfghij.com
@@ -444,6 +452,7 @@ liehrforstholz.de
 likdl.shop
 likds.shop
 likitter.shop
+lindner-sonnenschutz.de
 liport.estclose.shop
 liport.evenfix.shop
 liport.lowcruise.shop
@@ -451,6 +460,7 @@ liquidationstockz.com
 living-smarter24.com
 livorentino.com
 liwed.barpalm.shop
+localgermany.de
 loewedeutschland.de
 loopearplugs.at
 loopearplugsosterreich.com
@@ -459,6 +469,7 @@ loro-pianas.de
 lorrauy.shop
 love-roses.com
 loveknitzab.click
+lovelyiqar.click
 lowaid.cardsbaby.shop
 lozukiwojudo.media
 luladiffusion.com
@@ -473,6 +484,7 @@ marineausstattung.com
 markierskibindungen.com
 marmoritgmbh.de
 marveliona.com
+masters-dipl-kfm.de
 maxcapitalkredit.de
 mediaxim.com
 megahandel.shop
@@ -718,6 +730,7 @@ thule-familien.de
 tickgreen.net
 timberlandde.de
 tkpelletsgmbh.de
+tln-transport.de
 tojo-heizoel.de
 tonerklick24.de
 tonieshorspiele.com
