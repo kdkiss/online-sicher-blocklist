@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-04-11
-# Domains: 790
+# Domains: 813
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -71,6 +71,7 @@ barzubehoerhaus.com
 bauhobby.com
 baukomps.com
 bayerischegeschenke.com
+bch-oberursel.de
 befast.wedshape.click
 belizal.com
 bergschatz.de
@@ -139,6 +140,7 @@ cineluxdeutschland.com
 civ-vertrieb.de
 clashtek.com
 clothlve.com
+cloudtritt.de
 coastalresin.store
 columbiasale.de
 comercialandrea.cl
@@ -163,6 +165,7 @@ dampfshishahub.com
 dampfzentrale.com
 damsonmadder.co.at
 daryeleth.org
+das-feel-natural.de
 das-montessori-spielzeug.de
 dasoo.de
 davesbiomarkt.de
@@ -176,9 +179,11 @@ decokento.com
 degartenpflanzen.com
 degussa-anlagehandel.de
 degussa-edel.de
+degussa-gmbh.de
 degussa-onlineseite.de
 degussa-onlineshop.de
 degussa-page.de
+degussagold-handel.de
 degussaonline.de
 dekorations-o-grod.de
 dertagesreport.com
@@ -203,6 +208,7 @@ dyson-de.de
 e-bikermarkt.de
 earljourdier.com
 ebikedolomiti.com
+ecobrennholz.de
 ecohabitsy.com
 ecoholz-gmbh.eu
 ecohubfast.shop
@@ -266,11 +272,13 @@ gaborberlin.com
 gaborshoesoutlet.shop
 gain-deals.de
 galactict.com
+gap-outlet.de
 garden-caddy.com
 garten-pflanzen-pro.com
 gartenbiliger.com
 gartenhausmodern.com
 gartenmoebelwelt.com
+gartenmotor.de
 gartenpools24.de
 gartenschoner.com
 gartenundanhaenger.de
@@ -307,6 +315,7 @@ gutmotorradteile.com
 habitatero.com
 hadiahslotlogin.com
 handtholzhandelgmbh.de
+hangel-handel.de
 hanwag--schuhe.com
 hardwarewelt.com
 hausdampf.com
@@ -314,6 +323,7 @@ hausofvedashop.com
 haustirwelten.de
 hausversand.com
 healththrivewith.com
+heidel-heizoel.de
 heimguts.shop
 heizdirekt.de
 heizelo.de
@@ -415,6 +425,7 @@ komponentende.com
 konigmode.de
 kosecikva.com
 kraus-anwaelte.de
+kreditberatungs.de
 labelparis.com
 labexholz.de
 labexholzgmbh.de
@@ -460,9 +471,12 @@ mahershop24.com
 major-agentur.de
 marineausstattung.com
 markierskibindungen.com
+marmoritgmbh.de
 marveliona.com
+maxcapitalkredit.de
 mediaxim.com
 megahandel.shop
+mein.lhk.de-plushilfe.com
 meindampf.com
 meindls.at
 meisterkuchen-pro.de
@@ -470,6 +484,7 @@ meldezettel-digital.at
 merveillesdhiver.com
 michel-auto-concpt.com
 midwayschiesspulver.de
+millaura.com
 milyenshop.com
 misalena.com
 misterwatch.shop
@@ -490,6 +505,7 @@ moto-discounts-germany.com
 motorrad-ausstattung.com
 motorradoutfit.com
 motorradteileonline.com
+mounjaflow.de
 mto-service.com
 muersi.com
 mundinhoabc.com
@@ -501,6 +517,7 @@ myelektrocenter.com
 mygarminstraps.de
 myspirituosen.com
 nachhaltigewohndeko.com
+nackel-handel.de
 naiora.de
 naturacare360.com
 naturelabs.store
@@ -648,6 +665,7 @@ sixgun.datevote.shop
 skina.nu
 slimvitax.com
 slowburner.de
+smart2trade.de
 smartcookgear.com
 smtoygalaxy.com
 sneakers-metzingen.de
@@ -665,6 +683,7 @@ spielbank-badenwurttemberg.de
 spielwaren-tonies.com
 spikonig.de
 sportgearde.com
+sportopath.de
 sprinttosave.com
 standesamt-portal.de
 starkwerkzeug.de
@@ -687,6 +706,7 @@ tauchflaschenschutznetz.com
 tckuspcx.shop
 teamstryk.de
 techhomede.com
+telekom-dresden.de
 teveoproducts.com
 theexplorerco.com
 thehandtoolauto.com
@@ -745,6 +765,7 @@ vynxaria.com
 waermewald.de
 waffen-outdoor.com
 wampole.de
+wampole.shop
 wanderstiefeldeal.com
 warnerbrosshp.com
 warnerbrossuk.com
@@ -779,6 +800,7 @@ wnwzxocb.shop
 wohnelektro.com
 wohnlichkeiterschaffen.com
 wohnlichtshop.com
+wood-line24.de
 woodelivo.com
 wuording.shop
 xxxlutz-eu.shop
@@ -793,5 +815,6 @@ zentoil.de
 zentrof.com
 zkort.shop
 zloae.shop
+zoofaster.de
 zorilenta.com
 zova.at
