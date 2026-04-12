@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-04-12
-# Domains: 900
+# Domains: 907
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -366,6 +366,7 @@ heizelo.de
 heizera.com
 heizex.de
 heizfast.de
+heizholzkonig.de
 heizkauf.de
 heizl.de
 heizlager.de
@@ -422,6 +423,7 @@ ihreedelmetallprofis.de
 ikkimelpoppstar.de
 ilair.cardsbaby.shop
 ilair.linebell.shop
+immobilien-verwaltung-walter.de
 imperial-hamburg.de
 ipuroangebote.com
 irefbeod.shop
@@ -472,6 +474,7 @@ komponentende.com
 konigmode.de
 kosecikva.com
 kraus-anwaelte.de
+kreative-zukunft.com
 kreditberatungs.de
 labelparis.com
 labexholz.de
@@ -572,6 +575,7 @@ musikinstrumente-profi.com
 musikprofi.com
 musikstudiobox.com
 musiqueonline.com
+mydovinia.com
 myelektrocenter.com
 mygarminstraps.de
 myspirituosen.com
@@ -586,6 +590,7 @@ naturelabs.store
 naturvitalia.com
 nauticspace.com
 nautikbedarf.com
+navirexep.de
 nestleovae.com
 neurotweinrabatt.com
 nevari.de
@@ -682,6 +687,7 @@ rawtop.morepush.shop
 rechtsanwalt-sirrenberg.de
 reebokoutlet.de
 reeddecory.com
+refortek.com.es
 reifen-direkt24.com
 reindesigner-handel.de
 reisenthell.shop
@@ -724,6 +730,7 @@ savewharf.com
 schaltwerkfahrrad.de
 schuhhaus-greten.de
 scimonge.com
+scoterwelt.shop
 senkkopfschraube.com
 sereneify.com
 serenorstock.com
