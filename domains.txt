@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-04-12
-# Domains: 907
+# Domains: 918
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -208,6 +208,7 @@ degussa-page.de
 degussagold-handel.de
 degussaonline.de
 dekorations-o-grod.de
+delecato.de
 dertagesreport.com
 desportartikelrabatt.com
 deutchshop24.de
@@ -323,6 +324,7 @@ germanlifeparts.com
 germanmanufaktur.de
 germanproduktshop.de
 germanqualitaet.de
+get-nuro.com
 get-ozoori.com
 giesswein.ro
 giessweins.it
@@ -332,6 +334,7 @@ globetrotteroutlet.de
 glowwarehousede.com
 goalbo.de
 goblinkcl.shop
+gojodns.com
 goldankauf365.de
 goldenngoosee.com
 gomel-24.de
@@ -363,6 +366,7 @@ heidel-heizoel.de
 heimguts.shop
 heizdirekt.de
 heizelo.de
+heizenperklick.de
 heizera.com
 heizex.de
 heizfast.de
@@ -401,6 +405,7 @@ hochcontainerrabatt.com
 hoka--shoes.com
 holz-pellet-bestequalitat.de
 holzdebrenn.com
+holzera.de
 holzhambach.com
 holzkerssenbrock.de
 holzsofort.de
@@ -503,6 +508,7 @@ liquidationstockz.com
 living-smarter24.com
 livorentino.com
 liwed.barpalm.shop
+lmfmotoculture.com
 localgermany.de
 loewedeutschland.de
 loopearplugs.at
@@ -601,6 +607,7 @@ nexus-reputation.com
 nibeguq.com
 nizle.shop
 nloia.shop
+nofish.org
 nordic-pellets.de
 nordoil.de
 notenglanz.com
@@ -640,6 +647,7 @@ osternbackenverkaufsshop.com
 otiumvr.com
 ottoelektro.de
 panelaeki.de
+pbm-energy.com
 pedale-onshop.com
 pelletor.at
 pellets-maschinen.de
@@ -654,6 +662,7 @@ placidena.com
 planguage.org
 plants-stores.com
 platten-paradies.com
+plazuna.com
 pmtree.lowcruise.shop
 polluxer.com
 poweromasch.shop
@@ -720,6 +729,7 @@ sangaa.co
 sanitaerbox.com
 sante360plus.com
 sarlcresmar.com
+sarlprofildiffusion.com
 savehalo.com
 savehubx.com
 savemarthub.com
@@ -881,6 +891,7 @@ werkzeugdiscount.com
 werkzeugemaschinen.com
 wertglanzedelmetall.de
 wfh-markt.de
+wikfinal.shop
 wildblumenparadies.de
 wildcatchco.com
 wildlingschuhede.com
