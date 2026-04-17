@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-04-17
-# Domains: 956
+# Domains: 965
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -267,6 +267,7 @@ esn-fitness.com
 essensverkaufs.com
 essentials-osterreich.at
 eu.stanlyss1913.com
+eufinancetechtoday.com
 eurltddiffusion.com
 eurodeals-store.shop
 europe-pack.eu
@@ -508,6 +509,7 @@ lankis-welt.com
 lasportivaoutlet.at
 lasportivaoutlet.de
 lasportivas.at
+laufstyle.com
 lavacucina.com
 lebensartikel.com
 lekisports.com
@@ -682,6 +684,7 @@ pellets-maschinen.de
 peterjeskouhren.de
 petroya.de
 pfeilearmbruste.com
+pinggona.de
 pingona.de
 pingona.shop
 pinneberg-handel.de
@@ -798,6 +801,7 @@ solamira.de
 solanik.de
 solanix.de
 solarmik.de
+solarmira.de
 soltect.de
 spezialwerkzeug-profi.com
 spielbank-badenwurttemberg.de
@@ -864,6 +868,7 @@ treasureeshop.de
 trendigehandtaschenkaufen.com
 trivanode.com
 truerebuy.com
+tts-beratung.de
 tupperwareeu.shop
 turbotrends.store
 tuvas-tech.de
@@ -872,8 +877,10 @@ uggfans.myshoplaza.com
 uggs.co.at
 uketaonline.net
 unibois-stammholz.com
+unico-studio.com
 upcock.hetouch.shop
 utilitech-anhaenger.com
+valuedealbox.com
 valuevictor.com
 vamosschuhedamen.com
 vega-energy.de
@@ -930,6 +937,7 @@ werkzeugbrandl.com
 werkzeugdiscount.com
 werkzeugeholz.de
 werkzeugemaschinen.com
+westex-handel.de
 wfh-markt.de
 wikfinal.shop
 wildblumenparadies.de
@@ -953,6 +961,7 @@ yooofa.com
 yournaturalathlettrading.shop
 yumgs.holdenouterwear.shop
 zaubergartenpro.com
+zeigebericht.de
 zenniagoods.com
 zentoil.de
 zentrof.com
