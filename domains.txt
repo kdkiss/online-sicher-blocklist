@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
-# Updated: 2026-04-16
-# Domains: 935
+# Updated: 2026-04-17
+# Domains: 948
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -13,6 +13,7 @@ abodeena.com
 acmesalehvqm.click
 ad.toygzv.shop
 adilizzz2748.mfuvis.shop
+adl.iuvxvo.shop
 agebob.dehorse.shop
 agrarbedarfshop.com
 agriandindusupply.com
@@ -149,12 +150,15 @@ cdwar.morepush.shop
 cervaluxe.com
 champion.co.at
 chicvo.com
+chimballsas.com
 chippewa--boots.com
+chxskfar.shop
 cibomat.com
 cibomatt.com
 cineluxdeutschland.com
 civ-vertrieb.de
 clashtek.com
+classicdesignoutlet.com
 clearancecrest.com
 clothlve.com
 cloudtritt.de
@@ -252,6 +256,7 @@ ekzsale.shop
 electrikbbq.com
 electro-redeker.de
 elektrodan.com
+elektrosde.com
 endlich-gesund.com
 energiepreise24.com
 ergrolabrantnerkg.com
@@ -474,6 +479,7 @@ klempnerwerkzeug.com
 klenkholzag.de
 klima-bonus.app
 klimabonus2026.at
+klimakaelteprofi.com
 klonl.shop
 klots.shop
 knusperwelt.com
@@ -501,6 +507,7 @@ lekisports.com
 lescocosecolos.com
 let-glam.com
 lgglegrandgroupe.com
+lidnz.shop
 lidou.shop
 liehrforstholz.de
 lifestylemallshop.com
@@ -548,11 +555,13 @@ marveliona.com
 masters-dipl-kfm.de
 maxcapitalkredit.de
 mediaxim.com
+medicalapotheke.com
 megahandel.shop
 mein.lhk.de-plushilfe.com
 meindampf.com
 meindls.at
 meisterkuchen-pro.de
+meistervolt.de
 meldezettel-digital.at
 merveillesdhiver.com
 mhpa.net
@@ -577,6 +586,7 @@ moriaccessoires.com
 mossvibers.com
 motelmio.shop
 moto-discounts-germany.com
+moto-teile24.com
 motorrad-ausstattung.com
 motorradoutfit.com
 motorradteileonline.com
@@ -602,6 +612,7 @@ naturvitalia.com
 nauticspace.com
 nautikbedarf.com
 navirexep.de
+nestleix.com
 nestleovae.com
 nestmypad.com
 neurotweinrabatt.com
@@ -623,6 +634,7 @@ novambients.de
 nqior.shop
 nurioso.com
 nurulamal.com
+nyhead.localdraw.shop
 nyhead.morepush.shop
 oakhabitsy.com
 obstbaumrabatt.com
@@ -840,6 +852,7 @@ trangianverkaufe.com
 tranquildwell.com
 transition-velo.com
 transmarketconssrl.com
+treasureeshop.de
 trendigehandtaschenkaufen.com
 trivanode.com
 truerebuy.com
