@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-04-17
-# Domains: 948
+# Domains: 956
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -58,6 +58,7 @@ aurendal.com
 auriaofficiel.com
 auroradore.com
 auto-handel.org
+autoforum-petersberg.de
 autoforum-schoenau.de
 autoforumoberursel.de
 autoinnendesign.com
@@ -107,6 +108,7 @@ blackdiamond-schweiz.com
 blacktridentpop.shop
 blikeuhij.click
 blizzak.de
+bloemker-holz.de
 blumenshopdeutschland.de
 bose.com.de
 bosen-outdoor.com
@@ -300,6 +302,7 @@ freedomhats.shop
 freiheitcamping.com
 fritz-container-gmbh.de
 fumot-shop.de
+fundfjord.com
 fwertty.shop
 fxrikg.shop
 gaborberlin.com
@@ -365,6 +368,7 @@ hangel-handel.de
 hanwag--schuhe.com
 hardwarewelt.com
 hausdampf.com
+hausmez.de
 hausofvedashop.com
 haustirwelten.de
 hausversand.com
@@ -411,6 +415,7 @@ hipoff.sohat.shop
 historica-collect.com
 hoka--shoes.com
 holz-pellet-bestequalitat.de
+holz-premium.de
 holzdebrenn.com
 holzera.de
 holzhambach.com
@@ -431,6 +436,7 @@ houseofbuys.de
 hunde-katzen.at
 hundebedarfsale.com
 hutdesignherren.com
+hyfen-tech.de
 i-velus.com
 ihljpbdo.shop
 ihreedelmetallprofis.de
@@ -497,6 +503,7 @@ labexholz.de
 labexholzgmbh.de
 lahop.joinpull.shop
 lampenreich.com
+lan-gensalz.de
 lankis-welt.com
 lasportivaoutlet.at
 lasportivaoutlet.de
@@ -669,6 +676,7 @@ ottoelektro.de
 panelaeki.de
 pbm-energy.com
 pedale-onshop.com
+pelletkraft.de
 pelletor.at
 pellets-maschinen.de
 peterjeskouhren.de
