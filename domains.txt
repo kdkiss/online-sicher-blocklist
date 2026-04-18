@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-04-18
-# Domains: 975
+# Domains: 977
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -31,6 +31,7 @@ amsterdamout.store
 andreaswerkstatt.de
 angebote-kauf.de
 anhaenger-geraete.com
+anhangermaschinen.com
 anhangerwagen.com
 animefigureworld.com
 anreutrp.com
@@ -118,6 +119,7 @@ box4container.com
 boxx-container.de
 bozzer.de
 brehn.de
+brenner-berlin.com
 brennholz-anhaenger.de
 brennholzgarten.de
 brennholzhalberstad.com
