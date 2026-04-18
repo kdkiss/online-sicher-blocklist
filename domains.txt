@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
-# Updated: 2026-04-17
-# Domains: 965
+# Updated: 2026-04-18
+# Domains: 975
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -32,6 +32,7 @@ andreaswerkstatt.de
 angebote-kauf.de
 anhaenger-geraete.com
 anhangerwagen.com
+animefigureworld.com
 anreutrp.com
 anuraclo.com
 anwalt-sirrenberg.com
@@ -51,6 +52,7 @@ asflnag.bond
 asfnneghs.cyou
 asfrnagi.beer
 asfrnagi.lat
+at.eeelgnte.shop
 at.irgedvei.shop
 at.llinacrda.shop
 auraterraplaza.com
@@ -118,6 +120,7 @@ bozzer.de
 brehn.de
 brennholz-anhaenger.de
 brennholzgarten.de
+brennholzhalberstad.com
 brennholzhandelnhn.com
 brennholzholzge.com
 brennstoffportal.de
@@ -262,6 +265,7 @@ elektrosde.com
 endlich-gesund.com
 energiepreise24.com
 ergrolabrantnerkg.com
+erzgebirger-uhrwerk.com
 esfimeqss.cfd
 esn-fitness.com
 essensverkaufs.com
@@ -337,6 +341,7 @@ get-ozoori.com
 giesswein.ro
 giessweins.it
 ginatricoeu.shop
+gitarreundklavier.com
 glenkbaustoff.com
 globetrotteroutlet.de
 glowwarehousede.com
@@ -415,6 +420,7 @@ hipoff.iistrike.club
 hipoff.sohat.shop
 historica-collect.com
 hoka--shoes.com
+hoka-schuhe.de
 holz-pellet-bestequalitat.de
 holz-premium.de
 holzdebrenn.com
@@ -779,6 +785,7 @@ senkkopfschraube.com
 sereneify.com
 serenorstock.com
 shelterene.com
+shoessura.com
 shopnory.de
 shoprufe.com
 shopsavehub.com
@@ -879,12 +886,14 @@ uketaonline.net
 unibois-stammholz.com
 unico-studio.com
 upcock.hetouch.shop
+urbanfurnicraft.com
 utilitech-anhaenger.com
 valuedealbox.com
 valuevictor.com
 vamosschuhedamen.com
 vega-energy.de
 vehiclepartmart.com
+velonawarehouse.com
 velozenit.com
 venorital.com
 verdalucina.com
@@ -960,6 +969,7 @@ yonexs.at
 yooofa.com
 yournaturalathlettrading.shop
 yumgs.holdenouterwear.shop
+zaqqshoes.com
 zaubergartenpro.com
 zeigebericht.de
 zenniagoods.com
