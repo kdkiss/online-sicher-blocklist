@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
-# Updated: 2026-04-20
-# Domains: 1094
+# Updated: 2026-04-21
+# Domains: 1122
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -52,6 +52,7 @@ arfinag.icu
 armedangelsoutlet.com
 arms-mall.com
 arnstadter-einkauf.de
+asfinag.sbs
 asfjmeqe.sbs
 asflnag.bond
 asfnneghs.cyou
@@ -81,6 +82,7 @@ babymodepur.com
 babyroom-shop.com
 back-dani.shop
 baer--schuhe.com
+bag-promo.com
 baristadiscount.com
 barzubehoerhaus.com
 bauhobby.com
@@ -135,6 +137,7 @@ brennholz-konig.de
 brennholzgarten.de
 brennholzhalberstad.com
 brennholzhandelnhn.com
+brennholzhoffmich.com
 brennholzholzge.com
 brennstoffportal.de
 brokereins.com
@@ -174,6 +177,7 @@ cdwar.morepush.shop
 cervaluxe.com
 cfdtc.com
 champion.co.at
+chicco.com.de
 chicvo.com
 chimballsas.com
 chippewa--boots.com
@@ -184,6 +188,7 @@ cineluxdeutschland.com
 civ-vertrieb.de
 clashtek.com
 classicdesignoutlet.com
+cleanavio.com
 clearancecrest.com
 clothlve.com
 cloudtritt.de
@@ -207,8 +212,10 @@ csbclo.de
 cschwindt-gmbh.de
 csfmeqv.sbs
 cubeosterreich.at
+cusb4.com
 cv-tech-onlineshop.de
 dachlust.com
+dackeltraum.com
 damenmodetradition.com
 dampfshishahub.com
 dampfzentrale.com
@@ -262,12 +269,14 @@ draussenmenschen.de
 dreamsleepz.de
 drink-horizon.com
 drune.de
+dualtron-scooters.com
 dunstro.shop
 dwellinguse.com
 dyson-de.de
 e-bikermarkt.de
 e-holzgmbh.com
 earljourdier.com
+easylivora.com
 ebikedolomiti.com
 ecobrennholz.de
 ecohabitsy.com
@@ -521,6 +530,7 @@ jonla.shop
 jordanat.at
 jordanmania.de
 jumpft.de
+jutevibers.com
 kaffee-feier.de
 kaffee-glueck.de
 kaffee-liebling.de
@@ -568,6 +578,7 @@ kraus-anwaelte.de
 kreative-zukunft.com
 kreditberatungs.de
 kuchenheim.shop
+kylar.de
 labelparis.com
 labexholz.de
 labexholzgmbh.de
@@ -600,6 +611,8 @@ liport.lowcruise.shop
 liport.manhand.shop
 liquidationstockz.com
 liring.hpattack.shop
+lisft.shop
+lisjo.shop
 living-smarter24.com
 livorentino.com
 liwed.barpalm.shop
@@ -648,6 +661,7 @@ mein.lhk.de-plushilfe.com
 meindampf.com
 meindls.at
 meisterkuchen-pro.de
+meisterschnitt.com
 meistervolt.de
 meldezettel-digital.at
 merveillesdhiver.com
@@ -658,6 +672,7 @@ million-recht.de
 milyenshop.com
 misalena.com
 misterwatch.shop
+mitkindundrad.de
 mml-container.de
 mmtaccessibility.com
 mobelonlineshop24.com
@@ -667,6 +682,7 @@ modeausaugsburg.com
 modellbahnshop-club.shop
 moebel-onlineshop.com
 moebelcenterremscheid.de
+moebelgutlager.com
 moebelpunkt.com
 moebelundgarten.com
 moedllbahnlippe.shop
@@ -684,6 +700,7 @@ mounjaflow.de
 mto-service.com
 muersi.com
 mundinhoabc.com
+musik-laden.com
 musikinstrumente-profi.com
 musikprofi.com
 musikstudiobox.com
@@ -728,9 +745,11 @@ novambients.de
 nqior.shop
 nurioso.com
 nurulamal.com
+nuxifuland.shop
 nyhead.bookfocus.surf
 nyhead.localdraw.shop
 nyhead.morepush.shop
+oakgetloft.com
 oakhabitsy.com
 obstbaumrabatt.com
 oelbonus.de
@@ -759,11 +778,14 @@ oneact.workscap.shop
 onlinemusikinstrumente.com
 onrunning-at.myshoplaza.com
 optimisticoffer.com
+oralb-austria.com
 orlidelo.com
 ortovoxs.de
 osternbackenverkaufsshop.com
+oswald-juergens24.de
 otiumvr.com
 ottoelektro.de
+outaim.herate.shop
 outdoorerfahrung.com
 ovalestore.com
 panelaeki.de
@@ -818,6 +840,7 @@ rafso.tovy.shop
 raiffeisen-gewinn.vip
 rasenstolz.com
 ratataur.com
+raumduftpflegebedarf.com
 rawtop.foodarray.shop
 rawtop.morepush.shop
 rechtsanwalt-sirrenberg.de
@@ -873,6 +896,7 @@ schoeppe-heizoel.de
 schraubheld24.de
 schuhebaer.com
 schuhhaus-greten.de
+schultefashion.com
 schwedler-apotheken.de
 scimonge.com
 scoterwelt.shop
@@ -886,6 +910,7 @@ shoprufe.com
 shopsavehub.com
 shopunivers.de
 sieundihn.de
+simikj.com
 simonbois.de
 singlespeedde.com
 sixgun.datevote.shop
@@ -909,6 +934,7 @@ solanix.de
 solarmik.de
 solarmira.de
 soltect.de
+sotruck-partners.com
 spezialwerkzeug-profi.com
 spiegellhaus.de
 spielbank-badenwurttemberg.de
@@ -945,6 +971,7 @@ teamstryk.de
 techhomede.com
 teeto.de
 telekom-dresden.de
+tencap.herate.shop
 teveoproducts.com
 theexplorerco.com
 thehandtoolauto.com
@@ -1020,6 +1047,7 @@ villause.com
 vingeneral.com
 vintedreselling.eu
 vitanourishhub.com
+vivaharmoni.com
 vivohogarvida.com
 voigtklimaanlage.com
 volkeep.de
