@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-04-21
-# Domains: 1122
+# Domains: 1125
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -513,8 +513,10 @@ immobilien-verwaltung-walter.de
 imperial-hamburg.de
 inglesinas.de
 interarino.com
+interiorene.com
 ipuroangebote.com
 irina-liebmann.de
+isabellazce.de
 issamtransports.com
 it2-use.de
 iuwaqlbm.shop
@@ -781,6 +783,7 @@ optimisticoffer.com
 oralb-austria.com
 orlidelo.com
 ortovoxs.de
+osiris.com.de
 osternbackenverkaufsshop.com
 oswald-juergens24.de
 otiumvr.com
