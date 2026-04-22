@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
-# Updated: 2026-04-21
-# Domains: 1125
+# Updated: 2026-04-22
+# Domains: 1135
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -405,6 +405,7 @@ graf-wien.com
 granderioam.com
 greentrimmer.de
 grillen-shop.com
+grillterrasse.com
 grillzentrum.com
 groupeferroignis.com
 groupeshf.com
@@ -548,6 +549,7 @@ kathielpe.de
 kaufen-vignette.shop
 kaufhaustier.com
 kaufwonne.com
+kazoomba.com
 kbetake.com
 kellerspirit.com
 keramikkde.pro
@@ -611,6 +613,7 @@ liport.estclose.shop
 liport.evenfix.shop
 liport.lowcruise.shop
 liport.manhand.shop
+lippenrot.com
 liquidationstockz.com
 liring.hpattack.shop
 lisft.shop
@@ -672,6 +675,7 @@ michel-auto-concpt.com
 midwayschiesspulver.de
 million-recht.de
 milyenshop.com
+mintechh.com
 misalena.com
 misterwatch.shop
 mitkindundrad.de
@@ -702,6 +706,7 @@ mounjaflow.de
 mto-service.com
 muersi.com
 mundinhoabc.com
+musicgearcenter.com
 musik-laden.com
 musikinstrumente-profi.com
 musikprofi.com
@@ -779,6 +784,7 @@ oneact.testflag.click
 oneact.workscap.shop
 onlinemusikinstrumente.com
 onrunning-at.myshoplaza.com
+oonowa.myshopify.com
 optimisticoffer.com
 oralb-austria.com
 orlidelo.com
@@ -790,6 +796,7 @@ otiumvr.com
 ottoelektro.de
 outaim.herate.shop
 outdoorerfahrung.com
+outdoorwarenhaus.com
 ovalestore.com
 panelaeki.de
 pbm-energy.com
@@ -943,6 +950,7 @@ spiegellhaus.de
 spielbank-badenwurttemberg.de
 spielwaren-tonies.com
 spikonig.de
+sportanwaelte.de
 sportgearde.com
 sportopath.de
 sprinttosave.com
@@ -981,6 +989,7 @@ thehandtoolauto.com
 theisentransports.com
 thenorthfacedeutschland.com
 theuniquebargains.com
+thiamtransports.com
 thriftfolio.com
 thule-familien.de
 tickgreen.net
@@ -1115,6 +1124,7 @@ xxxxlutz.shop
 yonexs.at
 yooofa.com
 yournaturalathlettrading.shop
+ythebyre.top
 yumgs.holdenouterwear.shop
 zaballde.com
 zaqqshoes.com
