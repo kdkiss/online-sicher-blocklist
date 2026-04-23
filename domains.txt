@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
-# Updated: 2026-04-22
-# Domains: 1135
+# Updated: 2026-04-23
+# Domains: 1154
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -19,6 +19,7 @@ affordableuniquepro.shop
 agebob.dehorse.shop
 agrarbedarfshop.com
 agriandindusupply.com
+agriservice640.com
 ai-energy.net
 aicheleholzgmbh.de
 air-uposterreich.at
@@ -198,11 +199,13 @@ comercialandrea.cl
 comme-des-garcons.co.at
 computerpartsglobal.com
 containercargo.shop
+containerdienstheiliggmbh.de
 conteneursducoin.com
 controllerkunst.com
 cookvibegear.com
 coolgin.com
 coregarment.com
+cottanest.com
 craftoliq.com
 crazyunbelieavablefunnel.com
 crcmfcsb.shop
@@ -225,6 +228,7 @@ das-feel-natural.de
 das-montessori-spielzeug.de
 dasoo.de
 davesbiomarkt.de
+dayoner.com
 de-frilufts.com
 de-musicshop.com
 deal-aktion.de
@@ -310,6 +314,7 @@ eu.stanlyss1913.com
 eufinancetechtoday.com
 eurltddiffusion.com
 eurodeals-store.shop
+eurometal-structure.com
 europe-pack.eu
 europellet.at
 eusportsequipment.it.com
@@ -344,6 +349,7 @@ formeri.shop
 frankfurteintrachtshop.com
 freedomhats.shop
 freiheitcamping.com
+freshelino.com
 fritz-container-gmbh.de
 fumot-shop.de
 fundfjord.com
@@ -476,6 +482,7 @@ historica-collect.com
 hohlfeldt-garten.de
 hoka--shoes.com
 hoka-schuhe.de
+holz-hambach.com
 holz-pellet-bestequalitat.de
 holz-premium.de
 holzdebrenn.com
@@ -520,6 +527,7 @@ irina-liebmann.de
 isabellazce.de
 issamtransports.com
 it2-use.de
+itisrainvintage.com
 iuwaqlbm.shop
 ivfile.hpattack.shop
 jardinovano.com
@@ -571,6 +579,7 @@ klimakaelteprofi.com
 klonl.shop
 klots.shop
 knusperwelt.com
+kobsarwelpen.de
 kochand.com
 kochhand.com
 kogenheimholz.com
@@ -578,6 +587,7 @@ komponentende.com
 konigmode.de
 koochand.com
 kosecikva.com
+kraftdesweins.com
 kraus-anwaelte.de
 kreative-zukunft.com
 kreditberatungs.de
@@ -601,6 +611,7 @@ lekisports.com
 lescocosecolos.com
 let-glam.com
 lgglegrandgroupe.com
+lidlhh.shop
 lidnz.shop
 lidou.shop
 liehrforstholz.de
@@ -624,6 +635,7 @@ liwed.barpalm.shop
 lmfmotoculture.com
 lmvae.shop
 lmzvay.shop
+locajardin.com
 localgermany.de
 loewedeutschland.de
 loopearplugs.at
@@ -651,6 +663,7 @@ m.kaufjoy.de
 m.sakerplus.de
 mahershop24.com
 major-agentur.de
+marcuweklingboutique.shop
 marialina-juwelen.de
 marineausstattung.com
 markierskibindungen.com
@@ -703,11 +716,13 @@ motorrad-ausstattung.com
 motorradoutfit.com
 motorradteileonline.com
 mounjaflow.de
+mtbandroad.com
 mto-service.com
 muersi.com
 mundinhoabc.com
 musicgearcenter.com
 musik-laden.com
+musikgarage.com
 musikinstrumente-profi.com
 musikprofi.com
 musikstudiobox.com
@@ -745,6 +760,7 @@ nizle.shop
 nkd-store.com
 nloia.shop
 nofish.org
+nokimoon.shop
 nordic-pellets.de
 nordoil.de
 notenglanz.com
@@ -913,6 +929,7 @@ scoterwelt.shop
 senkkopfschraube.com
 sereneify.com
 serenorstock.com
+sgtruffe.com
 shelterene.com
 shoessura.com
 shopnory.de
@@ -969,6 +986,8 @@ strobllandmaschinen.de
 stydpueb.club
 suchsnow.com
 sundaynaturalshop.de
+superfitstores.com
+superoutletshopsuomi.com
 supersavehub.com
 supplierseu.com
 swarovskiclub.myshoplaza.com
