@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
-# Updated: 2026-04-23
-# Domains: 1154
+# Updated: 2026-04-24
+# Domains: 1173
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -84,6 +84,7 @@ babyroom-shop.com
 back-dani.shop
 baer--schuhe.com
 bag-promo.com
+balkongluck.com
 baristadiscount.com
 barzubehoerhaus.com
 bauhobby.com
@@ -126,6 +127,7 @@ blikeuhij.click
 blizzak.de
 bloemker-holz.de
 blumenshopdeutschland.de
+booxshop.de
 bose.com.de
 bosen-outdoor.com
 box4container.com
@@ -180,6 +182,7 @@ cfdtc.com
 champion.co.at
 chicco.com.de
 chicvo.com
+childeducationalshop.com
 chimballsas.com
 chippewa--boots.com
 chxskfar.shop
@@ -205,6 +208,7 @@ controllerkunst.com
 cookvibegear.com
 coolgin.com
 coregarment.com
+cosmeticshopcenter.com
 cottanest.com
 craftoliq.com
 crazyunbelieavablefunnel.com
@@ -267,6 +271,7 @@ diezeitmitmedien.com
 direktbericht.de
 diybuildsupplies.com
 dly-home.com
+dokumentenkaufen.eu
 domuslumi.com
 don-art.de
 draussenmenschen.de
@@ -325,10 +330,12 @@ exrock.morepush.shop
 fahrradbulls.com
 fahrradhandel-alf.de
 fahrradhandel-daempfle.de
+fahrradhandel-koumagnon.de
 fahrradhandel-martin.de
 fahrradhandel-rothbart.de
 fahrtechnikteile.com
 familienzug.ch
+fanskicke.com
 fastenergy24.com
 fatfax.wantbrand.shop
 fc-moto-vip.com
@@ -419,6 +426,7 @@ gtsusa.net
 gutmotorradteile.com
 habitataro.com
 habitatero.com
+habitatovae.com
 habitatsoleil.com
 hackmann-heizoel.de
 hadiahslotlogin.com
@@ -426,6 +434,7 @@ hahncontainer.de
 halloweendekoration.com
 handtholzhandelgmbh.de
 hangel-handel.de
+hans-engelke-energie.de
 hanwag--schuhe.com
 hardloverz.com
 hardwarewelt.com
@@ -496,6 +505,7 @@ holzwerks.de
 homekitchensupplymart.com
 homeofficeradar.de
 homeoliq.vom
+homersport.de
 homesupplyonweb.com
 homilivi.com
 horizontix.de
@@ -522,6 +532,7 @@ imperial-hamburg.de
 inglesinas.de
 interarino.com
 interiorene.com
+iptvanbieter.at
 ipuroangebote.com
 irina-liebmann.de
 isabellazce.de
@@ -555,6 +566,7 @@ kartsportzubehoer.com
 kastner-oehler-de.com
 kathielpe.de
 kaufen-vignette.shop
+kaufhaushamburg.com
 kaufhaustier.com
 kaufwonne.com
 kazoomba.com
@@ -612,6 +624,7 @@ lescocosecolos.com
 let-glam.com
 lgglegrandgroupe.com
 lidlhh.shop
+lidlpp.shop
 lidnz.shop
 lidou.shop
 liehrforstholz.de
@@ -722,6 +735,7 @@ muersi.com
 mundinhoabc.com
 musicgearcenter.com
 musik-laden.com
+musik-planet.com
 musikgarage.com
 musikinstrumente-profi.com
 musikprofi.com
@@ -760,6 +774,7 @@ nizle.shop
 nkd-store.com
 nloia.shop
 nofish.org
+nofs.online
 nokimoon.shop
 nordic-pellets.de
 nordoil.de
@@ -822,6 +837,7 @@ pelletkraft.de
 pelletor.at
 pellets-maschinen.de
 peterjeskouhren.de
+peterkenkelgruppe.de
 petroya.de
 pfeilearmbruste.com
 pinggona.de
@@ -970,6 +986,7 @@ spikonig.de
 sportanwaelte.de
 sportgearde.com
 sportopath.de
+sprengler-direkt.de
 sprinttosave.com
 standesamt-portal.de
 starkwerkzeug.de
@@ -1077,6 +1094,7 @@ vifelt.workscap.shop
 villause.com
 vingeneral.com
 vintedreselling.eu
+vinylrecordmall.com
 vitanourishhub.com
 vivaharmoni.com
 vivohogarvida.com
@@ -1110,6 +1128,7 @@ weinekaufen.com
 weinfreunoutlet.com
 wellott.com
 wellunora.com
+welpentraum.de
 werke-anhangers.com
 werkerswelt-moelln.de
 werkzeug-brandl.com
