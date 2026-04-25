@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
-# Updated: 2026-04-24
-# Domains: 1173
+# Updated: 2026-04-25
+# Domains: 1182
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -10,6 +10,7 @@
 aatrailers.de
 abodeare.com
 abodeena.com
+abodeene.com
 acmesalehvqm.click
 ad.toygzv.shop
 adilizzz2748.mfuvis.shop
@@ -726,6 +727,7 @@ moto-discounts-germany.com
 moto-teile24.com
 motor-wagner.de
 motorrad-ausstattung.com
+motorradking.com
 motorradoutfit.com
 motorradteileonline.com
 mounjaflow.de
@@ -778,6 +780,7 @@ nofs.online
 nokimoon.shop
 nordic-pellets.de
 nordoil.de
+norvahaus.de
 notenglanz.com
 novambients.de
 nqior.shop
@@ -854,6 +857,7 @@ plazuna.com
 plushroomdesign.com
 pmtree.lowcruise.shop
 polluxer.com
+poolfreunde.com
 poweromasch.shop
 preiswertoutdoor.com
 prestige-container.com
@@ -988,6 +992,7 @@ sportgearde.com
 sportopath.de
 sprengler-direkt.de
 sprinttosave.com
+srylab.bio
 standesamt-portal.de
 starkwerkzeug.de
 steeg-handel.de
@@ -1055,6 +1060,7 @@ tranquildwell.com
 transition-velo.com
 transmarketconssrl.com
 treasureeshop.de
+treemexholz.de
 trendigehandtaschenkaufen.com
 trivanode.com
 truerebuy.com
@@ -1129,8 +1135,10 @@ weinfreunoutlet.com
 wellott.com
 wellunora.com
 welpentraum.de
+werkbedarf24.de
 werke-anhangers.com
 werkerswelt-moelln.de
+werkora-industrial.com
 werkzeug-brandl.com
 werkzeug-und-maschinen.com
 werkzeugbrandl.com
@@ -1146,6 +1154,7 @@ wikfinal.shop
 wildblumenparadies.de
 wildcatchco.com
 wildlingschuhede.com
+wilkesarahwelpen.de
 willintter.shop
 wilson.co.at
 winmauvip.store
