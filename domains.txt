@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-04-27
-# Domains: 1434
+# Domains: 1444
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -279,6 +279,7 @@ bidmask.com
 bienenstock-potsdam.com
 bike-components-de.com
 bike-trailer24.de
+bikeboys-onlineshop.de
 bikeproshops.com
 bikeskraft.de
 bikezubehoershop.com
@@ -501,6 +502,7 @@ esfimeqss.cfd
 esn-fitness.com
 essensverkaufs.com
 essentials-osterreich.at
+etkick.de
 ettern24.de
 eu.stanlyss1913.com
 eufinancetechtoday.com
@@ -578,6 +580,7 @@ gelschuhe.de
 gentlecycle.net
 geometrichome.com
 geraetedoc.com
+gerhard-tremmel.de
 gerlinelshop.com
 germalls-garten.de
 germanfishinggear.com
@@ -644,6 +647,7 @@ haustirwelten.de
 hausversand.com
 healththrivewith.com
 heidel-heizoel.de
+heidi-mode.de
 heimguts.shop
 heiseno.de
 heizdirekt.de
@@ -925,6 +929,7 @@ mn.magazinmodern.de
 mobelonlineshop24.com
 mobilitaetsnation.de
 mobilixpro.com
+mobixstore.com
 modeausaugsburg.com
 modellbahnshop-club.shop
 moebel-onlineshop.com
@@ -1092,6 +1097,7 @@ qavelo.com
 qcificspez.club
 qinero.com
 qrvawuep.shop
+quadrals.de
 qualitatsdampf.com
 qubira.shop
 radrudel.de
@@ -1099,6 +1105,7 @@ radselect.de
 radtrikottourdefrance.de
 rafso.tovy.shop
 raiffeisen-gewinn.vip
+ranari.de
 rasenstolz.com
 ratataur.com
 raumduftpflegebedarf.com
@@ -1337,6 +1344,7 @@ volkeep.de
 volkswagen-fahrzeuge.de
 volthausgeraete.de
 vorwerk-de.com
+vorwerk-deutschland.de
 vynxaria.com
 wacoo.de
 wacooball.com
@@ -1358,6 +1366,7 @@ watchcod-ca.shop
 watchcod-hr.shop
 watchcod-nz.shop
 waterdrop-osterreich.at
+wearbreeze.de
 weber-motorrad.com
 weikershem.de
 weinekaufen.com
@@ -1378,6 +1387,7 @@ werkzeugdiscount.com
 werkzeuge-maschinen.com
 werkzeugeholz.de
 werkzeugemaschinen.com
+werner-ringle.com
 westex-handel.de
 wfh-markt.de
 wieburg-handel.de
