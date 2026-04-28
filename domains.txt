@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-04-28
-# Domains: 1468
+# Domains: 1476
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -407,6 +407,8 @@ cusb8.com
 cv-tech-onlineshop.de
 dachlust.com
 dackeltraum.com
+dagewan.com
+dailylifeyouth.de
 damenmodetradition.com
 dampfshishahub.com
 dampfzentrale.com
@@ -417,6 +419,7 @@ das-montessori-spielzeug.de
 dasoo.de
 davesbiomarkt.de
 dayoner.com
+ddccon.de
 de-frilufts.com
 de-musicshop.com
 deal-aktion.de
@@ -438,6 +441,7 @@ dekorations-o-grod.de
 dekorativeholzprodukte.com
 delecato.de
 derkundenclub.com
+dermavitalglow.com
 dertagesreport.com
 desportartikelrabatt.com
 deutchshop24.de
@@ -449,6 +453,7 @@ dewello-shop.de
 dexer-handel.de
 dexoraoutlet.com
 dexxxlutz.shop
+dghpts.com
 diag-wagen.de
 diana-apotheke.com
 diesel-outlet.de
@@ -632,6 +637,7 @@ grillzentrum.com
 groupeferroignis.com
 groupeshf.com
 gtsusa.net
+gueta-handel.de
 gutmahroboter.myshopify.com
 gutmotorradteile.com
 habitataro.com
@@ -714,6 +720,7 @@ holzkerssenbrock.de
 holzlangbau.de
 holzsofort.de
 holzundwerkzeug-bestequalitat.de
+holzwerkeharz.de
 holzwerks.de
 homekitchensupplymart.com
 homeofficeradar.de
@@ -733,6 +740,7 @@ hundebedarfsale.com
 hutdesignherren.com
 hyfen-tech.de
 i-velus.com
+ie-audit.com
 ihljpbdo.shop
 ihreedelmetallprofis.de
 ihrrasentraktor.com
