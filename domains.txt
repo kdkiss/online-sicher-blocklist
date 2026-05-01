@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
-# Updated: 2026-04-30
-# Domains: 1514
+# Updated: 2026-05-01
+# Domains: 1532
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -47,6 +47,7 @@ adidasyeezyboost.de
 adilizzz2748.mfuvis.shop
 adl.iuvxvo.shop
 adl.lreubk.shop
+adl.zixoko.shop
 admotours.de
 adolar-tech.de
 adorecosyshoes.com
@@ -398,6 +399,7 @@ coolgin.com
 coregarment.com
 cosanne-baumarkt.com
 cosmeticshopcenter.com
+cottagoshop.com
 cottanest.com
 craftoliq.com
 crazyunbelieavablefunnel.com
@@ -436,6 +438,7 @@ dealballad.com
 dealcourier.com
 dealmeadow.com
 deangelnshop.com
+decohousely.com
 decokento.com
 decorlivio.com
 degartenpflanzen.com
@@ -446,6 +449,7 @@ degussa-page.de
 degussa-store.de
 degussagold-handel.de
 degussaonline.de
+dekoartikelrabatt.de
 dekorations-o-grod.de
 dekorativeholzprodukte.com
 delecato.de
@@ -566,6 +570,7 @@ ferplasthaustierbedarf.com
 festgeld-finder.de
 fideltylife.com
 finalatransports.com
+finca-selection.com
 flexsugges.com
 flixyshop.com
 flora-markt.de
@@ -624,6 +629,7 @@ get-nuro.com
 get-omnihear.com
 get-ozoori.com
 giesswein.ro
+giessweinno.com
 giessweins.it
 ginatricoeu.shop
 gitarreundklavier.com
@@ -844,6 +850,7 @@ klimabonus2026.at
 klimakaelteprofi.com
 klonl.shop
 klots.shop
+km-baumarkt.de
 knusperwelt.com
 kobsarwelpen.de
 kochand.com
@@ -931,6 +938,7 @@ lunaxadv.myshopify.com
 luxeblissliving.com
 luxecycleshop.com
 luxeshopcart.com
+luxevibehub.com
 luxurioserstil.com
 lxcvt.shop
 m.kaufjoy.de
@@ -950,6 +958,7 @@ masters-dipl-kfm.de
 maxcapitalkredit.de
 mediaxim.com
 medicalapotheke.com
+meetdo.waraid.shop
 megahandel.shop
 mein.lhk.de-plushilfe.com
 meindampf.com
@@ -973,6 +982,7 @@ mml-container.de
 mmtaccessibility.com
 mn.magazinmodern.de
 mobelonlineshop24.com
+mobetrix.com
 mobilitaetsnation.de
 mobilixpro.com
 mobixstore.com
@@ -1027,6 +1037,7 @@ navirexep.de
 nestleix.com
 nestleovae.com
 nestmypad.com
+nestscapehub.com
 neuertm7-vorwerk.com
 neurotweinrabatt.com
 neutoniesrabatt.com
@@ -1129,6 +1140,7 @@ plushroomdesign.com
 pmtree.lowcruise.shop
 polluxer.com
 poolfreunde.com
+pooloase.shop
 poweromasch.shop
 preiswertoutdoor.com
 prestige-container.com
@@ -1217,6 +1229,7 @@ savewharf.com
 schaltwerkfahrrad.de
 scheideckerholz.com
 schmidmodesalzburg.de
+schmidtiefbaugmbh.de
 schmidts-handel.de
 schoeppe-heizoel.de
 schraubheld24.de
@@ -1258,6 +1271,7 @@ snowhow.shop
 snugist.com
 soccerssp.com
 softdays-shop.de
+solagoshop.de
 solamira.de
 solanik.de
 solanix.de
@@ -1288,6 +1302,7 @@ stelonira.com
 steyrtracteursgmbh.at
 stilhausfreiburg.com
 stoicdraussen.com
+store.savemarketed.com
 story-news.com
 strafverteidigerbuero-dortmund.de
 strahlwerk24.com
@@ -1352,6 +1367,7 @@ trangianverkaufe.com
 tranquildwell.com
 transition-velo.com
 transmarketconssrl.com
+transportwelt.com
 treasureeshop.de
 treemexholz.de
 trendigehandtaschenkaufen.com
@@ -1376,6 +1392,7 @@ upbikewinner.com
 upcock.hetouch.shop
 urbanfurnicraft.com
 urbangrowde.com
+urbanvibesretreat.com
 urhenwchmuckrosel.de
 utilitech-anhaenger.com
 valuedealbox.com
@@ -1431,6 +1448,7 @@ watchcod-ca.shop
 watchcod-hr.shop
 watchcod-nz.shop
 waterdrop-osterreich.at
+wattpionier.de
 wearbreeze.de
 weber-motorrad.com
 weikershem.de
