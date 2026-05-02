@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-02
-# Domains: 1533
+# Domains: 1536
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -969,6 +969,7 @@ meisterschnitt.com
 meistervolt.de
 mekura.de
 meldezettel-digital.at
+merrelloutletonline.de
 merveillesdhiver.com
 mhpa.net
 michel-auto-concpt.com
@@ -1208,6 +1209,7 @@ rs-remorque.com
 runecasa.com
 rzpellet.at
 saalebrennholz.de
+sakerwerkzeuge.de
 salevenum-eu.com
 salewa-cz-2026.myshoplaza.com
 salomons.co.at
@@ -1263,6 +1265,7 @@ slimvitax.com
 slowburner.de
 smart2trade.de
 smartcookgear.com
+smitdeals.de
 smtoygalaxy.com
 snckhor-materiaux.com
 sneakers-metzingen.de
