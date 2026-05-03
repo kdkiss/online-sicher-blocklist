@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-03
-# Domains: 1732
+# Domains: 1733
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -167,6 +167,7 @@ apotheke-ratgh-heumar.de
 apotheken-im-center.de
 apothekeohnerezept.de
 apparelhardware.com
+apple-pay-casino.de
 appleeden.de
 appleofedenshoes.shop
 apricoit.com
