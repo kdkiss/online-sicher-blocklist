@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-03
-# Domains: 1538
+# Domains: 1539
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -1296,6 +1296,7 @@ sprengler-direkt.de
 sprinttosave.com
 srylab.bio
 standesamt-portal.de
+stanleydeutschlandshop.de
 staplerbatterien.de
 starkwerkzeug.de
 steeg-handel.de
