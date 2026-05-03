@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-03
-# Domains: 1733
+# Domains: 1734
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -571,6 +571,7 @@ ehspelletsgmbh.de
 einfach-oel.com
 einfachlagerverwaltung.de
 ekzsale.shop
+elbperspektive.de
 elbtal-kids.de
 electrikbbq.com
 electro-redeker.de
