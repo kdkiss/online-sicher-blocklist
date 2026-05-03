@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-03
-# Domains: 1536
+# Domains: 1538
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -460,6 +460,7 @@ designoliq.com
 desportartikelrabatt.com
 deutchshop24.de
 deutschebapotheke.net
+deutschegadgetmarkt.de
 deutschersammlerschatz.com
 deutsches-gut.de
 deutschlandtv-4k.de
@@ -1402,6 +1403,7 @@ utilitech-anhaenger.com
 valuedealbox.com
 valuevictor.com
 vamosschuhedamen.com
+vasmoebel.de
 vega-energy.de
 vehiclepartmart.com
 velonawarehouse.com
