@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-03
-# Domains: 1539
+# Domains: 1540
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -738,6 +738,7 @@ hoka-schuhe.de
 holz-hambach.com
 holz-pellet-bestequalitat.de
 holz-premium.de
+holz-werkstatt-wagner.de
 holzdebrenn.com
 holzera.de
 holzgartenprofi.de
