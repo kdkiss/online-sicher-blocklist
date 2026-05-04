@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-04
-# Domains: 1748
+# Domains: 1749
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -696,6 +696,7 @@ gartenpools24.de
 gartenschoner.com
 gartenundanhaenger.de
 gascovert.com
+gastromore.de
 gcash-casino-ph.com
 gebrauchtwagengarching-sixt.de
 gelschuhe.de
