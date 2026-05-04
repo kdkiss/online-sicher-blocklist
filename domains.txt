@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-04
-# Domains: 1749
+# Domains: 1751
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -535,6 +535,7 @@ diseasy.shop
 diybuildsupplies.com
 djawad-razek.de
 dly-home.com
+doinvitletter.de
 dokumentenkaufen.eu
 domuslumi.com
 don-art.de
@@ -618,6 +619,7 @@ exrock.morepush.shop
 fahrrad-hess.de
 fahrradbulls.com
 fahrradcitat.de
+fahrradco.de
 fahrradhandel-alf.de
 fahrradhandel-daempfle.de
 fahrradhandel-koumagnon.de
