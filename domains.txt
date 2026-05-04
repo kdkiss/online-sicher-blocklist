@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-04
-# Domains: 1739
+# Domains: 1740
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -1478,6 +1478,7 @@ starkwerkzeug.de
 statz-haushaltprodukte.de
 steeg-handel.de
 steelseries.com.de
+steigerungderpotenz.de
 steinberg-munchen.com
 steinhaus-berlin.co
 steinkamp-container.com
