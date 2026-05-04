@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-04
-# Domains: 1740
+# Domains: 1742
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -544,6 +544,7 @@ drink-horizon.com
 drune.de
 dualtron-scooters.com
 dunstro.shop
+dw-energieholz.de
 dwellinguse.com
 dwellivory.com
 dyson-de.de
@@ -934,6 +935,7 @@ karnevalkostum.com
 kartsportzubehoer.com
 kastner-oehler-de.com
 kathielpe.de
+katzenzeithavelland.de
 kaufdesch.myshoplaza.com
 kaufen-vignette.shop
 kaufhaus-pankratz.com
