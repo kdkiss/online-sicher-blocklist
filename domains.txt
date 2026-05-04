@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-04
-# Domains: 1735
+# Domains: 1737
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -312,6 +312,7 @@ bikeproshops.com
 bikeskraft.de
 bikezubehoershop.com
 billiggarten.com
+billigmoebel.de
 birnbaumholz.de
 bitloonx.de
 blackdiamond-schweiz.com
@@ -1415,6 +1416,7 @@ serenorstock.com
 sgtruffe.com
 shelterene.com
 shoessura.com
+shopdeutschepost.de
 shopnory.de
 shoprufe.com
 shopsavehub.com
