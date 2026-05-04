@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-04
-# Domains: 1737
+# Domains: 1739
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -287,6 +287,7 @@ bergwanderbase.com
 bergwerkpunk.com
 berichtkfz.de
 berichtprofi.de
+berliner-gartenservice.de
 berlinmusicscores.com
 berlinrideservice.com
 bertone-werkzeugbau.de
@@ -1548,6 +1549,7 @@ topeat.morepush.shop
 topeat.smallfall.shop
 topelectronicshop.com
 topfelite.shop
+topgartenservice.de
 topmachinestore.com
 topmedicalaestheticsde.com
 topskiequipmentde.com
