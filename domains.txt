@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-05
-# Domains: 1785
+# Domains: 1788
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -644,6 +644,7 @@ fakegoldengoose.net
 familienzug.ch
 fanskicke.com
 fastenergy24.com
+faszinationholz-salzmann.de
 fatfax.wantbrand.shop
 fc-moto-vip.com
 feelgoodcamper24.de
@@ -1155,6 +1156,7 @@ moebelfertigung-sandig.de
 moebelgutlager.com
 moebelpunkt.com
 moebelundgarten.com
+moebelwunerland.de
 moedllbahnlippe.shop
 montblancsale.de
 moriaccessoires.com
@@ -1638,6 +1640,7 @@ vamosschuhedamen.com
 vanguarddetailco.com
 vasmoebel.de
 vega-energy.de
+veganmarkt-kiel.de
 vehiclepartmart.com
 velonawarehouse.com
 velozenit.com
