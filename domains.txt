@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-05
-# Domains: 1790
+# Domains: 1794
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -930,6 +930,7 @@ jon-balkanshop.de
 jonla.shop
 jordanat.at
 jordanmania.de
+jufahotels.de
 jumpft.de
 jutevibers.com
 kaercherde.shop
@@ -965,6 +966,7 @@ kaufwonne.com
 kazoomba.com
 kbetake.com
 kdpjzbsm.shop
+kedros-zeklant.de
 kellerspirit.com
 keramikkde.pro
 keyom.de
@@ -1531,6 +1533,7 @@ story-news.com
 strafverteidigerbuero-dortmund.de
 strahlwerk24.com
 striegel-k-containers.de
+strittmatter-versicherung.de
 strobllandmaschinen.de
 studioherr.com
 studiosflora.de
@@ -1628,6 +1631,7 @@ unibetcasinomt.xyz
 unibois-stammholz.com
 unico-studio.com
 unqloutlet.shop
+unternehmensberatung-donau.de
 up2sales.de
 upbikewinner.com
 upcock.hetouch.shop
