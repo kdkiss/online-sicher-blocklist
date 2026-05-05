@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
-# Updated: 2026-05-04
-# Domains: 1751
+# Updated: 2026-05-05
+# Domains: 1780
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -83,6 +83,7 @@ akrostichon.at
 aktion-motorrad.de
 alakar.de
 alarmrabatt.de
+albimo.shop
 albrechts-handel.de
 alcufee.de
 aldo.co.at
@@ -136,6 +137,7 @@ angebote-kauf.de
 angela-cosmetics.de
 angoraberlin.de
 anhaenger-geraete.com
+anhaengerkreuter.com
 anhanger-automarkt.com
 anhangermaschinen.com
 anhangerwagen.com
@@ -248,6 +250,7 @@ automania-sw.com
 autosbios.com
 autoteilejetzt.com
 autozubehormarkt.com
+auwaldbio-de.com
 avemiosolutions.com
 awo-baumarkt.de
 baboktransports.com
@@ -291,6 +294,7 @@ berichtprofi.de
 berliner-gartenservice.de
 berlinmusicscores.com
 berlinrideservice.com
+berma-shop.com
 bertone-werkzeugbau.de
 bestandigwert.com
 beste-anhaenger.de
@@ -376,6 +380,7 @@ carculturein.com
 carteloshop.com
 cartsaga.com
 casaeternaluz.com
+casaivora.com
 cashmerancing.com
 casualstore77.de
 cbtec4you.de
@@ -547,6 +552,7 @@ drune.de
 dualtron-scooters.com
 dunstro.shop
 dw-energieholz.de
+dwellgallery.com
 dwellinguse.com
 dwellivory.com
 dyson-de.de
@@ -575,13 +581,16 @@ ehfzhepg.shop
 ehspelletsgmbh.de
 einfach-oel.com
 einfachlagerverwaltung.de
+einzigartigetaschen.com
 ekzsale.shop
 elbperspektive.de
 elbtal-kids.de
 electrikbbq.com
 electro-redeker.de
 elektrodan.com
+elektrokueche.de
 elektrosde.com
+elektrotech24.de
 elwenkoffer.de
 elwenrimowa.de
 elyvanedepot.com
@@ -617,6 +626,7 @@ expressbrennholz.de
 exrock.foodarray.shop
 exrock.morepush.shop
 fahrrad-hess.de
+fahrradanhaenger-freilauf.de
 fahrradbulls.com
 fahrradcitat.de
 fahrradco.de
@@ -776,6 +786,7 @@ hans-engelke-energie.de
 hanwag--schuhe.com
 haoqiebike.de
 hardloverz.com
+hardwarestorede.com
 hardwarewelt.com
 haus-kaufen-istrien.de
 hausdampf.com
@@ -862,6 +873,7 @@ homeoliq.vom
 homersport.de
 homesupplyonweb.com
 homilivi.com
+homiuppad.com
 horizontix.de
 hotbikede.com
 hotcarmodificationparts.com
@@ -948,6 +960,7 @@ kaufhaustier.com
 kaufwonne.com
 kazoomba.com
 kbetake.com
+kdpjzbsm.shop
 kellerspirit.com
 keramikkde.pro
 keyom.de
@@ -956,6 +969,7 @@ kh-heizol.de
 kindergarten-supplies.com
 kindergartenpaedergogik.de
 kinderlichtblicke.de
+kingswella.com
 kirchner-rechtsanwaelte.de
 kirschservices.de
 kitchenfives.myshopify.com
@@ -1018,6 +1032,7 @@ lidnz.shop
 lidou.shop
 liehrforstholz.de
 lifestylemallshop.com
+lightantra.com
 likdl.shop
 likds.shop
 likitter.shop
@@ -1040,6 +1055,7 @@ lmzvay.shop
 locajardin.com
 localgermany.de
 loewedeutschland.de
+loftmyhub.com
 lola58.myshopify.com
 loopearplugs.at
 loopearplugsosterreich.com
@@ -1092,6 +1108,7 @@ medicalonlines.com
 medicareonthemoveaz.com
 meetdo.waraid.shop
 megahandel.shop
+mein-ebikepro.com
 mein-trailer.de
 mein.lhk.de-plushilfe.com
 meindampf.com
@@ -1128,6 +1145,7 @@ mobilixpro.com
 mobixstore.com
 modeausaugsburg.com
 modellbahnshop-club.shop
+modellbauguenstig.com
 moebel-onlineshop.com
 moebel-rieder-abverkauf.de
 moebelcenterremscheid.de
@@ -1151,6 +1169,7 @@ mounjaflow.de
 mountainbike-hotel-harz.de
 mountainbike-nordeifel.de
 movementkoeln.de
+mrsoda.myshopify.com
 mtbandroad.com
 mto-service.com
 muersi.com
@@ -1162,6 +1181,7 @@ musikgarage.com
 musikinstrumente-profi.com
 musikprofi.com
 musikstudiobox.com
+musiol-garten.de
 musiqueonline.com
 mydovinia.com
 myelektrocenter.com
@@ -1298,6 +1318,7 @@ pmtree.lowcruise.shop
 polluxer.com
 poolfreunde.com
 pooloase.shop
+portablecoolerpro.com
 poweromasch.shop
 praezisionswerkzeugbau.de
 preiswertoutdoor.com
@@ -1415,6 +1436,7 @@ schultefashion.com
 schwarzmarktwaffenhandler.de
 schwedler-apotheken.de
 scimonge.com
+scoterwelt.com
 scoterwelt.shop
 securitybekleidung.de
 seifertundstil.de
@@ -1493,6 +1515,7 @@ stelonira.com
 steyrtracteursgmbh.at
 stilhausfreiburg.com
 still-sonderaktionen.de
+stillavero.com
 stoicdraussen.com
 store.savemarketed.com
 story-news.com
@@ -1542,6 +1565,7 @@ tickgreen.net
 tierwelthub.de
 timberlandde.de
 tk-energiemanagement.de
+tk-kalorienverbrennen.help
 tkpelletsgmbh.de
 tln-transport.de
 tm-preisvergleich.de
@@ -1569,11 +1593,13 @@ trangianverkaufe.com
 tranquildwell.com
 transition-velo.com
 transmarketconssrl.com
+transportangatahy.com
 transportwelt.com
 treasureeshop.de
 treemexholz.de
 trendigehandtaschenkaufen.com
 trgartenservice.de
+trinkmeistershop.com
 trivanode.com
 truerebuy.com
 trypurisaki.com
@@ -1665,6 +1691,7 @@ watchcod-nz.shop
 waterdrop-osterreich.at
 wattpionier.de
 wearbreeze.de
+weathergaugesstore.com
 weber-motorrad.com
 weikershem.de
 weinekaufen.com
@@ -1707,6 +1734,7 @@ wohnelektro.com
 wohnlichkeiterschaffen.com
 wohnlichtshop.com
 wohnweltmarkt.com
+wolkenfreund.de
 wood-line24.de
 woodelivo.com
 workysander.shop
@@ -1754,5 +1782,6 @@ zova.at
 zularo.de
 zum-gockelhahn.at
 zumil.de
+zurbrueggende.com
 zusellmk.click
 zutechnik.de
