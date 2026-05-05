@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-05
-# Domains: 1780
+# Domains: 1785
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -314,6 +314,7 @@ bike-trailer24.de
 bike69-shop.de
 bikeauction.de
 bikeboys-onlineshop.de
+bikepartsprofi.com
 bikeproshops.com
 bikeskraft.de
 bikezubehoershop.com
@@ -505,6 +506,7 @@ degussa-web.de
 degussadeutschland.de
 degussagold-handel.de
 degussaonline.de
+dejia.shop
 dekoartikelrabatt.de
 dekorations-o-grod.de
 dekorativeholzprodukte.com
@@ -1324,6 +1326,7 @@ praezisionswerkzeugbau.de
 preiswertoutdoor.com
 prestige-container.com
 primarycarenw.com
+pro-aurum.gold
 pro-truckmarket.com
 probuerobedarf.com
 profahrradteile.com
@@ -1369,6 +1372,7 @@ refortek.com.es
 reifen-direkt24.com
 reindesigner-handel.de
 reisenthell.shop
+reisholzgmbh.de
 reisonthelsen.de.com
 rekordpellets.com
 reliableretaildeals.com
@@ -1410,6 +1414,7 @@ salomons.co.at
 salzburgapotheke.com
 sammelkunst.com
 sammlerliebe.com
+sandekgartenundlandschaftsbau.de
 sangaa.co
 sanitaerbox.com
 sante360plus.com
