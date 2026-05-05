@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-05
-# Domains: 1788
+# Domains: 1790
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -708,6 +708,7 @@ gartenkissen-premium.de
 gartenmoebelwelt.com
 gartenmotor.de
 gartenpools24.de
+gartenreisen-magnolia.de
 gartenschoner.com
 gartenundanhaenger.de
 gascovert.com
@@ -1099,6 +1100,7 @@ marineausstattung.com
 marketmarkdowns.com
 markierskibindungen.com
 marmoritgmbh.de
+martin-luther-kindergarten-arnsberg.de
 martml.com
 marveliona.com
 masterofmalteu.shop
