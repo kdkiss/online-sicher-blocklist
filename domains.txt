@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
-# Updated: 2026-05-05
-# Domains: 1794
+# Updated: 2026-05-06
+# Domains: 1801
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -541,12 +541,14 @@ direktbericht.de
 diseasy.shop
 diybuildsupplies.com
 djawad-razek.de
+dlxn-mode.de
 dly-home.com
 doinvitletter.de
 dokumentenkaufen.eu
 domuslumi.com
 don-art.de
 donate2camerafraud.com
+dr-michael-huss.de
 draussenmenschen.de
 dreamsleepz.de
 drink-horizon.com
@@ -589,6 +591,7 @@ elbperspektive.de
 elbtal-kids.de
 electrikbbq.com
 electro-redeker.de
+elektriker-hoffmeyer.de
 elektrodan.com
 elektrokueche.de
 elektrosde.com
@@ -906,6 +909,7 @@ imperial-hamburg.de
 indiespiele-online.de
 indiespieleonline.de
 inglesinas.de
+insightberichte.de
 interarino.com
 interiorene.com
 iptvanbieter.at
@@ -1095,10 +1099,12 @@ mailionos.de
 major-agentur.de
 malpaso-bikes.de
 malzkaffee.de
+mancitytrikots.de
 manfred-schnell.shop
 marcuweklingboutique.shop
 marialina-juwelen.de
 marineausstattung.com
+market.vailmere.com
 marketmarkdowns.com
 markierskibindungen.com
 marmoritgmbh.de
@@ -1400,6 +1406,7 @@ robinhood-563824.com
 robinhood-us.click
 robloxasia.com
 roborocks.de
+rohrreinigung-rothschild.de
 rollingslotsonline.de
 rollladenjalousie.com
 romodana.de
