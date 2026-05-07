@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-07
-# Domains: 1857
+# Domains: 1859
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -320,6 +320,7 @@ bike-trailer24.de
 bike69-shop.de
 bikeambulanz-mobil.de
 bikeauction.de
+bikebox-salzgitter.de
 bikeboys-onlineshop.de
 bikelight.de
 bikenetz.de
@@ -732,6 +733,7 @@ gartenix.com
 gartenkissen-premium.de
 gartenmoebelwelt.com
 gartenmotor.de
+gartenpflege-in-duisburg.de
 gartenpools24.de
 gartenreisen-magnolia.de
 gartenschoner.com
