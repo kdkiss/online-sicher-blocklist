@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
-# Updated: 2026-05-07
-# Domains: 1859
+# Updated: 2026-05-08
+# Domains: 1870
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -255,6 +255,7 @@ autoteilejetzt.com
 autozubehormarkt.com
 auwaldbio-de.com
 avemiosolutions.com
+avezzanofahrrad.de
 awo-baumarkt.de
 baboktransports.com
 babyausstattung-de.com
@@ -604,6 +605,7 @@ einfach-oel.com
 einfachlagerverwaltung.de
 einzigartigetaschen.com
 eiselefahrrad.de
+eisner-kollegen.de
 ekzsale.shop
 elbperspektive.de
 elbtal-kids.de
@@ -656,6 +658,7 @@ fahrradanhaenger-freilauf.de
 fahrradbulls.com
 fahrradcitat.de
 fahrradco.de
+fahrraddirekt24.de
 fahrradhandel-alf.de
 fahrradhandel-daempfle.de
 fahrradhandel-koumagnon.de
@@ -680,6 +683,7 @@ ferntrailcollective.com
 feronilva.com
 ferplasthaustierbedarf.com
 festgeld-finder.de
+festgeld-profis.de
 festgeld-zinsberatung.de
 fideltylife.com
 fiduciacarepartners.com
@@ -724,6 +728,7 @@ gardensvergen36.myshopify.com
 garten-pflanzen-pro.com
 garten66.ch
 gartenbiliger.com
+gartenersatz.de
 gartenesstisch.com
 gartenfarbewelt.com
 gartenfreundetwisselmoor452.de
@@ -740,6 +745,7 @@ gartenschoner.com
 gartenundanhaenger.de
 gascovert.com
 gastromore.de
+gbr-office.de
 gcash-casino-ph.com
 gebrauchtwagengarching-sixt.de
 gelschuhe.de
@@ -846,6 +852,7 @@ heizl.de
 heizlager.de
 heizline.at
 heizoel-discount.de
+heizoel-fuchs24.de
 heizoel-liefern.de
 heizoel-schnell-gmbh.de
 heizoel-zentrale.de
@@ -985,6 +992,7 @@ kagasa.com
 kaimoro.de
 kaiserstuhl-exotengarten.de
 kaldrek.de
+kami-holz.de
 kaminholz-premium.de
 kaminholzkonig.de
 kaminkehrer-dachau.com
@@ -1374,6 +1382,7 @@ platten-paradies.com
 plazuna.com
 plushroomdesign.com
 pmtree.lowcruise.shop
+polenegermany.de
 polluxer.com
 poolfreunde.com
 pooloase.shop
@@ -1389,6 +1398,7 @@ pro-truckmarket.com
 probuerobedarf.com
 profahrradteile.com
 profibaubedarf.com
+profibrennde.com
 profile-bitstamp.net
 proinstrumentshop.com
 proofsagen.com
@@ -1730,6 +1740,7 @@ villause.com
 vingeneral.com
 vintedreselling.eu
 vinylrecordmall.com
+vircominfo.de
 vitanourishhub.com
 vivabikes.de
 vivaharmoni.com
