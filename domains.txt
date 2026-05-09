@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-09
-# Domains: 1917
+# Domains: 1939
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -20,6 +20,7 @@
 7k9lod.com
 aaliencart.com
 aatrailers.de
+abc-apotheke-hamburg.de
 abele-brennholz-mehr.com
 abevolksz.com
 abodeare.com
@@ -254,6 +255,9 @@ autoinnendesign.com
 automania-sw.com
 automotorplus.com
 autosbios.com
+autoteile-christa.at
+autoteile-kt.de
+autoteile-waschlowsky.de
 autoteilejetzt.com
 autozubehormarkt.com
 auwaldbio-de.com
@@ -319,6 +323,7 @@ bicyclegodshop.com
 bicycleseatpostde.com
 bidmask.com
 bienenstock-potsdam.com
+bierbankdruckerei.de
 biergarten-am-kuenettegraben.de
 bike-components-de.com
 bike-trailer24.de
@@ -579,6 +584,7 @@ dr-michael-huss.de
 draussenmenschen.de
 dreamsleepz.de
 drink-horizon.com
+druckerzubbehoer.de
 drune.de
 dualtron-scooters.com
 dunstro.shop
@@ -611,6 +617,7 @@ ediblesthc.de
 editionschuh.com
 edpillen.at
 ehfzhepg.shop
+ehspellets.de
 ehspelletsgmbh.de
 einfach-oel.com
 einfachlagerverwaltung.de
@@ -739,6 +746,7 @@ garden-caddy.com
 garden-caddy.de
 gardensvergen30.myshopify.com
 gardensvergen36.myshopify.com
+gardeprowildkamera.de
 garten-pflanzen-pro.com
 garten66.ch
 gartenbiliger.com
@@ -952,6 +960,7 @@ hundebedarfsale.com
 hutdesignherren.com
 hyfen-tech.de
 i-velus.com
+icatautoteile.de
 ichkaufegrundstuecke.de
 idealux.de
 idsaled.de
@@ -1018,6 +1027,8 @@ kagasa.com
 kaimoro.de
 kaiserstuhl-exotengarten.de
 kaldrek.de
+kamerarabatt.de
+kamerasecure.de
 kami-holz.de
 kaminholz-premium.de
 kaminholzkonig.de
@@ -1302,6 +1313,7 @@ nestleix.com
 nestleovae.com
 nestmypad.com
 nestscapehub.com
+nettoautoteile.de
 neuertm7-vorwerk.com
 neurotweinrabatt.com
 neutoniesrabatt.com
@@ -1321,6 +1333,7 @@ nofs.online
 nokimoon.shop
 nookhavenz.com
 nordic-pellets.de
+nordicasaunashop.shop
 nordoil.de
 norvahaus.de
 notenglanz.com
@@ -1484,6 +1497,8 @@ remorque-fermee-ffrance.com
 remove-binance.com
 rene-verlag.com
 rentyet.shop
+replicauhrenswiss.de
+replicauhrenx.de
 resiqo.com
 revolutioncasino-online.de
 richagloves.com
@@ -1528,6 +1543,7 @@ sanitaerbox.com
 sante360plus.com
 sarlcresmar.com
 sarlprofildiffusion.com
+saunazelt-shop.com
 savehalo.com
 savehubx.com
 savemarthub.com
@@ -1537,6 +1553,7 @@ savepromoable.com
 savetheduckde.com
 savewharf.com
 schaltwerkfahrrad.de
+schaugarten-hamilton.at
 scheideckerholz.com
 schmidmodesalzburg.de
 schmidtiefbaugmbh.de
@@ -1559,9 +1576,11 @@ sereneify.com
 serenorstock.com
 sgtruffe.com
 shelterene.com
+shimanofahrradrabatt.com
 shoessura.com
 shopdeutschepost.de
 shopimo.de
+shopmaxusersatzteile.shop
 shopnory.de
 shoprufe.com
 shopsavehub.com
@@ -1734,6 +1753,8 @@ tuvas-tech.de
 uaeteampissei.team
 uggfans.myshoplaza.com
 uggs.co.at
+uhrenpaule.de
+uhrenvip.de
 uiahgpuutgr.top
 uketaonline.net
 ulmgmbh.com
@@ -1770,6 +1791,7 @@ verdalucina.com
 verizon.site
 verkaufen-pruf.de
 vertigo-technik.com
+vertretungsapothekerin-julia.de
 verworkdeutschland.com
 vetretto.myshopify.com
 vexiebox.myshopify.com
