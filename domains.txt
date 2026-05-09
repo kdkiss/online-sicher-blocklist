@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-09
-# Domains: 1913
+# Domains: 1916
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -762,6 +762,7 @@ gastromore.de
 gbr-office.de
 gcash-casino-ph.com
 gebraucht-sixt-car-sales.de
+gebraucht-sixt-carsales.de
 gebrauchtwagen-sixt-carsales-garching.de
 gebrauchtwagen-sixtcarsales.de
 gebrauchtwagengarching-sixt.de
@@ -1453,6 +1454,7 @@ rabeagrigmbh.de
 radhandel24.de
 radrudel.de
 radselect.de
+radsport-viernheim.de
 radtrikottourdefrance.de
 radzubehoer24.com
 rafso.tovy.shop
@@ -1882,6 +1884,7 @@ yooofa.com
 yournaturalathlettrading.shop
 ythebyre.top
 yumgs.holdenouterwear.shop
+yvmonlinebusiness.de
 zaballde.com
 zalandorio.com
 zalvori.com
