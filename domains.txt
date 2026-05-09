@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-09
-# Domains: 1910
+# Domains: 1913
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -252,6 +252,7 @@ autohobby.at
 autoingenieurbereich.com
 autoinnendesign.com
 automania-sw.com
+automotorplus.com
 autosbios.com
 autoteilejetzt.com
 autozubehormarkt.com
@@ -1216,6 +1217,7 @@ michael-fischer-online.de
 michel-auto-concpt.com
 microsoft1drive.net
 microsotfsstore.com
+midlandmodels.com
 midwayschiesspulver.de
 millaura.com
 million-recht.de
@@ -1452,6 +1454,7 @@ radhandel24.de
 radrudel.de
 radselect.de
 radtrikottourdefrance.de
+radzubehoer24.com
 rafso.tovy.shop
 raiffeisen-gewinn.vip
 ranari.de
