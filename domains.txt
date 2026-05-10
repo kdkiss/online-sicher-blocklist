@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-10
-# Domains: 1965
+# Domains: 1973
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -259,6 +259,7 @@ autoteile-christa.at
 autoteile-kt.de
 autoteile-waschlowsky.de
 autoteilejetzt.com
+autoteilepilotpluss.de
 autozubehormarkt.com
 auwaldbio-de.com
 avemiosolutions.com
@@ -266,6 +267,7 @@ avezzanofahrrad.de
 awo-baumarkt.de
 baboktransports.com
 babyausstattung-de.com
+babybox-schweiz.ch
 babylissde.de
 babymodepur.com
 babyroom-shop.com
@@ -360,6 +362,7 @@ boxloadpallet.com
 boxx-container.de
 bozzer.de
 bpbioheat.de
+bracgartenservice.de
 brandsoutlet.at
 brehn.de
 brenner-berlin.com
@@ -689,6 +692,7 @@ fahrradhandel-koumagnon.de
 fahrradhandel-martin.de
 fahrradhandel-rothbart.de
 fahrradkurier.de
+fahrradweltangebote.com
 fahrtechnikteile.com
 fakebinance.com
 fakegoldengoose.net
@@ -959,6 +963,7 @@ homiuppad.com
 horizontix.de
 hotbikede.com
 hotcarmodificationparts.com
+hotel-am-herrenhaeuser-garten.de
 hotel-krone-muc.de
 houseandhomeco.com
 householdessentialslab.com
@@ -1026,6 +1031,7 @@ kaffee-feier.de
 kaffee-glueck.de
 kaffee-liebling.de
 kaffee-tee-erleben.com
+kaffeebank.de
 kaffeehaus-boheme.de
 kaffeeladen-bistro-erda.de
 kaffeeuhlenbusch.de
@@ -1660,6 +1666,7 @@ standesamt-portal.de
 stanleydeutschlandshop.de
 staplerbatterien.de
 starkwerkzeug.de
+stattkaffeegottesdienst.de
 statz-haushaltprodukte.de
 steeg-handel.de
 steelseries.com.de
@@ -1697,6 +1704,7 @@ superoutletshopsuomi.com
 supersavehub.com
 supplierseu.com
 swarovskiclub.myshoplaza.com
+swissnovapharmaceuticals.com
 syyqjsxt.shop
 sz-tax.com
 tagesgeld-onlinecheck.de
