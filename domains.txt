@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-10
-# Domains: 1973
+# Domains: 1975
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -271,6 +271,7 @@ babybox-schweiz.ch
 babylissde.de
 babymodepur.com
 babyroom-shop.com
+bacigalupo-autoteile.de
 back-dani.shop
 badartikelsupply.com
 baer--schuhe.com
@@ -1727,6 +1728,7 @@ thefxleads.com
 thehandtoolauto.com
 theisentransports.com
 thenorthfacedeutschland.com
+theomoebel.de
 theuniquebargains.com
 thiamtransports.com
 thriftfolio.com
