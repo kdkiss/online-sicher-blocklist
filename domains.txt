@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-11
-# Domains: 1994
+# Domains: 1996
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -655,6 +655,7 @@ emilygrosholz.shop
 emmakeller.de
 endlich-gesund.com
 energie-heizheld.de
+energieausweis-fuer-verkauf.at
 energiepreise24.com
 energietoolbox.de
 energy-premium.de
@@ -782,6 +783,7 @@ gartenpools24.de
 gartenreisen-magnolia.de
 gartenschoner.com
 gartenundanhaenger.de
+gartenundoutdoor-de.com
 gascovert.com
 gastromore.de
 gbr-office.de
