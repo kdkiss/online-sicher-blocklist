@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-12
-# Domains: 2039
+# Domains: 2041
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -962,7 +962,9 @@ holzanatomie.de
 holzdebrenn.com
 holzera.de
 holzgartenprofi.de
+holzhack-schnitzel.de
 holzhambach.com
+holzhausenug.de
 holzkerssenbrock.de
 holzlangbau.de
 holznotenpulte.de
