@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-12
-# Domains: 2032
+# Domains: 2036
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -1188,6 +1188,7 @@ liverpoolmex.shop
 living-smarter24.com
 livorentino.com
 liwed.barpalm.shop
+lloydsosterreich.at
 lmfmotoculture.com
 lmvae.shop
 lmzvay.shop
@@ -1335,6 +1336,7 @@ musik-laden.com
 musik-planet.com
 musikgarage.com
 musikinstrumente-profi.com
+musikkeim.com
 musikprofi.com
 musikstudiobox.com
 musiol-garten.de
@@ -1357,6 +1359,7 @@ natur-brennholz.de
 naturacare360.com
 naturelabs.store
 naturvitalia.com
+naturzadedea.shop
 nauticspace.com
 nautikbedarf.com
 navirexep.de
@@ -1900,6 +1903,7 @@ vitanourishhub.com
 vitrinaox.de
 vivabikes.de
 vivaharmoni.com
+vivibo-kueche.de
 vivohogarvida.com
 vogelpflege.com
 voigtklimaanlage.com
