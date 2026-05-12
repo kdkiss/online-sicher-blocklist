@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-12
-# Domains: 2036
+# Domains: 2037
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -1269,6 +1269,7 @@ meistervolt.de
 mekura.de
 meldezettel-digital.at
 mercedes-tv.de
+mercedesbenz-fahrzeuge.de
 merrell-deutschland.de
 merrelloutletonline.de
 merveillesdhiver.com
