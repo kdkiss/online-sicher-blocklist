@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-12
-# Domains: 2037
+# Domains: 2039
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -1646,6 +1646,7 @@ scoterwelt.com
 scoterwelt.shop
 securitybekleidung.de
 seifertundstil.de
+sem-solar.de
 semipool.store
 senkkopfschraube.com
 sereneify.com
@@ -1817,6 +1818,7 @@ topfelite.shop
 topgartenservice.de
 topmachinestore.com
 topmedicalaestheticsde.com
+toponlinecasinodeutschland.de
 topskiequipmentde.com
 torqueebikes.shop
 traditionellertee.com
