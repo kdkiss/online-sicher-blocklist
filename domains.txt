@@ -1,10 +1,11 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
-# Updated: 2026-05-11
-# Domains: 1996
+# Updated: 2026-05-12
+# Domains: 2032
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
+0hyzxx-rc.myshopify.com
 1netzteil.de
 24posters.store
 2rad-enik.com
@@ -142,6 +143,7 @@ angela-cosmetics.de
 angermaierwiesn.de
 angoraberlin.de
 anhaenger-geraete.com
+anhaengerhandel-leipziig.de
 anhaengerkreuter.com
 anhanger-automarkt.com
 anhangermaschinen.com
@@ -286,6 +288,7 @@ basas-online.de
 bauhobby.com
 bauknoten.com
 baukomps.com
+bauundgarten.com
 bawz.store
 baybed.cashglass.shop
 bayerischegeschenke.com
@@ -302,6 +305,7 @@ befast.wedshape.click
 belarismall.com
 belieul-stammholz.com
 belizal.com
+benu-hu.top
 beratify.de
 berger-deals.com
 bergschatz.de
@@ -314,6 +318,7 @@ berlinkaffee.myshopify.com
 berlinmusicscores.com
 berlinrideservice.com
 berma-shop.com
+bermar-grills.com
 bertone-werkzeugbau.de
 bessererbaumarkt.de
 bestandigwert.com
@@ -404,6 +409,7 @@ ca-agentur.de
 calmdetox-shop.com
 calmstructure.com
 cameragearshop.de
+campenwelt.com
 campingsupplybest.com
 campingzubehorhub.com
 canmidy.com
@@ -605,6 +611,9 @@ dwellcollect.com
 dwellgallery.com
 dwellinguse.com
 dwellivory.com
+dwelllayered.com
+dwellmingle.com
+dwellserene.com
 dyson-de.de
 e-bikermarkt.de
 e-holzgmbh.com
@@ -622,6 +631,7 @@ ecoholz-gmbh.eu
 ecohubfast.shop
 ecoline-holzsystembau.de
 econicosus.de
+ecooflow.shop
 ecoutletstore.shop
 edebrennholzedgar.com
 edelkatzenzucht.com
@@ -790,12 +800,14 @@ gbr-office.de
 gcash-casino-ph.com
 gebraucht-sixt-car-sales.de
 gebraucht-sixt-carsales.de
+gebrauchte-haushaltsgeraete-hamburg.de
 gebrauchtwagen-sixt-carsales-garching.de
 gebrauchtwagen-sixtcarsales.de
 gebrauchtwagengarching-sixt.de
 gelschuhe.de
 gelvibe.de
 gentlecycle.net
+genusskeller.com
 geometrichome.com
 geoxoutlet.de
 geraetedoc.com
@@ -856,6 +868,7 @@ gtsusa.net
 gueta-handel.de
 gutmahroboter.myshopify.com
 gutmotorradteile.com
+gzalsxcp.shop
 habitataro.com
 habitatero.com
 habitatovae.com
@@ -968,6 +981,7 @@ homeoliq.vom
 homersport.de
 homestorex.com
 homesupplyonweb.com
+homigetnest.com
 homilivi.com
 homiuppad.com
 horizontix.de
@@ -1025,6 +1039,7 @@ jdbanli.com
 jdsportsoutlet.de
 jlxdiffusion.com
 johannis-apotheke-bielefeld.de
+johannsenpellets.eu
 jokettlannd.com
 jolamsneaker.com
 jon-balkanshop.de
@@ -1043,6 +1058,7 @@ kaffee-liebling.de
 kaffee-tee-erleben.com
 kaffeebank.de
 kaffeehaus-boheme.de
+kaffeehaus-meyer.de
 kaffeeladen-bistro-erda.de
 kaffeeuhlenbusch.de
 kaffeezentrale-de.com
@@ -1251,6 +1267,7 @@ meisterschnitt.com
 meistervolt.de
 mekura.de
 meldezettel-digital.at
+mercedes-tv.de
 merrell-deutschland.de
 merrelloutletonline.de
 merveillesdhiver.com
@@ -1280,17 +1297,20 @@ mobixstore.com
 modeausaugsburg.com
 modellbahnshop-club.shop
 modellbauguenstig.com
+moebel-haushalt.de
 moebel-onlineshop.com
 moebel-rieder-abverkauf.de
 moebelcenterremscheid.de
 moebelfertigung-sandig.de
 moebelgutlager.com
+moebelpacker-wien.at
 moebelpunkt.com
 moebelundgarten.com
 moebelwunerland.de
 moedllbahnlippe.shop
 moneysupermarkt.de
 montblancsale.de
+morenutritionde.shop
 moriaccessoires.com
 mossvibers.com
 motelmio.shop
@@ -1344,6 +1364,7 @@ nestleix.com
 nestleovae.com
 nestmypad.com
 nestscapehub.com
+nestverra.com
 nettoautoteile.de
 neuertm7-vorwerk.com
 neurotweinrabatt.com
@@ -1365,6 +1386,7 @@ nokimoon.shop
 nookhavenz.com
 nordic-pellets.de
 nordicasaunashop.shop
+nordichomeliving.com
 nordoil.de
 norvahaus.de
 notenglanz.com
@@ -1392,6 +1414,7 @@ oelor.de
 oelwert.de
 offfit.viewwed.shop
 oilexa.de
+oilvinegarmarket.shop
 oldestteabrand.com
 olivercabelldeutschland.de
 olyava.com
@@ -1422,6 +1445,7 @@ osiris.com.de
 osteopathiehamburgterminonline.de
 osternbackenverkaufsshop.com
 oswald-juergens24.de
+oswald-juergenss24.de
 otiumvr.com
 ottoelektro.de
 outaim.herate.shop
@@ -1431,6 +1455,7 @@ outletpc.de
 ovalestore.com
 paito-hkpools.store
 panelaeki.de
+panscontainers.com
 pauseimbiergarten.de
 pbm-energy.com
 pedale-onshop.com
@@ -1438,6 +1463,7 @@ pedalpalast.de
 pelletkraft.de
 pelletor.at
 pellets-maschinen.de
+pendelleuchtens.com
 pending-google.com
 persunshop.de
 peterjeskouhren.de
@@ -1488,6 +1514,7 @@ propellets.pro
 prowar.sixbrowse.shop
 ps-tools-deals.shop
 pt-sky.com
+pumpenprofi365.com
 puppenkleidungbillig.com
 purepharmas.co.uk
 purewellness-shop.de
@@ -1500,6 +1527,7 @@ qrvawuep.shop
 quadrals.de
 qualitatsdampf.com
 qubira.shop
+quelltool.com
 quijotekaffee.de
 rabattoneill.de
 rabattseafolly.de
@@ -1654,6 +1682,7 @@ sneakers-metzingen.de
 snksinc.de
 snowbuils.online
 snowhow.shop
+snugelora.com
 snugist.com
 soccerssp.com
 softdays-shop.de
@@ -1662,11 +1691,13 @@ solamira.de
 solanik.de
 solanix.de
 solaranlage-lausitz.de
+solarbundesliga.at
 solarmik.de
 solarmira.de
 soltect.de
 sorbas-grill.de
 sotruck-partners.com
+soundtechnik-schmidt.de
 spezialwerkzeug-profi.com
 spiegellhaus.de
 spielbank-badenwurttemberg.de
@@ -1743,6 +1774,7 @@ terrariumhaustiere.com
 terraviva-gartenbau.de
 teveoproducts.com
 tgabi06.de
+th0manns0und.shop
 theexplorerco.com
 thefxleads.com
 thehandtoolauto.com
@@ -1750,6 +1782,7 @@ theisentransports.com
 thenorthfacedeutschland.com
 theomoebel.de
 theuniquebargains.com
+theurbansportsculture.com
 thiamtransports.com
 thriftfolio.com
 thriftnexus.com
@@ -1862,11 +1895,13 @@ vingeneral.com
 vintedreselling.eu
 vinylrecordmall.com
 vircominfo.de
+vitafeetdeu.com
 vitanourishhub.com
 vitrinaox.de
 vivabikes.de
 vivaharmoni.com
 vivohogarvida.com
+vogelpflege.com
 voigtklimaanlage.com
 volkeep.de
 volkswagen-fahrzeuge.de
@@ -1874,6 +1909,7 @@ volthausgeraete.de
 vorwerk-de.com
 vorwerk-deutschland.de
 vostplusdrugs.com
+vuisdj.sho
 vynxaria.com
 wacoo.de
 wacooball.com
