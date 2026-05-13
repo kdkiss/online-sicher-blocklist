@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-13
-# Domains: 2360
+# Domains: 2377
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -150,6 +150,7 @@ amcw-photovoltaik.de
 americanragdollkittien.com
 americanvintagestore.de
 amirionlines.com
+amprisiaenergies.com
 amsterdamout.store
 anabolic-steroids-online.com
 anastasiououtlet.com
@@ -281,6 +282,7 @@ australianonlinepharmacy.org
 austriansolar.at
 ausverkauf-ch.com
 auto-handel.org
+auto-reifen-potsdam.de
 autobytel-euro.com
 autocenter-marienehe.de
 autoforum-petersberg.de
@@ -428,6 +430,7 @@ blizzak.de
 bloemker-holz.de
 bltyydzv.shop
 bluebike2.com
+bluebikes8.com
 blum2000.com
 blumen-fusshoeller.de
 blumenshopdeutschland.de
@@ -501,6 +504,7 @@ casaeternaluz.com
 casagomart.com
 casaivora.com
 cashmerancing.com
+caspharmacy.com
 casualstore77.de
 cbtec4you.de
 cbvdshj.com
@@ -551,6 +555,7 @@ comercialandrea.cl
 comfyure.com
 comme-des-garcons.co.at
 commedesgarconsstore.de
+completegameproshop.com
 computerpartsglobal.com
 condokameleon.com
 containerbike.de
@@ -916,6 +921,7 @@ gartenpflege-in-duisburg.de
 gartenpools24.de
 gartenreisen-magnolia.de
 gartenschoner.com
+gartenstuhlemetall.com
 gartenundanhaenger.de
 gartenundoutdoor-de.com
 gascovert.com
@@ -968,6 +974,8 @@ glossierdanmark.com
 glossierireland.com
 glowmindstore.com
 glowwarehousede.com
+glp1-apotheke.com
+glp1apotheke.com
 gmbhboes.de
 go-campingmaster.com
 goalbo.de
@@ -1499,12 +1507,14 @@ moebelfertigung-sandig.de
 moebelgutlager.com
 moebelpacker-wien.at
 moebelpunkt.com
+moebelquelle.com
 moebelundgarten.com
 moebelwunerland.de
 moedllbahnlippe.shop
 mokuhashop.com
 moneysupermarkt.de
 monperastore.com
+montanasaunabuilders.com
 montblancsale.de
 morenutritionde.shop
 moriaccessoires.com
@@ -1579,6 +1589,7 @@ neutoniesrabatt.com
 nevari.de
 newair.blacktime.sbs
 newsee.datevote.shop
+nexmartonline.com
 nexoil.de
 nexolc.com
 nexus-reputation.com
@@ -1638,6 +1649,7 @@ olyava.com
 on-osterreich.at
 onavira.com
 oncloudoutlet.at
+oncloudschuhe.shop
 oneact.cashglass.shop
 oneact.incomelog.shop
 oneact.localdraw.shop
@@ -1688,6 +1700,7 @@ outletpc.de
 ovalestore.com
 paddlegrill.com
 paito-hkpools.store
+paitohkpools.site
 panelaeki.de
 panscontainers.com
 pauseimbiergarten.de
@@ -1703,6 +1716,7 @@ pending-google.com
 persunshop.de
 peterjeskouhren.de
 peterkenkelgruppe.de
+petfyshope.com
 petroya.de
 pfeilearmbruste.com
 pflegeprofi-shop.com
@@ -1732,6 +1746,7 @@ pmtree.lowcruise.shop
 polenegermany.de
 polluxer.com
 poodlestoresaigon.com
+pool-uniswap.com
 pooladmins.com
 poolfreunde.com
 poolheaterpump.com
@@ -2081,6 +2096,7 @@ thehandtoolauto.com
 theisentransports.com
 thenorthfacedeutschland.com
 theomoebel.de
+thepharmacriterion.com
 theralogixonline.com
 theuniquebargains.com
 theurbansportsculture.com
@@ -2325,6 +2341,7 @@ yonexs.at
 yooofa.com
 yournaturalathlettrading.shop
 yourshoppingkart.com
+yoursolarfuture.com
 ythebyre.top
 yumgs.holdenouterwear.shop
 yvmonlinebusiness.de
