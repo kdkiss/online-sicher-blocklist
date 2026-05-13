@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
-# Updated: 2026-05-12
-# Domains: 2041
+# Updated: 2026-05-13
+# Domains: 2071
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -57,6 +57,7 @@ adorecosyshoes.com
 adreim.de
 adrian-beck.de
 ads.salostyle.com
+adventure-shop.at
 aedexstore.de
 aehesis.de
 aenikas.com
@@ -83,6 +84,7 @@ airyano.com
 akenor.com
 akrostichon.at
 aktion-motorrad.de
+aktivanzug.com
 alakar.de
 alarmrabatt.de
 albimo.shop
@@ -142,12 +144,14 @@ angebote-kauf.de
 angela-cosmetics.de
 angermaierwiesn.de
 angoraberlin.de
+angstrom-vos.de
 anhaenger-geraete.com
 anhaengerhandel-leipziig.de
 anhaengerkreuter.com
 anhanger-automarkt.com
 anhangermaschinen.com
 anhangerwagen.com
+anhor-sports.shop
 animationsummer.at
 animefigureworld.com
 animestorify.com
@@ -326,16 +330,19 @@ beste-anhaenger.de
 beste-brannholzpremium.de
 bestemedikamente.com
 bestes-brennholz-pellets.de
+bestonlinecasinoliste.de
 bestsoluvs.click
 betrugs-check.de
 betrugsrecht.de
 beyham.com
+bhubbeauty.de
 bicyclegodshop.com
 bicycleseatpostde.com
 bidmask.com
 bienenstock-potsdam.com
 bierbankdruckerei.de
 biergarten-am-kuenettegraben.de
+bigskysaunas.com
 bike-components-de.com
 bike-trailer24.de
 bike69-shop.de
@@ -350,6 +357,7 @@ bikepointplus.shop
 bikeproshops.com
 bikeskraft.de
 bikezubehoershop.com
+bildsieg.com
 billiggarten.com
 billigmoebel.de
 birken-stockde.shop
@@ -360,6 +368,7 @@ blacktridentpop.shop
 blikeuhij.click
 blizzak.de
 bloemker-holz.de
+bltyydzv.shop
 blum2000.com
 blumen-fusshoeller.de
 blumenshopdeutschland.de
@@ -374,6 +383,7 @@ bpbioheat.de
 bracgartenservice.de
 brandsoutlet.at
 brehn.de
+breitbandangebote.de
 brenner-berlin.com
 brennholz-anhaenger.de
 brennholz-konig.de
@@ -723,6 +733,7 @@ fatfax.wantbrand.shop
 fc-moto-vip.com
 feelgoodcamper24.de
 feinkaufshop.com
+feinkleidung.com
 felgenwelt.com
 felino-sport.de
 fensterundtuer.com
@@ -892,6 +903,7 @@ hardloverz.com
 hardwarestorede.com
 hardwarewelt.com
 haus-kaufen-istrien.de
+haus-wein.com
 hausdampf.com
 hausmez.de
 hausofvedashop.com
@@ -1040,6 +1052,7 @@ jbl-deutschland.de
 jdbanli.com
 jdsportsoutlet.de
 jlxdiffusion.com
+jobam.shop
 johannis-apotheke-bielefeld.de
 johannsenpellets.eu
 jokettlannd.com
@@ -1135,6 +1148,7 @@ konigmode.de
 koochand.com
 kosecikva.com
 kraftdesweins.com
+kraftraumpro.com
 kraftwerk-solar.com
 kraus-anwaelte.de
 kreative-zukunft.com
@@ -1151,6 +1165,7 @@ lacrossegummistiefel.com
 lahop.joinpull.shop
 lampenreich.com
 lan-gensalz.de
+landmaschinen-deutschland.de
 lankis-welt.com
 larc90.myshopify.com
 lasportivaoutlet.at
@@ -1176,6 +1191,7 @@ lightantra.com
 likdl.shop
 likds.shop
 likitter.shop
+linavellegoods.com
 lindner-sonnenschutz.de
 liport.estclose.shop
 liport.evenfix.shop
@@ -1198,6 +1214,7 @@ locajardin.com
 localgermany.de
 loewedeutschland.de
 loftmyhub.com
+loggiawelt.com
 lola58.myshopify.com
 loopearplugs.at
 loopearplugsosterreich.com
@@ -1289,6 +1306,7 @@ mintechh.com
 misalena.com
 misterwatch.shop
 mitkindundrad.de
+mkijnds.shop
 mml-container.de
 mmtaccessibility.com
 mn.magazinmodern.de
@@ -1372,6 +1390,7 @@ nestmypad.com
 nestscapehub.com
 nestverra.com
 nettoautoteile.de
+neueonlinecasinoliste.de
 neuertm7-vorwerk.com
 neurotweinrabatt.com
 neutoniesrabatt.com
@@ -1436,6 +1455,7 @@ oneact.workscap.shop
 onkmusic.com
 online-indiegames.de
 online-indiespiele.de
+onlinecasinodeutschliste.de
 onlineindiespiele.de
 onlinemusikinstrumente.com
 onlineoutletsale.shop
@@ -1500,6 +1520,7 @@ pooloas.de
 pooloase.shop
 poolsteine-online.de
 portablecoolerpro.com
+portaqua.shop
 poweromasch.shop
 praezisionswerkzeugbau.de
 preiswertoutdoor.com
@@ -1582,6 +1603,7 @@ ridegefuhl.de
 ridekraft.de
 ridelbergu.de
 rileyheftman.shop
+rip-curl.co.at
 ripob.com
 rjmiljmv.shop
 robinhood-563824.com
@@ -1632,6 +1654,7 @@ savewharf.com
 schaltwerkfahrrad.de
 schaugarten-hamilton.at
 scheideckerholz.com
+schlafglanz.com
 schmidmodesalzburg.de
 schmidtiefbaugmbh.de
 schmidts-handel.de
@@ -1682,10 +1705,12 @@ slotshoppercasino.de
 slowburner.de
 smart2trade.de
 smartcookgear.com
+smartwaerme.com
 smitdeals.de
 smtoygalaxy.com
 snckhor-materiaux.com
 sneakers-metzingen.de
+sneakwelt.com
 snksinc.de
 snowbuils.online
 snowhow.shop
@@ -1733,6 +1758,7 @@ steinhaus-berlin.co
 steinkamp-container.com
 stelonira.com
 steyrtracteursgmbh.at
+stilblazer.com
 stilhausfreiburg.com
 still-sonderaktionen.de
 stillavero.com
@@ -1795,6 +1821,7 @@ thriftfolio.com
 thriftnexus.com
 thule-familien.de
 tickgreen.net
+tierleckerli.com
 tierwelthub.de
 timberlandde.de
 tk-deburncalories.shop
@@ -1862,6 +1889,7 @@ unternehmensberatung-donau.de
 up2sales.de
 upbikewinner.com
 upcock.hetouch.shop
+upecho.pcmachine.shop
 urbanfurnicraft.com
 urbangrowde.com
 urbanvibesretreat.com
@@ -1915,6 +1943,7 @@ voigtklimaanlage.com
 volkeep.de
 volkswagen-fahrzeuge.de
 volthausgeraete.de
+von-kronen.com
 vorwerk-de.com
 vorwerk-deutschland.de
 vostplusdrugs.com
@@ -1952,6 +1981,7 @@ weihnachtsdekokaufen.com
 weikershem.de
 weinekaufen.com
 weinfreunoutlet.com
+weinfrisch.com
 wellott.com
 wellunora.com
 welpentraum.de
