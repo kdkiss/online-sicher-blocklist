@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-13
-# Domains: 2071
+# Domains: 2075
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -263,6 +263,7 @@ automania-sw.com
 automotorplus.com
 autosbios.com
 autoteile-christa.at
+autoteile-deutschland.com
 autoteile-kt.de
 autoteile-waschlowsky.de
 autoteilejetzt.com
@@ -335,6 +336,7 @@ bestsoluvs.click
 betrugs-check.de
 betrugsrecht.de
 beyham.com
+bglshop.at
 bhubbeauty.de
 bicyclegodshop.com
 bicycleseatpostde.com
@@ -676,6 +678,7 @@ emmakeller.de
 endlich-gesund.com
 energie-heizheld.de
 energieausweis-fuer-verkauf.at
+energiefach.com
 energiepreise24.com
 energietoolbox.de
 energy-premium.de
@@ -1411,6 +1414,7 @@ nokimoon.shop
 nookhavenz.com
 nordic-pellets.de
 nordicasaunashop.shop
+nordicasaunastore.shop
 nordichomeliving.com
 nordoil.de
 norvahaus.de
