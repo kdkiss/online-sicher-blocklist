@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-14
-# Domains: 2396
+# Domains: 2404
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -178,7 +178,9 @@ animefigureworld.com
 animestorify.com
 ankaufo.de
 ankerflowtech.shop
+anlage-kauf.de
 anlagenberatung.at
+annafieldshop.de
 annatoolshop.com
 annettestaack.de
 anpario.de
@@ -466,6 +468,7 @@ brennholzholzge.com
 brennholzrupp.de
 brennstoffportal.de
 brewheaven.shop
+bringershop.de
 brinkmann-mode.de
 brokereins.com
 brookssale.store
@@ -1159,6 +1162,7 @@ hyfen-tech.de
 i-velus.com
 icatautoteile.de
 ichkaufegrundstuecke.de
+ideal2000.de
 idealux.de
 idsaled.de
 ie-audit.com
@@ -1198,6 +1202,7 @@ iuwaqlbm.shop
 ivfan.herate.shop
 ivfile.hpattack.shop
 j-lautosales.com
+jackwolfskinoutletdeutschland.de
 jardinovano.com
 jb-health.de
 jbl-deutschland.de
@@ -1766,6 +1771,7 @@ poolslot.org
 poolsteine-online.de
 poolwavefrance.com
 porcelainchoice.com
+porcelainshop.de
 portablecoolerpro.com
 portaqua.shop
 poweromasch.shop
@@ -1987,6 +1993,7 @@ slotshoppercasino.de
 slowburner.de
 smart2trade.de
 smartcookgear.com
+smartkaufhaus.de
 smartwaerme.com
 smitdeals.de
 smtoygalaxy.com
@@ -2342,6 +2349,7 @@ workysander.shop
 worldcup2026pool.site
 worldofwineshop.de
 wplaytvonline.com
+wunderzeit-baby.de
 wuording.shop
 xbhdtr.com
 xbkbest.shop
