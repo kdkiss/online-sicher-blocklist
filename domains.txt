@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-14
-# Domains: 2404
+# Domains: 2406
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -1051,6 +1051,7 @@ hausmez.de
 hausofvedashop.com
 haustirwelten.de
 hausversand.com
+hbgartenservice.at
 healththrivewith.com
 heidel-heizoel.de
 heidi-mode.de
@@ -1612,6 +1613,7 @@ nicheforge.com
 nicolekennel.de
 nizle.shop
 nkd-store.com
+nkgartengardenandliving.de
 nloia.shop
 nofish.org
 nofs.online
