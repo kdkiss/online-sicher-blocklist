@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-15
-# Domains: 2561
+# Domains: 2563
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -686,6 +686,7 @@ delecato.de
 depixeli-k-losolarum-tapixela.club
 derbestekauf.de
 dereplacshop.com
+derholzwurm-web.de
 derkeramikshop.de
 derkundenclub.com
 dermavitalglow.com
@@ -812,6 +813,7 @@ endlich-gesund.com
 energie-heizheld.de
 energieausweis-fuer-verkauf.at
 energiefach.com
+energiefuerbuerger.de
 energiepreise24.com
 energietoolbox.de
 energy-premium.de
