@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-15
-# Domains: 2556
+# Domains: 2561
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -738,6 +738,7 @@ dreamsleepz.de
 drink-horizon.com
 drinkwarehotsale.com
 dropdealzmarket.de
+druckerpratonen.de
 druckerzubbehoer.de
 drune.de
 dsprsupshop.com
@@ -843,6 +844,7 @@ europellet.at
 eusportsequipment.it.com
 euvendorshub.online
 evenro.de
+evo-cleaner.de
 evoragaming.com
 evosgaming-15l.site
 exclusiveurl.shop
@@ -1235,6 +1237,7 @@ imperialpharmaceutical.com
 indiespiele-online.de
 indiespieleonline.de
 industriehub.de
+infraredsaunaspot.com
 inglesinas.de
 innerpharmacy.org
 insightberichte.de
@@ -1295,6 +1298,7 @@ kaffeebank.de
 kaffeehaus-boheme.de
 kaffeehaus-meyer.de
 kaffeeladen-bistro-erda.de
+kaffeetassendruckerei.de
 kaffeeuhlenbusch.de
 kaffeezentrale-de.com
 kaffeglueck.de
@@ -1793,6 +1797,7 @@ oswald-juergenss24.de
 otiumvr.com
 ottoelektro.de
 outaim.herate.shop
+outdoor-testsieger-gartenschlauch-5gruende.de
 outdoor-testsieger-vergleich-gartenschlauch.de
 outdoorerfahrung.com
 outdoorwarenhaus.com
