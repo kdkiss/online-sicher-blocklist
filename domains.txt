@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-16
-# Domains: 2569
+# Domains: 2584
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -155,6 +155,7 @@ americanragdollkittien.com
 americanvintagestore.de
 amirionlines.com
 amprisiaenergies.com
+amremorques.com
 amsterdamout.store
 anabolic-steroids-online.com
 anastasiououtlet.com
@@ -173,6 +174,7 @@ anhaenger-geraete.com
 anhaengerhandel-leipziig.de
 anhaengerkreuter.com
 anhanger-automarkt.com
+anhanger-kreuter.com
 anhangermaschinen.com
 anhangerwagen.com
 anhor-sports.shop
@@ -183,6 +185,7 @@ ankaufo.de
 ankerflowtech.shop
 anlage-kauf.de
 anlagenberatung.at
+anlassgeschenke.com
 annafieldshop.de
 annatoolshop.com
 annettestaack.de
@@ -331,6 +334,7 @@ bag-promo.com
 bakta8.myshopify.com
 balkongluck.com
 bamboomyly.com
+bar-experte.com
 baristadiscount.com
 barzubehoerhaus.com
 basas-online.de
@@ -492,6 +496,7 @@ bucakdogalsalep.com
 buchsonderangebote.de
 buckbirch.com
 buerobedarfshop.com
+buffaloskorsverige.com
 buildmaterialstore.com
 bukkwood.com
 bunterstil.com
@@ -765,6 +770,7 @@ earljourdier.com
 easybike24.com
 easylivora.com
 easyvisa365.com
+ebike-direct24.de
 ebikecomm.com
 ebikedolomiti.com
 ebikezubehoer.com
@@ -935,6 +941,7 @@ freshelino.com
 fritz-container-gmbh.de
 fts-gmbhmaschine.com
 fumot-shop.de
+fundfennel.com
 fundfjord.com
 fwertty.shop
 fxrikg.shop
@@ -1512,6 +1519,7 @@ manhattantoysale.com
 manoelconta.com
 marcuweklingboutique.shop
 marialina-juwelen.de
+marie-herbstkg.de
 mariemero-salestore.shop
 marineausstattung.com
 market.vailmere.com
@@ -1628,6 +1636,7 @@ mtbandroad.com
 mto-service.com
 mudanzasideal.com
 muenzenangebot24.com
+muenzenexpertshop.com
 muersi.com
 mundinhoabc.com
 mundoeletricamotos.com
@@ -1863,6 +1872,7 @@ playgamingheaven77.top
 plazuna.com
 plushroomdesign.com
 pmtree.lowcruise.shop
+poiner.com
 pokerstars-online.com
 polenegermany.de
 polluxer.com
@@ -1882,6 +1892,7 @@ porcelainchoice.com
 porcelainshop.de
 portablecoolerpro.com
 portaqua.shop
+poseidon-home.com
 poweromasch.shop
 praezisionswerkzeugbau.de
 precisionhomesale.com
@@ -2258,6 +2269,7 @@ theexplorerco.com
 thefxleads.com
 thehandtoolauto.com
 theisentransports.com
+themarthub.com
 thenorthfacedeutschland.com
 theomoebel.de
 thepharmacriterion.com
@@ -2287,6 +2299,7 @@ tonerklick24.de
 tonies-de.com
 tonieshorspiele.com
 toniesshop-de.com
+toniesspielzeug.com
 toolkomp.com
 toomo.de
 top-lecheng-online.com
@@ -2375,6 +2388,7 @@ vaynhanhonline1.com
 vega-energy.de
 veganmarkt-kiel.de
 vehiclepartmart.com
+veilwellness.com
 velamostore.com
 velo-nation.com
 velonawarehouse.com
@@ -2554,6 +2568,7 @@ zentrof.com
 zeveau.com
 zeynoa.de
 ziegler-handel.de
+zierfischebayer.de
 zionwelpenheim.de
 zitronom.de
 zkort.shop
