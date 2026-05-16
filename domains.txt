@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
-# Updated: 2026-05-15
-# Domains: 2563
+# Updated: 2026-05-16
+# Domains: 2569
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -433,6 +433,7 @@ billigmoebel.de
 birken-stockde.shop
 birnbaumholz.de
 bitloonx.de
+bkfashionsandals.top
 blackdiamond-schweiz.com
 blacktridentpop.shop
 blikeuhij.click
@@ -985,6 +986,7 @@ gebrauchte-haushaltsgeraete-hamburg.de
 gebrauchtwagen-sixt-carsales-garching.de
 gebrauchtwagen-sixtcarsales.de
 gebrauchtwagengarching-sixt.de
+gebrauchtwagenzuverkaufen.com
 gelschuhe.de
 gelvibe.de
 geminiomnigenerator.com
@@ -1060,6 +1062,7 @@ groomifypetsstore.com
 grootfmoveshop.com
 groupeferroignis.com
 groupeshf.com
+gruntechde.com
 gtltic-anhaenger.de
 gtsusa.net
 guardianrestorenj.com
@@ -1422,6 +1425,7 @@ leworkshops.com
 lg-gartengestaltung-gmbh.de
 lgglegrandgroupe.com
 lianonline.com
+lichtzauberaustria.com
 lidlhh.shop
 lidlpp.shop
 lidnz.shop
@@ -1623,6 +1627,7 @@ mrsoda.myshopify.com
 mtbandroad.com
 mto-service.com
 mudanzasideal.com
+muenzenangebot24.com
 muersi.com
 mundinhoabc.com
 mundoeletricamotos.com
@@ -1990,6 +1995,7 @@ rollladenjalousie.com
 romodana.de
 ronjonsurfshopz.com
 roomfurnitureshop.com
+roommyhut.com
 rossignol.com.de
 rovlier.com
 royalkindergarten.com
