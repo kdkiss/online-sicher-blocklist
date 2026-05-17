@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-17
-# Domains: 2824
+# Domains: 2835
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -177,9 +177,11 @@ angela-cosmetics.de
 angermaierwiesn.de
 angoraberlin.de
 angstrom-vos.de
+anhaenger-brennholz.de
 anhaenger-geraete.com
 anhaengerhandel-leipziig.de
 anhaengerkreuter.com
+anhaengershopstore.shop
 anhanger-automarkt.com
 anhanger-kreuter.com
 anhangermaschinen.com
@@ -404,6 +406,7 @@ beratify.de
 berger-deals.com
 bergschatz.de
 bergstrommotorsport.com
+bergundpfadshop.de
 bergwanderbase.com
 bergwerkpunk.com
 berichtkfz.de
@@ -1009,6 +1012,7 @@ gain-deals.de
 gaingeneratorpro.de
 galactict.com
 galera-markt.com
+gaming-experte-de.com
 gaming-klassiker.de
 gaming-peaks-getaway.com
 gamingkoltuk.com
@@ -1613,6 +1617,7 @@ magicaldeals.shop
 mahershop24.com
 mailionos.de
 major-agentur.de
+makanigermanyshop.shop
 malpaso-bikes.de
 malzkaffee.de
 mancitytrikots.de
@@ -1914,6 +1919,7 @@ onlinecasinodeutschliste.de
 onlinecasinoparis.com
 onlinecasinositeindia.com
 onlinecasinoslasvegas.com
+onlinecasinosmitechtgeld.de
 onlinegoodshub.com
 onlinehotsale.shop
 onlineindiespiele.de
@@ -2224,6 +2230,7 @@ schmidmodesalzburg.de
 schmidtiefbaugmbh.de
 schmidts-handel.de
 schmoelzer-appartements.com
+schoen3dshop.de
 schoeppe-heizoel.de
 schraubheld24.de
 schuhebaer.com
@@ -2382,6 +2389,7 @@ sportanwaelte.de
 sportbagsshop.com
 sportgearde.com
 sportopath.de
+sportpfadshop.de
 sprengler-direkt.de
 sprinttosave.com
 srylab.bio
@@ -2536,6 +2544,7 @@ torqueebikes.shop
 torrenssolarx.com
 traditionellertee.com
 trailer-master.de
+trailsportshop.de
 trangianverkaufe.com
 tranquildwell.com
 transition-velo.com
@@ -2678,6 +2687,7 @@ waffenlager.com
 wakesportsshop.com
 wampole.de
 wampole.shop
+wanderfitshop.de
 wanderstiefeldeal.com
 wandtopay.com
 wanibeauty.com
@@ -2771,6 +2781,7 @@ xn--pooldcher-z2a.de
 xshopcloud.com
 xxxlutz-eu.shop
 xxxxlutz.shop
+yalovakameragunespaneli.com
 yangibeauty.com
 yanjushop.com
 yesacbeautybar.com
