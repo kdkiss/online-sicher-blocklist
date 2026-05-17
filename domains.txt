@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-17
-# Domains: 2781
+# Domains: 2791
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -391,6 +391,7 @@ beautypinup.com
 beautytuoch.com
 bebeautyaustralia.com
 beddingsetsshop.com
+beeorchidpoolvilla.com
 befast.wedshape.click
 belarismall.com
 belieul-stammholz.com
@@ -1018,6 +1019,7 @@ gartenfuchskreation.de
 gartenhausmodern.com
 gartenix.com
 gartenkissen-premium.de
+gartenkompass.com
 gartenmoebelwelt.com
 gartenmotor.de
 gartenpflege-in-duisburg.de
@@ -1162,6 +1164,7 @@ haustirwelten.de
 hausversand.com
 hbgartenservice.at
 healththrivewith.com
+healthychoicepharmarcy.com
 heatingcontainers.com
 heidel-heizoel.de
 heidi-mode.de
@@ -1651,6 +1654,7 @@ mercedesbenz-fahrzeuge.de
 merrell-deutschland.de
 merrelloutletonline.de
 merveillesdhiver.com
+mfsebike.com
 mhamzasaleem.com
 mhpa.net
 michael-fischer-online.de
@@ -1701,6 +1705,7 @@ moebelquelle.com
 moebelundgarten.com
 moebelwunerland.de
 moedllbahnlippe.shop
+mohieldeenpharmacy.com
 mokuhashop.com
 moneysupermarkt.de
 monperastore.com
@@ -1909,6 +1914,7 @@ optimisticoffer.com
 oralb-austria.com
 orbitdealsflowtoday.online
 orchidblazebeauty.com
+orchidnailpooler.com
 ordinarybarbershop.com
 orlidelo.com
 ortovoxs.de
@@ -2169,6 +2175,7 @@ sanitaerbox.com
 sante360plus.com
 sarlcresmar.com
 sarlprofildiffusion.com
+saubereautoteile.com
 saunajctoydrive.org
 saunascorers.com
 saunawelten-tegernsee.com
@@ -2352,6 +2359,7 @@ standesamt-portal.de
 stanleydeutschlandshop.de
 staplerbatterien.de
 starkwerkzeug.de
+starrynitebikes.com
 starter-generator-remont.online
 stattkaffeegottesdienst.de
 statz-haushaltprodukte.de
@@ -2410,6 +2418,7 @@ syyqjsxt.shop
 sz-tax.com
 tagesgeld-onlinecheck.de
 taggartstrustedtrailerscom.com
+takebstbsdeals.shop
 takones.cl
 tapex-tapes.de
 tatonka-de.com
@@ -2550,6 +2559,7 @@ urbanfurnicraft.com
 urbangrowde.com
 urbanvibesretreat.com
 urhenwchmuckrosel.de
+us-pharmaciees.net
 usacyclestorepro.com
 uschesssalesstore.shop
 usebrainonline.com
