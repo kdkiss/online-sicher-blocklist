@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-19
-# Domains: 2930
+# Domains: 2934
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -1080,6 +1080,7 @@ gartenmaschinen24.de
 gartenmoebelwelt.com
 gartenmotor.de
 gartenobstshop.com
+gartenpaula.de
 gartenpflege-in-duisburg.de
 gartenpools24.de
 gartenreisen-magnolia.de
@@ -1970,6 +1971,7 @@ oneact.petermoon.click
 oneact.testflag.click
 oneact.workscap.shop
 onkmusic.com
+online-apotheke-westbevern.de
 online-dealse.shop
 online-douyin.com
 online-gambling-rules.org
@@ -2472,6 +2474,7 @@ sportbagsshop.com
 sportgearde.com
 sportopath.de
 sportpfadshop.de
+sppulsar.shop
 sprengler-direkt.de
 sprinttosave.com
 srylab.bio
@@ -2818,6 +2821,7 @@ werkerswelt-moelln.de
 werkora-industrial.com
 werkzeug-brandl.com
 werkzeug-und-maschinen.com
+werkzeug-und-maschinen.de
 werkzeugbauladen.com
 werkzeugbrandl.com
 werkzeugdeutsch.com
