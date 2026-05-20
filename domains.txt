@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-20
-# Domains: 3066
+# Domains: 3070
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -1618,6 +1618,8 @@ kochand.com
 kochhand.com
 koenigssee-uhrmanufaktur.de
 kogenheimholz.com
+kompetenzworkshops.de
+komplettanschlussangebote.de
 komponentende.com
 konditorei-mohrholz.de
 konigmode.de
@@ -2286,6 +2288,7 @@ radselect.de
 radsport-viernheim.de
 radtrikottourdefrance.de
 radzubehoer24.com
+raetzmodellbau.de
 rafso.tovy.shop
 raiffeisen-gewinn.vip
 rainer-baumarkt.de
@@ -2982,6 +2985,7 @@ willintter.shop
 wilson.co.at
 winlyonline.com
 winmauvip.store
+winnerz-casino-online.de
 winsomeshoppes.com
 withingss.at
 wnwzxocb.shop
