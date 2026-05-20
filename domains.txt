@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-20
-# Domains: 3070
+# Domains: 3081
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -344,6 +344,7 @@ autoteile-deutschland.com
 autoteile-kt.de
 autoteile-waschlowsky.de
 autoteileanton.de
+autoteiledirektde.com
 autoteilefachmarkt.de
 autoteileharbor.com
 autoteilejetzt.com
@@ -886,6 +887,7 @@ ebike-direct24.de
 ebikecomm.com
 ebikedolomiti.com
 ebiketeilekauf.com
+ebiketeileverkaufe.com
 ebikezubehoer.com
 eck-grill.de
 ecobrennholz.de
@@ -897,6 +899,7 @@ econicosus.de
 ecooflow.shop
 ecoutletstore.shop
 ecstasy-baby.net
+ed-apotheke.de
 edebrennholzedgar.com
 edelkatzenzucht.com
 edelrhein-metalle.de
@@ -995,6 +998,7 @@ fabianstore.com
 factoryoutletdeals.site
 fafadiyshop.com
 fahrrad-boelling.de
+fahrrad-discount24.de
 fahrrad-hess.de
 fahrrad-sparwelt.de
 fahrradanhaenger-freilauf.de
@@ -1008,6 +1012,7 @@ fahrradhandel-alf.de
 fahrradhandel-daempfle.de
 fahrradhandel-esslingen.de
 fahrradhandel-koumagnon.de
+fahrradhandel-krause.de
 fahrradhandel-martin.de
 fahrradhandel-rothbart.de
 fahrradkurier.de
@@ -1877,6 +1882,7 @@ moebel-rieder-abverkauf.de
 moebelcenterremscheid.de
 moebelfertigung-sandig.de
 moebelgutlager.com
+moebelonline24.com
 moebelpacker-wien.at
 moebelpunkt.com
 moebelquelle.com
@@ -2312,6 +2318,7 @@ reebokoutlet.de
 reeddecory.com
 refortek.com.es
 reifen-direkt24.com
+reifen-teile-discount.de
 reifenangebote.com
 reindesigner-handel.de
 reisenthell.shop
@@ -2461,6 +2468,7 @@ shelterene.com
 shimanofahrradrabatt.com
 shoessura.com
 shop-arka.com
+shop-pharmacie-france.net
 shop-pierce.com
 shopcharmtherapy.com
 shopcleanreach.com
@@ -2594,7 +2602,9 @@ spikonig.de
 spinanga-no-online.com
 spinbara-online.de
 splendorsolar.shop
+splendris-pharmaceuticals.de
 sportanwaelte.de
+sportapothekeonline.com
 sportbagsshop.com
 sportgearde.com
 sportopath.de
@@ -2964,6 +2974,7 @@ werkzeuge-maschinen.com
 werkzeugeholz.de
 werkzeugemaschinen.com
 werkzeugonline24.com
+werkzeugonlineshop.com
 wertexmarkt.de
 wertglanzedelmetall.de
 westcoastmarketing-sales.com
