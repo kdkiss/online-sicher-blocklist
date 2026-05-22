@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-22
-# Domains: 3331
+# Domains: 3334
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -80,6 +80,7 @@ adventure-shop.at
 adventurefungear.com
 aedexstore.de
 aehesis.de
+aeke-smart.com
 aenikas.com
 aerialpics.de
 aeydeschuhe.de
@@ -391,6 +392,7 @@ badartikelsupply.com
 baer--schuhe.com
 baerliner-apotheke-berlin-marzahn.de
 bag-promo.com
+bagtrendshop.com
 bahnhof-apotheke-hersbruck.de
 bakta8.myshopify.com
 balkongluck.com
@@ -2912,6 +2914,7 @@ tagkitchenware.de
 takebstbsdeals.shop
 takones.cl
 tapex-tapes.de
+taschentotal.com
 tatonka-de.com
 tauchflaschenschutznetz.com
 tckuspcx.shop
