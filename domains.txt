@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-22
-# Domains: 3334
+# Domains: 3356
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -28,6 +28,7 @@
 4living.at
 674985034.myshoplaza.com
 6pmhoodies.de
+7dealdays.de
 7k9lod.com
 aaliencart.com
 aatrailers.de
@@ -105,6 +106,7 @@ airguncapital.com
 airoil.de
 airsguns.com
 airyano.com
+aisitinsalede.de
 akenor.com
 akrostichon.at
 aktion-motorrad.de
@@ -467,8 +469,10 @@ berliner-gartenservice.de
 berlinkaffee.myshopify.com
 berlinmusicscores.com
 berlinrideservice.com
+berma-handel.de
 berma-shop.com
 bermar-grills.com
+bermar-grills.de
 bermar-shop.com
 bermuda-musicshop.de
 bertone-werkzeugbau.de
@@ -522,6 +526,7 @@ bikexcs.com
 bikezubehoershop.com
 biladishop.com
 bildsieg.com
+billig-werkzeug.com
 billigelektrofahrrad.com
 billiggarten.com
 billighandyhullen.de
@@ -601,6 +606,7 @@ buchsonderangebote.de
 buckbasil.com
 buckbirch.com
 buddingscholarsonline.com
+buergersolarfabrik.de
 buerobedarfshop.com
 buffaloskorsverige.com
 buildmaterialstore.com
@@ -630,6 +636,7 @@ canmidy.com
 cantinadautoress.com
 capecoralsolarcleaning.com
 capitalgiftsoutlet.com
+captaincookscasino-online.de
 carboar.ar
 carculturein.com
 carharttoutletdeutschland.de
@@ -784,6 +791,7 @@ daryeleth.org
 das-feel-natural.de
 das-montessori-spielzeug.de
 dashdeal.ch
+daskaffeesatzorakel.de
 dasoo.de
 database-connection-pooling.com
 datendetektive-online.de
@@ -1213,6 +1221,7 @@ gardensvergen36.myshopify.com
 gardeprowildkamera.de
 garmin-shop.net
 garten-pflanzen-pro.com
+garten-see.de
 garten66.ch
 gartenbarriere.com
 gartenbedarfs-de.com
@@ -1325,6 +1334,7 @@ gomell-24.de
 gomla-online.com
 gommel-trading.de
 goodensolarenergylimited.com
+goodersatzteileshop.com
 goodideatrade.com
 goodotisnop.click
 goodpriceclothes.com
@@ -1582,6 +1592,7 @@ infokaetotalbeauty.com
 infraredsaunaspot.com
 inglesinas.de
 innerpharmacy.org
+innomarkt.de
 insightberichte.de
 inspirasikus.com
 interarino.com
@@ -1691,6 +1702,7 @@ kanqiuoneeighteight-online.com
 kanzlei-guehmann.de
 kanzlei-keller-luers.de
 kanzlei-neudeck.de
+kapitalmarktdirekt.de
 karnevalkostum.com
 kartsportzubehoer.com
 kastner-oehler-de.com
@@ -2285,6 +2297,7 @@ onlythebestshop.com
 onrunning-at.myshoplaza.com
 onyvatransport.com
 oonowa.myshopify.com
+openwatershop.de
 opholzimpexgmbh.com
 optimisticoffer.com
 oralb-austria.com
@@ -2525,6 +2538,7 @@ reifenangebote.com
 reindesigner-handel.de
 reisenthell.shop
 reisenthelstore.de
+reiseplanung-online.de
 reisholzgmbh.de
 reiso.online
 reisonthelsen.de.com
@@ -2688,6 +2702,7 @@ shoessura.com
 shop-arka.com
 shop-pharmacie-france.net
 shop-pierce.com
+shop-vergleicher.de
 shop.tegeler.com
 shopapphero.de
 shopcharmtherapy.com
@@ -2878,6 +2893,7 @@ striegel-k-containers.de
 strittmatter-versicherung.de
 strobllandmaschinen.de
 stromraum-studio.de
+strumpfkauf.de
 studio34beautylab.com
 studioelani.com
 studioherr.com
@@ -2911,9 +2927,12 @@ sz-tax.com
 tagesgeld-onlinecheck.de
 taggartstrustedtrailerscom.com
 tagkitchenware.de
+taglichrabatt.de
 takebstbsdeals.shop
 takones.cl
 tapex-tapes.de
+taschenalle.com
+taschenclub.com
 taschentotal.com
 tatonka-de.com
 tauchflaschenschutznetz.com
@@ -3003,6 +3022,7 @@ topmachinestore.com
 topmedicalaestheticsde.com
 topoffice24.com
 toponlinecasinodeutschland.de
+toponlinepharmacies.com
 topskiequipmentde.com
 topstore1game.com
 torqueebikes.shop
@@ -3135,6 +3155,7 @@ viraltiktokshop.com
 vircominfo.de
 virtualgift-online.com
 virtualpharma.de
+virtuelle-apotheke.de
 visioncenterstore.com
 vitafeetdeu.com
 vitanourishhub.com
@@ -3205,6 +3226,7 @@ wellott.com
 wellunora.com
 welpentraum.de
 welttrikot.com
+werk-garten.de
 werkbedarf24.de
 werke-anhangers.com
 werkerswelt-moelln.de
