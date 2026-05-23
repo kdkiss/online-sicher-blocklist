@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-23
-# Domains: 3414
+# Domains: 3431
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -538,6 +538,7 @@ billigelektrofahrrad.com
 billiggarten.com
 billighandyhullen.de
 billigmoebel.de
+billigzegna.de
 bio-brennholz.de
 bioen-tech.de
 biologischeshop.com
@@ -911,6 +912,7 @@ dimedell.com
 direkt-payout.de
 direktbericht.de
 direktblick.de
+direktkaufen-seiteid.de
 diseasy.shop
 diskrete-apotheke24.de
 diy-expert-deals.shop
@@ -1207,6 +1209,7 @@ freitag-taschen.com
 freshdirectonline.com
 freshelino.com
 frgamesonline.com
+fridayrollcasino-online.de
 friluftsguru.com
 fritz-container-gmbh.de
 fts-gmbhmaschine.com
@@ -1438,6 +1441,7 @@ haus-gartenservice-bozkurt.de
 haus-kaufen-istrien.de
 haus-wein.com
 hausdampf.com
+haushalts-versand.de
 hausmez.de
 hausofvedashop.com
 haustirwelten.de
@@ -1641,6 +1645,7 @@ ishibashifoodstore.com
 iskenderunsolarenerji.com
 issamtransports.com
 isthebabybornyet.com
+it-marktblick.de
 it2-use.de
 italianskinstore.com
 itisrainvintage.com
@@ -1781,6 +1786,8 @@ kkz-insolvenz.de
 kkz-insolvenzrecht.de
 klangaeder.com
 klassischesfahrradneu.com
+klaus-meat-grill.ch
+kleinanzeiqen-verkauf.de
 kleinre.myshopify.com
 kleinverkaufen.de
 klempnerwerkzeug.com
@@ -2043,6 +2050,7 @@ merrell-deutschland.de
 merrelloutletonline.de
 merveillesdhiver.com
 messara-kreta.de
+mfomatratzenmarkt.de
 mfsebike.com
 mhamzasaleem.com
 mhpa.net
@@ -2075,6 +2083,7 @@ mkijnds.shop
 mml-container.de
 mmtaccessibility.com
 mn.magazinmodern.de
+mngaristastore.de
 mntasest.lol
 mobelonlineshop24.com
 mobetrix.com
@@ -2162,6 +2171,7 @@ mydreampetstore.com
 myelektrocenter.com
 myfitnessdealz.de
 mygarminstraps.de
+mygreensolaris.ch
 myraceshop.de
 myshopify.com
 myspirituosen.com
@@ -2313,6 +2323,7 @@ online-sjb.com
 online-smartdeals.com
 online-tchibosale.shop
 online-uittreksel.com
+onlinebusinessdorf.de
 onlinecasinodeutschliste.de
 onlinecasinoparis.com
 onlinecasinositeindia.com
@@ -2611,6 +2622,7 @@ rezeptfreie-bestellung.de
 rhinoshopsystems.com
 ricardo-sofort-deals123.online
 richagloves.com
+richardcasino-online.de
 richter-uhren.de
 rickoshop.org
 ridegefuhl.de
@@ -2886,6 +2898,7 @@ spielzeugautosrabatt.com
 spikonig.de
 spinanga-no-online.com
 spinbara-online.de
+spinline-casino-online.de
 spl-energie.de
 splendorsolar.shop
 splendris-pharmaceuticals.de
@@ -2902,6 +2915,7 @@ sprinttosave.com
 srmsaleskpi.com
 srylab.bio
 stabileersatzteile.com
+stake-online24.online
 standesamt-portal.de
 stanley1913.com
 stanleydeutschlandshop.de
@@ -3008,6 +3022,7 @@ thedealscloset.com
 thedroppickleballshop.com
 theeventoutlet.com
 theexplorerco.com
+theflexbueromoebel.shop
 thefxleads.com
 thegoels.net
 thehandtoolauto.com
@@ -3176,6 +3191,7 @@ velozenit.com
 velqirastore.com
 venorital.com
 venticlub.de
+veosbikes.de
 verdalucina.com
 verizon.site
 verkauf-garten.com
@@ -3387,6 +3403,7 @@ zaraosterreich.at
 zasamo.com
 zatruesonline.de
 zaubergartenpro.com
+zegnakaufen.de
 zeigebericht.de
 zenglowz.com
 zenniagoods.com
