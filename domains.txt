@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-23
-# Domains: 3405
+# Domains: 3414
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -515,6 +515,7 @@ bikeambulanz-mobil.de
 bikeauction.de
 bikebox-salzgitter.de
 bikeboys-onlineshop.de
+bikecomponents24.de
 bikeconcepto.shop
 bikefactoryplus.shop
 bikegadgetde.com
@@ -675,6 +676,7 @@ cdtest.fullgrow.club
 cdwar.morepush.shop
 center-staubsauger.de
 centralparkebikerentals.com
+centralpharma.de
 cerealshouse.com
 certibike.com
 cervaluxe.com
@@ -856,6 +858,7 @@ degussagold-handel.de
 degussaonline.de
 dehiking.de
 dein-heizoelmarkt.de
+deinenergieplan.de
 dejia.shop
 dekoartikelrabatt.de
 dekorabatt.com
@@ -2332,6 +2335,7 @@ onlineugyintezes-fizetendo.com
 onlinomarkt.de
 onlythebestshop.com
 onrunning-at.myshoplaza.com
+onrunningoutletdeutschland.de
 onyvatransport.com
 oonowa.myshopify.com
 openwatershop.de
@@ -2402,6 +2406,7 @@ petfyshope.com
 petroya.de
 pfeilearmbruste.com
 pflegeprofi-shop.com
+pfotengarten.de
 pfotenzug.com
 pgz999-online.com
 pharmabox.shop
@@ -2789,6 +2794,7 @@ shopvitalitys.com
 shopwa.net
 shopyalili.com
 shopzogu.com
+shredlab-bike-academy-sauerland.de
 shreedhaonlineparts.com
 shumbastore.com
 sieundihn.de
@@ -2880,6 +2886,7 @@ spielzeugautosrabatt.com
 spikonig.de
 spinanga-no-online.com
 spinbara-online.de
+spl-energie.de
 splendorsolar.shop
 splendris-pharmaceuticals.de
 sportanwaelte.de
@@ -2941,6 +2948,7 @@ studio34beautylab.com
 studioelani.com
 studioherr.com
 studiosflora.de
+stussystoresdeutschland.de
 stydpueb.club
 stylishdealspl.shop
 suchsnow.com
@@ -3360,6 +3368,7 @@ yournaturalathlettrading.shop
 yourshoppingkart.com
 yoursolarfuture.com
 youyeshop.com
+ysolara.at
 ythebyre.top
 yumgs.holdenouterwear.shop
 yvmonlinebusiness.de
