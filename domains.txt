@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-23
-# Domains: 3373
+# Domains: 3392
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -48,6 +48,7 @@ academiabeauty.online
 accessoires-onsaleshop.com
 accessorieschildren.com
 accompro.com
+acdc-strom.de
 achimkelbel.de
 achimreims.de
 aclassstore.com
@@ -875,6 +876,7 @@ desolaron-k-mipixelum-conovaon.org
 desportartikelrabatt.com
 detroit313shop.com
 deutchshop24.de
+deutsche-energieoptimierungsgesellschaft.com
 deutschebapotheke.net
 deutschegadgetmarkt.de
 deutschemoebelbau.de
@@ -902,6 +904,7 @@ digitalstoreme.com
 dimedell.com
 direkt-payout.de
 direktbericht.de
+direktblick.de
 diseasy.shop
 diskrete-apotheke24.de
 diy-expert-deals.shop
@@ -909,6 +912,7 @@ diybuildsupplies.com
 djawad-razek.de
 dlxn-mode.de
 dly-home.com
+docgbeauty.de
 doinvitletter.de
 dokumentenkaufen.eu
 domuslumi.com
@@ -923,6 +927,7 @@ draussenmenschen.de
 dreamsleepz.de
 drink-horizon.com
 drinkwarehotsale.com
+drohnenbewilligung.at
 dropdealzmarket.de
 drosselberg-apotheke.de
 druckerpratonen.de
@@ -1135,6 +1140,7 @@ ferlafamilybikesshop.shop
 fermil.shop
 ferntrailcollective.com
 feronilva.com
+ferosalesgroup.de
 ferplasthaustierbedarf.com
 festgeld-finder.de
 festgeld-profis.de
@@ -1169,10 +1175,12 @@ fniyitegeka.org
 focusetenergie.com
 foerdertechniks.com
 foluna.fr
+fontancasino-online.de
 forgeboxcontainers.com
 formeri.shop
 foronhausgeraete.de
 forsaleinthebahamas.com
+forstbetriebstarkholz.de
 forstbrennholz.de
 forstfeuer.de
 fortnitec.com
@@ -1346,6 +1354,7 @@ goodideatrade.com
 goodotisnop.click
 goodpriceclothes.com
 goods-shopgreener.com
+gordonsbodyshop.de
 gotshod.monster
 gpautoshopimport.com
 graf-wien.com
@@ -1353,6 +1362,7 @@ granderioam.com
 grandprixfactory.com
 grandvshop.com
 greenbird-shop.com
+greeneggstore.de
 greentrimmer.de
 greentuning-de.com
 grekkstore.com
@@ -1657,6 +1667,7 @@ joinherdeal.com
 jointriosolar.com
 jojobet-online-2026.com
 jojodiscount56.com
+jokerycasino-online.de
 jokettlannd.com
 jolamsneaker.com
 jon-balkanshop.de
@@ -1998,6 +2009,7 @@ megahandel.shop
 megamalldeals.shop
 megapickstore.com
 mein-ebikepro.com
+mein-handel.at
 mein-solar24.com
 mein-trailer.de
 mein.lhk.de-plushilfe.com
@@ -2083,6 +2095,7 @@ montblancsale.de
 montflames.com
 moosufergarten.de
 mopolodenim.de
+mora-gartenbau.de
 morenutritionde.shop
 moreviabeauty.com
 moriaccessoires.com
@@ -2357,6 +2370,7 @@ pbm-energy.com
 peawholesaler.com
 pedale-onshop.com
 pedalpalast.de
+peggyperfectsales.de
 pelletkraft.de
 pelletor.at
 pellets-maschinen.de
@@ -2465,6 +2479,7 @@ profibrennde.com
 profile-bitstamp.net
 profiwerkzeug24.com
 proinstrumentshop.com
+proirononline.de
 proofsagen.com
 prooplitecommunity.shop
 propellets.pro
@@ -2952,6 +2967,7 @@ taschentotal.com
 tatonka-de.com
 tauchflaschenschutznetz.com
 tckuspcx.shop
+teambike-hamburg.de
 teamstryk.de
 techhomede.com
 techminik.com
@@ -3043,6 +3059,7 @@ topskiequipmentde.com
 topstore1game.com
 torqueebikes.shop
 torrenssolarx.com
+traditioncasino-online.de
 traditionellertee.com
 trailer-master.de
 trailsportshop.de
@@ -3059,6 +3076,7 @@ trendigehandtaschenkaufen.com
 trenessshop.de
 trgartenservice.de
 trinkmeistershop.com
+triptistore.de
 trivanode.com
 truerebuy.com
 trupharmacbd.com
@@ -3226,6 +3244,7 @@ watchcod-hr.shop
 watchcod-nz.shop
 watchdealseu.shop
 waterdrop-osterreich.at
+waterdropsalede.de
 watersydea.shop
 wattpionier.de
 wearbreeze.de
