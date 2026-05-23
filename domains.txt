@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-23
-# Domains: 3365
+# Domains: 3373
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -514,6 +514,7 @@ bikebox-salzgitter.de
 bikeboys-onlineshop.de
 bikeconcepto.shop
 bikefactoryplus.shop
+bikegadgetde.com
 bikelight.de
 bikenetz.de
 bikepartsprofi.com
@@ -594,6 +595,7 @@ brewheaven.shop
 bringershop.de
 brinkmann-mode.de
 brokereins.com
+brookschuheoutlet.de
 brookssale.store
 brooksschuheberlin.de
 browningforsale.com
@@ -1305,6 +1307,7 @@ giessweins.it
 ginatricoeu.shop
 gitarreundklavier.com
 giuliaravelli.com
+gkfahrrad.de
 glamneticsale.com
 glasermodehaus.de
 glenkbaustoff.com
@@ -1331,6 +1334,7 @@ goldankauf365.de
 goldengoosesale.de
 goldenngoosee.com
 goldenpandacasino-online.de
+goldenretrievervompfarrgarten.de
 goldshopsejahtera.com
 gomel-24.de
 gomell-24.de
@@ -1635,6 +1639,7 @@ jdbanli.com
 jdsportsoutlet.de
 jeansrabatt.de
 jebeautyhk.com
+jeehiova.com
 jeffspoolservice.com
 jerseykauf.com
 jerusalem-project.org
@@ -1666,6 +1671,7 @@ jufahotels.de
 jumaartshop.de
 jumpft.de
 jutevibers.com
+k-apotheke.de
 k4-kulturgarten.de
 kaercherde.shop
 kaffee-de.com
@@ -1747,6 +1753,7 @@ kitchenlifeculture.com
 kitchenmarket1.myshopify.com
 kiwea.shop
 kjbeautysalon.com
+kjw-garten.de
 kkz-insolvenz.de
 kkz-insolvenzrecht.de
 klangaeder.com
@@ -3072,6 +3079,7 @@ tv-longzhu-online.com
 uaeteampissei.team
 uggfans.myshoplaza.com
 uggs.co.at
+uhrenausholz.de
 uhrenpaule.de
 uhrenvip.de
 uiahgpuutgr.top
