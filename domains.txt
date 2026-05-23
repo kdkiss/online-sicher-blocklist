@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-23
-# Domains: 3392
+# Domains: 3405
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -364,6 +364,7 @@ autoteilefachmarkt.de
 autoteileharbor.com
 autoteilejetzt.com
 autoteilepilotpluss.de
+autoteilerabatt.com
 autoteilex.com
 autozubehormarkt.com
 auvikoshop.com
@@ -492,6 +493,7 @@ bestnutradeals.online
 bestonlinecasinoliste.de
 bestproductsonlinestore.com
 bestsoluvs.click
+bestwerkzeugeshop.com
 betrugs-check.de
 betrugsrecht.de
 beyham.com
@@ -539,6 +541,7 @@ bio-brennholz.de
 bioen-tech.de
 biologischeshop.com
 birken-stockde.shop
+birkgarten.de
 birnbaumholz.de
 bitkabelvore.de
 bitloonx.de
@@ -1016,6 +1019,7 @@ elwenkoffer.de
 elwenrimowa.de
 elyvanedepot.com
 emberwakeonline.com
+emeingarten24.com
 emilygrosholz.shop
 emiratistorebd.com
 emmakeller.de
@@ -1102,6 +1106,7 @@ fahrradgeschaft-de.com
 fahrradhandel-alf.de
 fahrradhandel-daempfle.de
 fahrradhandel-esslingen.de
+fahrradhandel-hartmann.de
 fahrradhandel-koumagnon.de
 fahrradhandel-krause.de
 fahrradhandel-martin.de
@@ -1237,6 +1242,7 @@ garten-pflanzen-pro.com
 garten-see.de
 garten66.ch
 gartenbarriere.com
+gartenbedarf-ehlers.de
 gartenbedarfs-de.com
 gartenbiliger.com
 gartenbotde.com
@@ -1258,7 +1264,9 @@ gartenpaula.de
 gartenpflanzende.com
 gartenpflege-in-duisburg.de
 gartenpilot.com
+gartenplus24.com
 gartenpools24.de
+gartenratgeberplus.de
 gartenreisen-magnolia.de
 gartensbillig.com
 gartenschoner.com
@@ -1299,6 +1307,7 @@ germanlifeparts.com
 germanmanufaktur.de
 germanproduktshop.de
 germanqualitaet.de
+gesamtgarten.de
 gesundheit-md.de
 get-nuro.com
 get-omnihear.com
@@ -1784,6 +1793,7 @@ knusperwelt.com
 kobsarwelpen.de
 kochand.com
 kochhand.com
+koedel-gartenbau.de
 koenigssee-uhrmanufaktur.de
 kogenheimholz.com
 kompetenzworkshops.de
@@ -2252,6 +2262,7 @@ oasispoolsnspa.com
 obdclick.com
 obibaumarkt.at
 obstbaumrabatt.com
+oel-zuhause-online.de
 oelbonus.de
 oelfast.de
 oelfuel.de
@@ -2367,6 +2378,7 @@ pavernotti.com
 pawfurbaby.com
 pawlmshop.com
 pbm-energy.com
+pcschulungsmoebel.de
 peawholesaler.com
 pedale-onshop.com
 pedalpalast.de
@@ -2628,6 +2640,7 @@ royalkindergarten.com
 rpebike.online
 rpgmerchstore.com
 rs-remorque.com
+rueping-garten.de
 runecasa.com
 rx-pharmacies.com
 rzpellet.at
