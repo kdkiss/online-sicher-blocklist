@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-24
-# Domains: 3439
+# Domains: 3445
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -187,6 +187,7 @@ andreasbertels.de
 andreaswerkstatt.de
 andres-kopierer.de
 anduni.de
+angebote-erstellen.de
 angebote-kauf.de
 angela-cosmetics.de
 angermaierwiesn.de
@@ -780,6 +781,7 @@ cschwindt24.de
 csfmeqv.sbs
 csschwindt.de
 cubeosterreich.at
+curacaoonlinecasino.de
 cusb4.com
 cusb8.com
 cv-tech-onlineshop.de
@@ -992,6 +994,7 @@ ecstasy-baby.net
 ed-apotheke.de
 edebrennholzedgar.com
 edelkatzenzucht.com
+edelmetalle-investment-online.de
 edelrhein-metalle.de
 edelstil.shop
 edexpress24.com
@@ -1688,6 +1691,7 @@ joinherdeal.com
 jointriosolar.com
 jojobet-online-2026.com
 jojodiscount56.com
+jokery-casino-online.de
 jokerycasino-online.de
 jokettlannd.com
 jolamsneaker.com
@@ -2178,6 +2182,7 @@ myelektrocenter.com
 myfitnessdealz.de
 mygarminstraps.de
 mygreensolaris.ch
+mymedicalshop365.top
 myraceshop.de
 myshopify.com
 myspirituosen.com
@@ -3437,6 +3442,7 @@ zoomil.de
 zorilenta.com
 zoukoutlet.com
 zova.at
+zrhspwerkstatt.de
 zuchterheim.com
 zularo.de
 zum-gockelhahn.at
