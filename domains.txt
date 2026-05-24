@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-24
-# Domains: 3445
+# Domains: 3448
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -415,6 +415,7 @@ bauerngarten-fuehrungen.de
 bauhobby.com
 bauknoten.com
 baukomps.com
+baumgarten.ch
 baustoffwerkzeug.com
 bauundgarten.com
 bawz.store
@@ -1077,6 +1078,7 @@ eurometal-structure.com
 europabestellung.nl
 europe-pack.eu
 europellet.at
+europharmacyonline.com
 euskirossignol.de
 eusportsequipment.it.com
 euvendorshub.online
@@ -2736,6 +2738,7 @@ schmoelzer-appartements.com
 schoen3dshop.de
 schoeppe-heizoel.de
 schraubheld24.de
+schrebergarten-finden.de
 schuhebaer.com
 schuhekaufenwien.com
 schuhhaus-greten.de
