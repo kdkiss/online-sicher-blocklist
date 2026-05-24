@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-24
-# Domains: 3434
+# Domains: 3437
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -1355,6 +1355,7 @@ goblinkcl.shop
 goelitemarketing.com
 gojodns.com
 gokoelectricinc.com
+gold-investment-online.de
 goldankauf365.de
 goldengoosesale.de
 goldenngoosee.com
@@ -2795,6 +2796,7 @@ shopsandryft.com
 shopsavehub.com
 shopsetra.com
 shopskychefs.com
+shopsolaraswimwear.online
 shopsouthernandhealthy.com
 shopstrandedhair.com
 shoptamsyn.com
@@ -2917,6 +2919,7 @@ sprengler-direkt.de
 sprinttosave.com
 srmsaleskpi.com
 srylab.bio
+sslzertifikatkaufen.de
 stabileersatzteile.com
 stake-online24.online
 standesamt-portal.de
