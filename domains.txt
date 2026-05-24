@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
-# Updated: 2026-05-23
-# Domains: 3431
+# Updated: 2026-05-24
+# Domains: 3434
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -354,6 +354,7 @@ autopraxen.com
 autorepairshopphoenixaz.com
 autosbios.com
 autoshopbuilder.com
+autoteile-autoersatzteile.de
 autoteile-christa.at
 autoteile-deutschland.com
 autoteile-kt.de
@@ -1120,6 +1121,7 @@ fahrradhandel-richter.de
 fahrradhandel-rothbart.de
 fahrradkurier.de
 fahrradladen-hoffmann.de
+fahrradproshop.com
 fahrradsparpark.de
 fahrradvitus.de
 fahrradweltangebote.com
@@ -1913,6 +1915,7 @@ livorentino.com
 liwed.barpalm.shop
 lloydchuhe.de
 lloydsosterreich.at
+lloydspharmacystore.shop
 lmfmotoculture.com
 lmvae.shop
 lmzvay.shop
