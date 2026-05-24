@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-24
-# Domains: 3437
+# Domains: 3439
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -506,6 +506,7 @@ bidmask.com
 bienenstock-potsdam.com
 bierbankdruckerei.de
 biergarten-am-kuenettegraben.de
+bierundgarten.de
 biggainersalerts-members.com
 bigskysaunas.com
 bike-components-de.com
@@ -2011,6 +2012,7 @@ marvelcasino-online.de
 marveliona.com
 marwoodworkshop.com
 maschinenbau-marketingtranslations.com
+maschinenfuergarten.de
 masterbaushop.de
 masterofmalteu.shop
 masters-dipl-kfm.de
