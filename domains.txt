@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
-# Updated: 2026-05-24
-# Domains: 3457
+# Updated: 2026-05-25
+# Domains: 3460
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -1156,6 +1156,7 @@ feinkaufshop.com
 feinkleidung.com
 felgenwelt.com
 felino-sport.de
+felsquellgarten.de
 fenixxstore.com
 fensterundtuer.com
 ferlafamilybikesshop.shop
@@ -1880,6 +1881,7 @@ leaseabike.shop
 lebanonmbstore.com
 lebensartikel.com
 legati-kanzlei.de
+legeroschuhe.at
 lekisports.com
 leobabyjordanbjj.com
 leqaa-store.com
@@ -2371,6 +2373,7 @@ onrunning-at.myshoplaza.com
 onrunningoutletdeutschland.de
 onyvatransport.com
 oonowa.myshopify.com
+oopbuyshop.de
 openwatershop.de
 opholzimpexgmbh.com
 optimisticoffer.com
