@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-26
-# Domains: 3483
+# Domains: 3495
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -438,6 +438,7 @@ bd222-online.com
 be-aetlcnshop.com
 beambright.de
 beamdeals.de
+beautifyshop.de
 beauttyystore.com
 beauty-begins-here.com
 beauty-nudism.club
@@ -487,6 +488,7 @@ bermar-grills.de
 bermar-shop.com
 bermuda-musicshop.de
 bertone-werkzeugbau.de
+beschlaege-markt.de
 bessaunasistemleri.com
 bessererbaumarkt.de
 best-sauna.org
@@ -872,6 +874,7 @@ degussagold-handel.de
 degussaonline.de
 dehiking.de
 dein-heizoelmarkt.de
+deinautoteileshop.de
 deinenergieplan.de
 dejia.shop
 dekoartikelrabatt.de
@@ -970,6 +973,7 @@ dwellivory.com
 dwelllayered.com
 dwellmingle.com
 dwellserene.com
+dynamo-shop.at
 dynapharmacy.online
 dyson-de.de
 dystopian-gaming.com
@@ -1401,6 +1405,7 @@ graf-wien.com
 granderioam.com
 grandprixfactory.com
 grandvshop.com
+grauwindgarten.de
 greenbird-shop.com
 greeneggstore.de
 greentrimmer.de
@@ -1416,6 +1421,7 @@ grillterrasse.com
 grillzentrum.com
 groomifypetsstore.com
 grootfmoveshop.com
+grosshandelwebservice.de
 grossiste-parfum-generique.com
 groupeferroignis.com
 groupeshf.com
@@ -1613,6 +1619,7 @@ huard-stammholz.com
 humidifierverkauf.de
 hunde-katzen.at
 hundebedarfsale.com
+hunteronlineshop.at
 hushcandlesale.com
 hutdesignherren.com
 hxbabycare-xx.top
@@ -1755,6 +1762,7 @@ kaltesholz.de
 kamagra.at
 kamagrabestellen.eu
 kamagraeu.net
+kamagrapreis.de
 kamera89.com
 kamerarabatt.de
 kamerasecure.de
@@ -2004,6 +2012,7 @@ macduggalstore.com
 madeleine-issing.com
 magicaldeals.shop
 magicpotionoutletstore.shop
+magicwandshop.de
 mahershop24.com
 mailionos.de
 main-garten.at
@@ -2713,6 +2722,7 @@ sale-still.de
 saleemrizwan.com
 salehasafdarglobalconsulting.com
 salejcb.de
+salelanawelpen.de
 sales-deere.de
 salesappv51.de
 saleshop24.shop
@@ -2772,6 +2782,7 @@ schuhebaer.com
 schuhekaufenwien.com
 schuhhaus-greten.de
 schultefashion.com
+schusters-handel.de
 schutzhand.com
 schwanhaus.de
 schwarzmarktwaffenhandler.de
@@ -2912,6 +2923,7 @@ solarbundesliga.at
 solarc.click
 solaregis.com
 solarflowcrm.com
+solaricstore.com
 solarinstallerscapetown.com
 solarlc.com
 solarmatchs.online
