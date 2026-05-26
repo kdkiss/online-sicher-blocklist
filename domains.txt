@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-26
-# Domains: 3495
+# Domains: 3498
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -292,6 +292,7 @@ arthacksler.de
 artiefitness.com
 artikel-vergleichen.de
 artofbeautykosmetik.com
+artofbeautys.de
 arzi.de
 as-center.at
 asaravstore.com
@@ -1306,6 +1307,7 @@ gartenstuhlemetall.com
 gartentischede.com
 gartenundanhaenger.de
 gartenundoutdoor-de.com
+gartenvision2.de
 gartenzau.de
 gascovert.com
 gastromore.de
@@ -2999,6 +3001,7 @@ stilhausfreiburg.com
 still-sonderaktionen.de
 stillavero.com
 stillhandel.de
+stillsonline.de
 stoertebekkerbeauty.shop
 stoicdraussen.com
 stonewyld.com
