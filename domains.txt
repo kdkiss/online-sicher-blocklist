@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-28
-# Domains: 3536
+# Domains: 3540
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -32,6 +32,7 @@
 7dealdays.de
 7k9lod.com
 7tup-shop.com
+a-baustofflager.com
 aaliencart.com
 aatrailers.de
 abbeautysalonx.net
@@ -1087,6 +1088,7 @@ esfimeqss.cfd
 eshop.vailmere.com
 esn-eu.com
 esn-fitness.com
+esneuroutlet.com
 essanzashop.com
 essensverkaufs.com
 essentials-osterreich.at
@@ -2315,6 +2317,7 @@ nordoil.de
 norvahaus.de
 norvexapharma.com
 notenglanz.com
+nova-versand.de
 novambients.de
 novaoutletshopcheckout.online
 novaoutletshopcheckout.site
@@ -3041,6 +3044,7 @@ store-nyx.com
 store.dealofferix.com
 store.miremonta.com
 store.savemarketed.com
+store.yorlanda.com
 storeaigle.de
 storehubpro.com
 storeoficialguadalajara.com
