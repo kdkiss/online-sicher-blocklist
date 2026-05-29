@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-29
-# Domains: 3592
+# Domains: 3593
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -718,6 +718,7 @@ champion.co.at
 charj7.myshopify.com
 chasedesk.com
 checkout.rezeptedesgeschmacks.com
+checkproduct.review
 cheersperuviangrill.com
 chicco.com.de
 chicvo.com
