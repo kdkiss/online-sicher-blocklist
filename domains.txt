@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-29
-# Domains: 3579
+# Domains: 3592
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -138,6 +138,7 @@ alfonsa.de
 alfred-holz.com
 aliasboards.de
 alienoa.de
+alinea-online.com
 alituranbarbershop.com
 all-liuliutiyu-online.com
 alldealsworld.com
@@ -650,6 +651,7 @@ bukkwood.com
 bundestagssauna.de
 bunterstil.com
 buyalwansolar.shop
+buyjethose.com
 bvsprobtp.com
 bylola-store.de
 bynwatch.de
@@ -1190,6 +1192,7 @@ fastbetonline.com
 fastenergy24.com
 faszinationholz-salzmann.de
 fatfax.wantbrand.shop
+fatoobal.com
 fbsportonline.de
 fc-moto-vip.com
 feelgoodcamper24.de
@@ -1272,6 +1275,7 @@ fuhr-brennstoffe.de
 fumot-shop.de
 fundfennel.com
 fundfjord.com
+fussballtrikothaus.com
 future-sales.com
 fwertty.shop
 fxrikg.shop
@@ -1313,6 +1317,7 @@ gartenfreundetwisselmoor452.de
 gartenfuchskreation.de
 gartengreifer.de
 gartenhausmodern.com
+garteni.de
 gartenix.com
 gartenkissen-premium.de
 gartenkompass.com
@@ -1406,6 +1411,7 @@ glowwarehousede.com
 glp1-apotheke.com
 glp1apotheke.com
 gmbhboes.de
+gmfcar-sol.com
 go-campingmaster.com
 go-kartstore.com
 goalbo.de
@@ -1623,6 +1629,7 @@ holzwerks.de
 holzwerkzeug-bestequalitat.de
 holzwerkzeugekaufen.com
 homanero.com
+home-gear24.de
 home-saledeals.shop
 homedealspl.shop
 homedecordshop.com
@@ -1956,6 +1963,7 @@ leworkshops.com
 lg-gartengestaltung-gmbh.de
 lgglegrandgroupe.com
 lianonline.com
+liaonmskj.com
 lichtzauberaustria.com
 lidlhh.shop
 lidlpp.shop
@@ -1989,6 +1997,7 @@ liverpoolfestivalgardens.shop
 liverpoolgear.shop
 liverpoolmex.shop
 living-smarter24.com
+livohaus.com
 livorentino.com
 liwed.barpalm.shop
 lloydchuhe.de
@@ -2187,6 +2196,7 @@ modedeu.com
 modehaus-schroers.com
 modellbahnshop-club.shop
 modellbauguenstig.com
+modernoutdoorstandard.de
 moebel-haushalt.de
 moebel-onlineshop.com
 moebel-rieder-abverkauf.de
@@ -2412,6 +2422,7 @@ oneact.workscap.shop
 oneshops.de
 onkmusic.com
 online-apotheke-westbevern.de
+online-autoteile-shop.de
 online-casino-ohne-lizenz.de
 online-closed-gmbh.top
 online-dealse.shop
@@ -3267,6 +3278,7 @@ turkishsilverwholesale.com
 tuvas-tech.de
 tv-longzhu-online.com
 uaeteampissei.team
+uberwachungskamera-ohne-wlan.de
 uggfans.myshoplaza.com
 uggs.co.at
 uhrenausholz.de
@@ -3376,6 +3388,7 @@ vivibo-kueche.de
 vivohogarvida.com
 vodkaleti-formations-online-portal.com
 vogelpflege.com
+voglbaugeschaftgmbh.de
 voigtklimaanlage.com
 volkeep.de
 volkswagen-fahrzeuge.de
