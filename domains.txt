@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
-# Updated: 2026-05-29
-# Domains: 3593
+# Updated: 2026-05-31
+# Domains: 3605
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -129,6 +129,7 @@ aldorabatt.de
 aldoschuhe.de
 aldriftus-t-nasolarus-lodeltaus.com
 alex-deals.com
+alexitemsdemir.shop
 alfakherstore.de
 alfiag.cfd
 alfinags.bond
@@ -263,6 +264,7 @@ apuletta.de
 apunktnovum.de
 aquaflexshop.de
 aquaristik-seiten.de
+aquaristikteichstore.com
 aquariumzubehor24.com
 aquascapers-galerie.com
 arabian-oud-sa-store.com
@@ -334,6 +336,7 @@ atrium-living.at
 atsholz.com
 audi-services.com
 audienticys.com
+audio-seleccio.com
 audiwa.de
 auonlinegamestar.com
 auraboutique-shop.com
@@ -659,6 +662,7 @@ byredowien.com
 bytebad.com
 c-und-a-austria.com
 ca-agentur.de
+caballde.com
 cafebar-die-apotheke.de
 calmdetox-shop.com
 calmstructure.com
@@ -1011,6 +1015,7 @@ e-holzgmbh.com
 e-vignette.cz
 e-youbikes.com
 earljourdier.com
+easeviro.com
 easybike24.com
 easyfastshopping.com
 easylivora.com
@@ -1052,6 +1057,7 @@ ehspelletsgmbh.de
 eichhholtzsale.com
 einfach-oel.com
 einfachlagerverwaltung.de
+einfahbacken.de
 einzigartigetaschen.com
 eiselefahrrad.de
 eisenwarensale-shop.com
@@ -1192,6 +1198,7 @@ fast-solutions.work
 fastbetonline.com
 fastenergy24.com
 faszinationholz-salzmann.de
+fatfax.ratewell.shop
 fatfax.wantbrand.shop
 fatoobal.com
 fbsportonline.de
@@ -1390,6 +1397,7 @@ gicastores.com
 giesswein.ro
 giessweinno.com
 giessweins.it
+giessweinshop.com
 ginatricoeu.shop
 gitarreundklavier.com
 giuliaravelli.com
@@ -2639,6 +2647,7 @@ pt-sky.com
 pttavmilansepetionline.com
 pumpenprofi365.com
 pun168-online.com
+pundmannshop.de
 punkravestore.de
 puppenkleidungbillig.com
 purepharmas.co.uk
@@ -3033,6 +3042,7 @@ spiegellhaus.de
 spielbank-badenwurttemberg.de
 spieleboxdek.com
 spielwaren-tonies.com
+spielzeugarthub.com
 spielzeugautosrabatt.com
 spikonig.de
 spinanga-no-online.com
@@ -3120,6 +3130,7 @@ sunsolaraz.shop
 supavero.com
 super-xinqiutiyu-online.com
 superfitstores.com
+supermarktdigital.de
 superoutletshopsuomi.com
 supersavehub.com
 supershoperbd.com
@@ -3394,6 +3405,7 @@ voigtklimaanlage.com
 volkeep.de
 volkswagen-fahrzeuge.de
 volthausgeraete.de
+voltradbike.de
 von-kronen.com
 vortexashop.net
 vorwerk-de.com
