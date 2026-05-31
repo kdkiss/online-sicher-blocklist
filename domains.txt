@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-05-31
-# Domains: 3675
+# Domains: 3691
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -305,6 +305,7 @@ artiefitness.com
 artikel-vergleichen.de
 artofbeautykosmetik.com
 artofbeautys.de
+arwanagamingzpt.site
 arzi.de
 as-center.at
 asaravstore.com
@@ -392,6 +393,7 @@ auwaldbio-de.com
 avemiosolutions.com
 avenuebeautystudio.com
 avezzanofahrrad.de
+avidwholesale.org
 awo-baumarkt.de
 axiomdealslab.shop
 azadgrill-poesneck.de
@@ -402,6 +404,7 @@ baby-fields.com
 baby-lux.sale
 babyausstattung-de.com
 babybox-schweiz.ch
+babycookie.online
 babygea.com
 babylissde.de
 babymodepur.com
@@ -1245,6 +1248,7 @@ festgeld-profis.de
 festgeld-zinsberatung.de
 ffinasshop.com
 fideltylife.com
+fidsonline.org
 fiduciacarepartners.com
 fiduciaops.com
 filamentmarkt.com
@@ -1263,6 +1267,7 @@ fleischwolfprada.de
 flesch-gmbh.de
 flexihubstore.com
 flexsugges.com
+flipofferdeals.online
 flipperzero.at
 flixyshop.com
 flora-markt.de
@@ -1325,6 +1330,7 @@ gaming-klassiker.de
 gaming-peaks-getaway.com
 gamingkoltuk.com
 gaminglaptopcomputer.com
+gamingmadarin.org
 gap-outlet.de
 gapkleidung.de
 garden-caddy.com
@@ -1508,6 +1514,7 @@ guardianrestorenj.com
 guenstigere-apotheke.de
 gueta-handel.de
 gueyeclasse-shop.com
+gurstore.net
 gutmahroboter.myshopify.com
 gutmotorradteile.com
 gymshark-osterreich.at
@@ -1715,6 +1722,7 @@ idealux.de
 idsaled.de
 ie-audit.com
 igamingoffers.com
+ihgaming.net
 ihljpbdo.shop
 ihreedelmetallprofis.de
 ihrepotenzmittel.de
@@ -1742,6 +1750,7 @@ innomarkt.de
 insightberichte.de
 insolvenz-verkauf.net
 inspirasikus.com
+instantpoolquote.site
 interarino.com
 interiorene.com
 intermaschineauktion.com
@@ -2524,6 +2533,7 @@ orbitdealsflowtoday.online
 orchidblazebeauty.com
 orchidnailpooler.com
 ordinarybarbershop.com
+orientacionvocacionalonline.org
 orlidelo.com
 ortovoxs.de
 oruguitashop.com
@@ -2593,6 +2603,7 @@ pfotengarten.de
 pfotenzug.com
 pgz999-online.com
 pharmabox.shop
+pharmacyinventory.org
 pharmacysavingshub.shop
 pharmaker.shop
 pharmaopticloud.com
@@ -2665,6 +2676,7 @@ premierdeals.online
 prestige-container.com
 priceannihilator.com
 primarycarenw.com
+prime-tech-deals.shop
 printtestpageonline.com
 prisabeauty.com
 prismirror.shop
@@ -2823,6 +2835,7 @@ roborockosterreich.at
 roborockoutlet.de
 roborocks.de
 robotikstore.com
+rocketplayonlinecasino.net
 rohrreinigung-rothschild.de
 rollersmovingllc.com
 rollingslotsonline.de
@@ -2982,6 +2995,7 @@ shopnory.de
 shopoutletstore.shop
 shoppalmettomoon.com
 shoppewerkzeug.com
+shoppingmoto.net
 shopresetvital.com
 shoprseasafetyoutlet.shop
 shoprufe.com
@@ -3052,6 +3066,7 @@ snugist.com
 socallanddeals.com
 soccerssp.com
 softdays-shop.de
+solacebeauty.shop
 solagoshop.de
 solamira.de
 solanik.de
@@ -3652,6 +3667,7 @@ zenglowz.com
 zenniagoods.com
 zentoil.de
 zentrof.com
+zeppelinshopenetwork.org
 zeveau.com
 zeynoa.de
 ziegler-handel.de
