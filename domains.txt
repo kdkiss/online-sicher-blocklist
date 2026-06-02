@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
-# Updated: 2026-06-01
-# Domains: 3790
+# Updated: 2026-06-02
+# Domains: 3809
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -15,6 +15,7 @@
 1newstoregame.com
 1wins-app-india-online.com
 2026discounttoolstore.shop
+2027solareclipseegypt.com
 21casino-online.de
 21shoesshop.com
 24posters.store
@@ -77,6 +78,7 @@ adl.gwrxbt.shop
 adl.iuvxvo.shop
 adl.lreubk.shop
 adl.tlhqca.shop
+adl.ukdil.shop
 adl.zixoko.shop
 admotours.de
 adolar-tech.de
@@ -116,6 +118,7 @@ airoil.de
 airsguns.com
 airyano.com
 aisitinsalede.de
+aitechinpharma.com
 akenor.com
 akrostichon.at
 aktion-motorrad.de
@@ -168,6 +171,7 @@ alpenpellets.pro
 alphaletedeutschland.de
 alpinex-outdoor.de
 alpinvolt.de
+alprosolarisdental.com
 alrafidainstore.com
 alro-stahlbau.de
 alsa-shop.de
@@ -255,7 +259,9 @@ apotekb213.com
 apotheke-berlin-marzahn.de
 apotheke-bestellen.de
 apotheke-ratgh-heumar.de
+apothekemedicament.com
 apotheken-im-center.de
+apotheken24de.com
 apothekeohnerezept.de
 apotheker365.com
 apothekerwissen.online
@@ -387,6 +393,7 @@ autoteileharbor.com
 autoteilejetzt.com
 autoteilepilotpluss.de
 autoteilerabatt.com
+autoteilewerkzeug.com
 autoteilex.com
 autozubehormarkt.com
 auvikoshop.com
@@ -535,6 +542,7 @@ betrugsrecht.de
 beyham.com
 bglshop.at
 bhubbeauty.de
+bhuvikasolar.online
 bicyclegodshop.com
 bicycleseatpostde.com
 bidmask.com
@@ -596,6 +604,7 @@ blikeuhij.click
 blisssalehub.com
 blizzak.de
 bloemker-holz.de
+bloom-pharma-eg.com
 bloomiquestore.shop
 bltyydzv.shop
 bluebike2.com
@@ -719,6 +728,7 @@ casino-trino-online.de
 caspharmacy.com
 casualstore77.de
 caterpillarosterreich.at
+catwebshop.com
 cbtec4you.de
 cbvdshj.com
 cccup.atmonitor.shop
@@ -818,6 +828,7 @@ cottagoshop.com
 cottanest.com
 counterpain.net
 cplay-online.com
+cpool2018.com
 craftoliq.com
 craftrabatt.de
 crazyunbelieavablefunnel.com
@@ -936,6 +947,7 @@ denuvostore.com
 depixeli-k-losolarum-tapixela.club
 der-gartenschreiner.de
 derbestekauf.de
+derbestewerkzeug.com
 derbybikesholding.de
 dereplacshop.com
 derholzwurm-web.de
@@ -1045,6 +1057,7 @@ eaventura.de
 ebike-direct24.de
 ebikecomm.com
 ebikedolomiti.com
+ebikeeu.com
 ebikesbxrasil.com
 ebikescooterfix.com
 ebiketeilekauf.com
@@ -1662,6 +1675,7 @@ hipoff.sohat.shop
 hirobikegmbh.de
 historica-collect.com
 hitenergysolar.online
+hitzehaus.com
 hjullagerdrivaxlar.com
 hoangduypharma.com
 hoangmaionline.com
@@ -1914,6 +1928,7 @@ kathielpe.de
 katzenweltde.de
 katzenzeithavelland.de
 kaufdesch.myshoplaza.com
+kaufen-vignette.digital
 kaufen-vignette.shop
 kaufhaus-pankratz.com
 kaufhaushamburg.com
@@ -1978,6 +1993,7 @@ komplettanschlussangebote.de
 komponentende.com
 konditorei-mohrholz.de
 konigmode.de
+konsoleneugenpro24.com
 koochand.com
 kosecikva.com
 kpoweronline.com
@@ -2052,6 +2068,7 @@ lg-gartengestaltung-gmbh.de
 lgglegrandgroupe.com
 lianonline.com
 liaonmskj.com
+lichtnelkegardens.com
 lichtzauberaustria.com
 lidlhh.shop
 lidlpp.shop
@@ -2652,6 +2669,7 @@ petfyshope.com
 petrakueck-chscontainer.de
 petroya.de
 pfeilearmbruste.com
+pflanzen-de.com
 pflegeprofi-shop.com
 pfotengarten.de
 pfotenzug.com
@@ -2739,6 +2757,7 @@ priceannihilator.com
 pridesaunaclub.com
 primarycarenw.com
 prime-tech-deals.shop
+primetoolingsupply.com
 printtestpageonline.com
 prisabeauty.com
 prismirror.shop
