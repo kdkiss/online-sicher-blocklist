@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-06-05
-# Domains: 3856
+# Domains: 3857
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -2078,6 +2078,7 @@ leaseabike-mitarbeiter.de
 leaseabike.shop
 lebanonmbstore.com
 lebensartikel.com
+lebensmittelgeschafte.com
 legati-kanzlei.de
 legeroschuhe.at
 lekisports.com
