@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
-# Updated: 2026-06-04
-# Domains: 3831
+# Updated: 2026-06-05
+# Domains: 3856
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -294,6 +294,7 @@ ardenza.store
 area-trustwallet.com
 arfinag.icu
 arielozg.com
+arin-solar.ch
 aripken.de
 ariyanne.de
 arketrabatt.de
@@ -328,6 +329,7 @@ ashibellebeauty.com
 ashvillecustomsaunas.com
 asia-minimarkt.at
 asics-outlet.de
+asics-sale.de
 asicsoutletnl.com
 asicsoutletosterreich.at
 asicstorunnings.de
@@ -451,6 +453,7 @@ baukomps.com
 baumgarten.ch
 baustoffwerkzeug.com
 bauundgarten.com
+bavierth.shop
 bawz.store
 baxterstorey-catering.com
 baybaysshop.com
@@ -593,6 +596,7 @@ billigzegna.de
 bio-brennholz.de
 bioen-tech.de
 biologischeshop.com
+biopflanzenshop.com
 birken-stockde.shop
 birkgarten.de
 birnbaumholz.de
@@ -721,6 +725,7 @@ cartsaga.com
 casaeternaluz.com
 casagomart.com
 casaivora.com
+casamarkt.de
 cashmerancing.com
 casinacho-online.de
 casino-dragonia-online.de
@@ -1001,6 +1006,7 @@ diseasy.shop
 diskrete-apotheke24.de
 diy-expert-deals.shop
 diybuildsupplies.com
+dj-audio.com
 djawad-razek.de
 dlxn-mode.de
 dly-home.com
@@ -1211,6 +1217,7 @@ fahrradanhaenger-freilauf.de
 fahrradbulls.com
 fahrradcitat.de
 fahrradco.de
+fahrraddampfle.de
 fahrraddirekt24.de
 fahrradergeschaft.com
 fahrradfreilaufde.com
@@ -1221,6 +1228,7 @@ fahrradhandel-esslingen.de
 fahrradhandel-hartmann.de
 fahrradhandel-koumagnon.de
 fahrradhandel-krause.de
+fahrradhandel-lehmann.de
 fahrradhandel-martin.de
 fahrradhandel-meier.de
 fahrradhandel-richter.de
@@ -1583,6 +1591,7 @@ hamburgermenetekel.de
 handarbeitenkaess.de
 handel57.de
 handelshaus-buchem.de
+handpanora.com
 handtholzhandelgmbh.de
 handwerker-wachstum.de
 handwerkstatt-der-holzgestaltung.de
@@ -1657,6 +1666,7 @@ heizor.de
 heizprohandel.com
 heiztop.de
 heizungersatzteile.com
+heizungs-solar-webshop.de
 heizungsolar.com
 heizungstechworld.com
 heizungszubehoer.com
@@ -1776,6 +1786,7 @@ idealbahis630.com
 idealux.de
 idsaled.de
 ie-audit.com
+ielaf.shop
 igamingoffers.com
 ihgaming.net
 ihljpbdo.shop
@@ -2006,6 +2017,7 @@ konditorei-mohrholz.de
 konigmode.de
 konsoleneugenpro24.com
 koochand.com
+korfys.shop
 kosecikva.com
 kpoweronline.com
 kraft-profil-technik.eu
@@ -2069,6 +2081,7 @@ lebensartikel.com
 legati-kanzlei.de
 legeroschuhe.at
 lekisports.com
+lems-deutschland.de
 leobabyjordanbjj.com
 leqaa-store.com
 lescocosecolos.com
@@ -2365,6 +2378,7 @@ motelmio.shop
 motherbabydoulaservices.com
 moto-discounts-germany.com
 moto-teile24.com
+motonordic.shop
 motor-wagner.de
 motorrad-ausstattung.com
 motorrad70.com
@@ -2394,6 +2408,7 @@ musik-laden.com
 musik-planet.com
 musikgarage.com
 musikinstrumente-profi.com
+musikinstrumenteland.com
 musikkeim.com
 musikprofi.com
 musikstudiobox.com
@@ -2469,6 +2484,7 @@ nguebelipharma.com
 nibeguq.com
 nicheforge.com
 nicolekennel.de
+nightskyshop.de
 nixbetonline.com
 nizle.shop
 nkd-store.com
@@ -2580,6 +2596,7 @@ online-sjb.com
 online-smartdeals.com
 online-tchibosale.shop
 online-uittreksel.com
+onlinebonuscasino-de.de
 onlinebusinessdorf.de
 onlinecasinodeutschliste.de
 onlinecasinoparis.com
@@ -2629,6 +2646,7 @@ osteopathiehamburgterminonline.de
 osternbackenverkaufsshop.com
 oswald-juergens24.de
 oswald-juergenss24.de
+otfknife.at
 otiumvr.com
 otomotif-online.com
 ottoelektro.de
@@ -2645,6 +2663,7 @@ ovalestore.com
 owalaofficialstore.com
 ozempic-kaufen.com
 p1-markt.de
+packmanvape.de
 paddlegrill.com
 paito-hkpools.store
 paitohkpools.site
@@ -2940,6 +2959,7 @@ roborocks.de
 robotikstore.com
 robustwerkzeug.com
 rocketplayonlinecasino.net
+rohoelzuender.de
 rohrreinigung-rothschild.de
 rollersmovingllc.com
 rollingslotsonline.de
@@ -3156,6 +3176,7 @@ slotoroaktionscode.de
 slotshoppercasino.de
 slowburner.de
 smart2trade.de
+smartbakechef.com
 smartcookgear.com
 smartkaufhaus.de
 smartwaerme.com
@@ -3203,6 +3224,7 @@ solarmasterspowur.com
 solarmatchs.online
 solarmik.de
 solarmira.de
+solarnachweis.de
 solarpanelshartfordct.com
 solarpanelspalmbayfl.com
 solarpowerde.com
@@ -3225,6 +3247,7 @@ souhutiyu-online.com
 soundtechnik-schmidt.de
 sovectoron-1-naatlasix-losolara.com
 sovora-shop.com
+sparkamerad.de
 spezialwerkzeug-profi.com
 spidem-kaffee.de
 spiderbaby.xyz
@@ -3707,6 +3730,7 @@ werkzeugonlineshop.com
 werkzeugversorgung.com
 wertexmarkt.de
 wertglanzedelmetall.de
+weserstore.de
 westcoastmarketing-sales.com
 western-cowboy-shop.de
 westex-handel.de
@@ -3787,6 +3811,7 @@ yumgs.holdenouterwear.shop
 yvmonlinebusiness.de
 z8gaming.net
 zaballde.com
+zahnputz.com
 zalando-sale.de
 zalandorio.com
 zalvori.com
