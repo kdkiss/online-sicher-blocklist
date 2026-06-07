@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-06-07
-# Domains: 3945
+# Domains: 3974
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -99,6 +99,7 @@ aeydeschuhe.de
 affordableuniquepro.shop
 afrikaner.at
 afro-calypso.de
+afroandbodyshop.de
 agebob.dehorse.shop
 agencypartnershop.com
 aggruppenx.com
@@ -259,6 +260,7 @@ apotekb213.com
 apotheke-berlin-marzahn.de
 apotheke-bestellen.de
 apotheke-ratgh-heumar.de
+apothekedeutsche.de
 apothekemedicament.com
 apotheken-im-center.de
 apotheken24de.com
@@ -269,6 +271,7 @@ apparelhardware.com
 apple-pay-casino.de
 appleeden.de
 appleofedenshoes.shop
+apprvnewsale724.click
 appstorevideo.com
 apricoit.com
 aprileonline.com
@@ -595,6 +598,7 @@ billigfahrradteile.com
 billiggarten.com
 billighandyhullen.de
 billigmoebel.de
+billigphilliplim.de
 billigrlx.de
 billigrolexuhren.de
 billiguhrenshops.com
@@ -677,6 +681,7 @@ brooksschuheberlin.de
 browningforsale.com
 brunboisdechauffage.at
 brunnercampen.com
+bryo-kaffee.de
 brysha.store
 bsonlineshophk.com
 bst-werkzeuge.de
@@ -798,8 +803,11 @@ clothlve.com
 cloudapotheke.com
 cloudfruitshop.com
 cloudtritt.de
+cloudy-with-containers.ch
 clubeboss.de
 cmdt-sales.com
+cnfrm-newsale8324.click
+cnfrmnewsale924.click
 coastalgrillcare.com
 coastalresin.store
 coinbase-834859.com
@@ -912,6 +920,7 @@ de-musicshop.com
 deal-aktion.de
 deal-feld.de
 deal-kiste.de
+deal-maniac.de
 deal24.shop
 dealballad.com
 dealbestcar.com
@@ -1109,6 +1118,7 @@ ecooflow.shop
 ecoutletstore.shop
 ecstasy-baby.net
 ed-apotheke.de
+eddys-bikestore.de
 edebrennholzedgar.com
 edelkatzenzucht.com
 edelmetalle-investment-online.de
@@ -1163,6 +1173,7 @@ energieausweis-fuer-verkauf.at
 energiefach.com
 energiefuerbuerger.de
 energiepreise24.com
+energiesparkonzept24.de
 energietoolbox.de
 energy-premium.de
 englandsoccerfanstore.com
@@ -1310,6 +1321,7 @@ ferplasthaustierbedarf.com
 festgeld-finder.de
 festgeld-profis.de
 festgeld-zinsberatung.de
+fettabsaugung-in-koeln.de
 ffinasshop.com
 fideltylife.com
 fidsonline.org
@@ -1459,6 +1471,7 @@ gartenundanhaenger.de
 gartenundoutdoor-de.com
 gartenvision2.de
 gartenzau.de
+gartenzepter.de
 gascovert.com
 gastigarenergie.com
 gastromore.de
@@ -1476,6 +1489,7 @@ gebrauchtwagengarching-sixt.de
 gebrauchtwagenzuverkaufen.com
 gelschuhe.de
 gelvibe.de
+gemeinderosengarten.de
 geminiomnigenerator.com
 generatorkoth.com
 gentlecycle.net
@@ -1866,6 +1880,7 @@ intothelightsolar.com
 ioneebeauty.com
 iovyshop.com
 iptvanbieter.at
+iptvkaufen24.shop
 ipuroangebote.com
 irina-liebmann.de
 irrigationprostore.com
@@ -2062,6 +2077,7 @@ konditorei-mohrholz.de
 konigmode.de
 konsoleneugenpro24.com
 koochand.com
+kopfsacheonline.de
 korfys.shop
 kosecikva.com
 kpoweronline.com
@@ -2116,8 +2132,10 @@ laternenfestival.com
 laufstyle.com
 lautisbikeshop.de
 lavacucina.com
+lavendearbeauty.de
 lbsbikes.com
 lccontainersupply.com
+lcxholz.de
 learnshopifydevelopment.com
 leaseabike-mitarbeiter.de
 leaseabike.shop
@@ -2126,6 +2144,7 @@ lebensartikel.com
 lebensmittelgeschafte.com
 legati-kanzlei.de
 legeroschuhe.at
+leifheit-reifenservice.de
 lekisports.com
 lems-deutschland.de
 lennys-autoteile.at
@@ -2270,6 +2289,7 @@ mariela-beauty-studio.com
 mariemero-salestore.shop
 marien-apotheke-elstra.de
 marineausstattung.com
+marioholzofenpizza.de
 market.vailmere.com
 marketmarkdowns.com
 marketxarproducts.shop
@@ -2319,6 +2339,7 @@ mein-handel.at
 mein-solar24.com
 mein-trailer.de
 mein.lhk.de-plushilfe.com
+meinbeautykollektiv.de
 meindampf.com
 meindls.at
 meinrechneronline.de
@@ -2345,6 +2366,7 @@ mfsebike.com
 mhamzasaleem.com
 mhpa.net
 mi-tische.de
+mia-store.de
 michael-fischer-online.de
 michel-auto-concpt.com
 micka-shop.org
@@ -3062,6 +3084,7 @@ saleemrizwan.com
 salehasafdarglobalconsulting.com
 salejcb.de
 salelanawelpen.de
+salerigolf.de
 sales-deere.de
 salesappv51.de
 saleshop24.shop
@@ -3123,6 +3146,7 @@ schmidmodesalzburg.de
 schmidtiefbaugmbh.de
 schmidts-handel.de
 schmoelzer-appartements.com
+schnelldirekt.de
 schoen3dshop.de
 schoeppe-heizoel.de
 schraubheld24.de
@@ -3145,6 +3169,7 @@ scoterwelt.shop
 sdjiy.shop
 sealedawaygaming.com
 secure-canadian-pharmacy.net
+secure-vr-online.de
 secureviewrollershutters.com
 securitybekleidung.de
 seemyshopp.com
@@ -3404,6 +3429,7 @@ streetartmoebel.de
 striegel-k-containers.de
 strittmatter-versicherung.de
 strobllandmaschinen.de
+stromlieferantenwechseln.de
 stromraum-studio.de
 stromspeichereinbauen.de
 strumpfkauf.de
@@ -3462,6 +3488,7 @@ teamstryk.de
 techhomede.com
 techminik.com
 teeto.de
+teich-gartenbau-zickert.de
 teilrad24.de
 telecarsten-shop.de
 telekom-dresden.de
@@ -3740,6 +3767,7 @@ vynxaria.com
 wachstumsworkshop.de
 wacoo.de
 wacooball.com
+waermepumpe-solar.de
 waermewald.de
 waffen-outdoor.com
 waffenlager.com
@@ -3797,6 +3825,7 @@ werke-anhangers.com
 werkerswelt-moelln.de
 werkora-industrial.com
 werkzeug-brandl.com
+werkzeug-kontor.de
 werkzeug-salesshop.com
 werkzeug-und-maschinen.com
 werkzeug-und-maschinen.de
