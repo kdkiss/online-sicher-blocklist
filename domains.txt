@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
-# Updated: 2026-06-15
-# Domains: 4249
+# Updated: 2026-06-16
+# Domains: 4258
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -1106,6 +1106,7 @@ dokumentenkaufen.eu
 domuslumi.com
 don-art.de
 donate2camerafraud.com
+donpablostadtmarktaugsburg.de
 doodollstore.com
 doomedstore.de
 dowellwholesales.com
@@ -1761,6 +1762,7 @@ hardloverz.com
 hardwarestorede.com
 hardwarewelt.com
 harithasolar.com
+harzsportev.de
 haus-apotheke.eu
 haus-gartenservice-bozkurt.de
 haus-kaufen-istrien.de
@@ -1975,6 +1977,7 @@ immobilien-verwaltung-walter.de
 imperial-hamburg.de
 imperialpharmaceutical.com
 indiandealer.com
+indianpalacemarktoberdorf.de
 indiespiele-online.de
 indiespieleonline.de
 industriehub.de
@@ -2241,6 +2244,7 @@ kultur-bike.com
 kummich-reifenwelt.de
 kunstgeschwind.de
 kunstschuleaugsburg.de
+kunstschuledynastia.de
 kunstulm.de
 kunstzonen.de
 kurniabikebatam.com
@@ -2414,6 +2418,7 @@ macausauna-booking.com
 macduggalstore.com
 madeleine-issing.com
 madgamings.de
+maehrobot.shop
 maerkischeskinderdorf.de
 magicaldeals.shop
 magicpotionoutletstore.shop
@@ -2446,6 +2451,7 @@ marie-herbstkg.de
 mariela-beauty-studio.com
 mariemero-salestore.shop
 marien-apotheke-elstra.de
+marievonmallwitzverlag.de
 marineausstattung.com
 marinepartde.com
 marioholzofenpizza.de
@@ -3097,6 +3103,7 @@ profiwerkzeug24.com
 proinstrumentshop.com
 proirononline.de
 promoclicks.digital
+pronetivaro.com
 proofsagen.com
 prooplitecommunity.shop
 propellets.pro
@@ -3596,6 +3603,7 @@ sportgearde.com
 sportonauten.de
 sportopath.de
 sportpfadshop.de
+sportschuheinov.com
 sporttritt.com
 sppulsar.shop
 sprachreiseshop.de
@@ -3782,6 +3790,7 @@ tln-transport.de
 tm-preisvergleich.de
 tmeama.com
 tmeamb.com
+tmeamc.com
 tmeamd.com
 tmeame.com
 tmeamf.com
