@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
-# Updated: 2026-06-16
-# Domains: 4258
+# Updated: 2026-06-18
+# Domains: 4295
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -34,6 +34,7 @@
 4living.at
 674985034.myshoplaza.com
 6pmhoodies.de
+77jobwear.com
 7dealdays.de
 7k9lod.com
 7tup-shop.com
@@ -351,6 +352,7 @@ asia-minimarkt.at
 asiakuecheerlangen.de
 asics-outlet.de
 asics-sale.de
+asicsoutlet.at
 asicsoutletnl.com
 asicsoutletosterreich.at
 asicstorunnings.de
@@ -738,6 +740,7 @@ bukkwood.com
 bullsfahrradangebote.com
 bundestagssauna.de
 bunterstil.com
+burberryoutlet.at
 burgmoebel.de
 buroausstattung.com
 buschorholzbau.ch
@@ -829,6 +832,7 @@ chicvo.com
 childeducationalshop.com
 chimballsas.com
 chippewa--boots.com
+chloes.com.de
 christ-holzundnatur.de
 christinefamiliewelpen.com
 chxskfar.shop
@@ -922,6 +926,7 @@ crustbikesco.shop
 cryzor.com
 csbclo.de
 csbsts.site
+cschwindt-24.de
 cschwindt-gmbh.de
 cschwindt24.de
 csfmeqv.sbs
@@ -1439,6 +1444,7 @@ focusetenergie.com
 foerdertechniks.com
 foluna.fr
 fontancasino-online.de
+foodiefusionworld.com
 forgeboxcontainers.com
 formeri.shop
 foronhausgeraete.de
@@ -1456,6 +1462,7 @@ franziskasblumenwelt.de
 franzoesischebulldogge.at
 frdecorstore.com
 fredperryonlineshop.de
+fredperryoutlet.de
 freeavmhzwr.click
 freedomhats.shop
 freemanagement.de
@@ -1476,6 +1483,7 @@ fuhr-brennstoffe.de
 fumot-shop.de
 fundfennel.com
 fundfjord.com
+furlaoutlet.de
 fussballtrikothaus.com
 fusspflegegeseke.de
 future-sales.com
@@ -1612,16 +1620,19 @@ get-epicooler.topashopo.com
 get-nuro.com
 get-omnihear.com
 get-ozoori.com
+get-wuffy.com
 getebikeshop.shop
 getgartenwerkzeugshop.shop
 getrodeosaunas.com
 getsolarcheck.com
 getsolarscooters.shop
 getsolarwarehousesa.shop
+getwuffy.com
 ghanim-pharmacies.online
 giantfahrraderrabatt.com
 gicastores.com
 giesportaquitaine.com
+giesswein.cz
 giesswein.ro
 giessweinno.com
 giessweins.it
@@ -1667,6 +1678,7 @@ goldengoosesale.de
 goldenngoosee.com
 goldenpandacasino-online.de
 goldenretrievervompfarrgarten.de
+goldhandel-richter.de
 goldshopsejahtera.com
 gomel-24.de
 gomell-24.de
@@ -1694,6 +1706,7 @@ greeneggstore.de
 greentrimmer.de
 greentuning-de.com
 grekkstore.com
+griesersanitar.com
 grillen-shop.com
 grillent.com
 grillia.xyz
@@ -1712,6 +1725,7 @@ grow-dutch.com
 grundstoffs-de.com
 grunerkaffeetabletten.de
 gruntechde.com
+grunzauber.com
 gshandels.com
 gtltic-anhaenger.de
 gtsusa.net
@@ -1744,6 +1758,7 @@ halloweendekoration.com
 hamburgermenetekel.de
 handarbeitenkaess.de
 handel57.de
+handels-blatt.de
 handelshaus-buchem.de
 handpanora.com
 handtholzhandelgmbh.de
@@ -1757,6 +1772,7 @@ hansholzmotor.de
 hanwag--schuhe.com
 hanwagfabrikverkauf.de
 hanwagschuhedeutschland.de
+haolo.de
 haoqiebike.de
 hardloverz.com
 hardwarestorede.com
@@ -1786,6 +1802,7 @@ heatingcontainers.com
 heidel-heizoel.de
 heidi-mode.de
 heimguts.shop
+heimhof24.de
 heimwerkende.de
 heimwerkzeugesde.com
 heiseno.de
@@ -1841,6 +1858,7 @@ heritagerailbikes.com
 hermes-project.net
 heyi-handel.de
 hezoposo.com
+hgtyfd.shop
 hiddenbarandgrill.com
 hidra-pool.com
 hifistudioroma.com
@@ -1860,6 +1878,7 @@ hoangduypharma.com
 hoangmaionline.com
 hochcontainerrabatt.com
 hochstift-garten.de
+hoffmannholz.com
 hohlfeldt-garten.de
 hoka--shoes.com
 hoka-schuhe.de
@@ -2040,6 +2059,7 @@ jerusalem-project.org
 jerusalemcharity.com
 jewelrymejuri.com
 jewelrynovashop.com
+jh-machines-nord.com
 jjmorganonline.com
 jlxdiffusion.com
 joaostoreoficial.com
@@ -2219,6 +2239,7 @@ koochand.com
 kopfsacheonline.de
 korfys.shop
 kosecikva.com
+kotropfenwelt.com
 kpoweronline.com
 kraft-profil-technik.eu
 kraftdesweins.com
@@ -2276,6 +2297,7 @@ lasportivaoutlet.at
 lasportivaoutlet.de
 lasportivas.at
 lasportivaworld.com
+lasten-anhanger.com
 laternenfestival.com
 laufenalltagnatur.com
 laufstyle.com
@@ -2329,6 +2351,7 @@ lilisshop.de
 linavellegoods.com
 lindner-sonnenschutz.de
 link-pv.de
+linzapotheke.com
 liport.estclose.shop
 liport.evenfix.shop
 liport.lowcruise.shop
@@ -2360,6 +2383,7 @@ lmzvay.shop
 loaspool.de
 locajardin.com
 localgermany.de
+loewe.co.at
 loewedeutschland.de
 loftmyhub.com
 loggiawelt.com
@@ -2375,6 +2399,7 @@ lotdzkes-holz.de
 lottegroupshop.com
 lotusgaminglive.com
 louboutinshopwien.com
+louise-perrin.de
 louissheshop.com
 loulistore.com
 love-roses.com
@@ -3132,6 +3157,7 @@ qcificspez.club
 qievpfhz.shop
 qinero.com
 qiqieyelashesbeautyvelocity.com
+qisbysji.shop
 qnfreerypc.click
 qrvawuep.shop
 quadrals.de
@@ -3393,6 +3419,7 @@ secureviewrollershutters.com
 securitybekleidung.de
 seemyshopp.com
 seforimdealsho.shop
+seidenblumen-ross.com
 seifenbrause.de
 seifertundstil.de
 selbsthilfegruppekonstant.de
@@ -3475,6 +3502,7 @@ shumbastore.com
 sieundihn.de
 silberschmuckpro.com
 silkysmoothhobbeautyandbabershop.com
+silveraureus.com
 simikj.com
 simonbois.de
 simsino-online.de
@@ -3484,6 +3512,7 @@ sitepharmacom.com
 sixbaby.xyz
 sixgun.datevote.shop
 sjpool.de
+skimss.at
 skina.nu
 skirt-discount-store.shop
 skisurfskate.com
@@ -3607,6 +3636,7 @@ sportschuheinov.com
 sporttritt.com
 sppulsar.shop
 sprachreiseshop.de
+spraygrounds.de
 sprengler-direkt.de
 sprinttosave.com
 srmsaleskpi.com
@@ -3729,6 +3759,7 @@ tauchflaschenschutznetz.com
 tckuspcx.shop
 teambike-hamburg.de
 teamstryk.de
+tech-outlet.site
 techhomede.com
 techminik.com
 teeto.de
@@ -3760,6 +3791,7 @@ theisentransports.com
 thejerusalemheartbeat.com
 theluminousliving.com
 themarthub.com
+thenorthface-outlet.de
 thenorthfacedeutschland.com
 theomoebel.de
 thepharmacriterion.com
@@ -3832,6 +3864,7 @@ topgartenservice.de
 tophoven-teilekfz.de
 topmachinestore.com
 topmedicalaestheticsde.com
+topmusicalinstrument.com
 topoffice24.com
 toponlinecasinodeutschland.de
 toponlinepharmacies.com
@@ -4032,6 +4065,7 @@ vuisdj.sho
 vutereck.com
 vwutaq.com
 vynxaria.com
+wachautoteile.com
 wachstumsworkshop.de
 wacoo.de
 wacooball.com
@@ -4131,12 +4165,14 @@ whiskyrabatt.com
 wholesalebaseballnets.com
 whzyxd.com
 wieburg-handel.de
+wienapotheke.com
 wiesnkinder.de
 wika-shop.de
 wikfinal.shop
 wildblumenparadies.de
 wildcatchco.com
 wildlingschuhede.com
+wildlingshoes.cc
 wildundfreide.com
 wilhelm-daume-gmbh.myshopify.com
 wilkesarahwelpen.de
@@ -4263,3 +4299,4 @@ zumil.de
 zurbrueggende.com
 zusellmk.click
 zutechnik.de
+zyronpaneele.com
