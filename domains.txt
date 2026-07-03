@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-07-03
-# Domains: 4538
+# Domains: 4555
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -371,6 +371,7 @@ asicsoutletnl.com
 asicsoutletosterreich.at
 asicstorunnings.de
 askarioutlet.shop
+astawear.com
 astragroupholding.com
 astromaster.shop
 asvgu.at
@@ -422,6 +423,7 @@ autoingenieurbereich.com
 autoinnendesign.com
 automania-sw.com
 automotorplus.com
+autopartsberlin.com
 autopraxen.com
 autorengemeinschaftaugsburg.de
 autorepairshopphoenixaz.com
@@ -541,6 +543,7 @@ beautyhaarshop.com
 beautyhabitps.shop
 beautyhealthsupplies.com
 beautykoopje.com
+beautykosmetikwiesbaden.de
 beautyonstage.com
 beautyonthebrink.com
 beautyonthebrink.net
@@ -1081,6 +1084,7 @@ dein-heizoelmarkt.de
 deinautoteileshop.de
 deinenergieplan.de
 deinsportimperium.de
+deintrikot.at
 dejia.shop
 dekoartikelrabatt.de
 dekorabatt.com
@@ -1139,6 +1143,7 @@ diandrabeauty.xyz
 dianjingniu-online.com
 dicamgruppe.de
 diehamburgerplattenfirma.de
+dieholzmoebelmacher.de
 dielackpflege.de
 diemodellbaueisenbahn.de
 diemoebelhalle.de
@@ -1147,11 +1152,13 @@ dieterrux-dienstleistungs.de
 diezeitmitmedien.com
 difhewbg.shop
 digi-markets.de
+digitalhandel.shop
 digitalkontor24.de
 digitalshopbolivia.com
 digitalstoreme.com
 dimedell.com
 dingesgroup.com
+direkt-med.de
 direkt-payout.de
 direkt-zahlungid.de
 direktbericht.de
@@ -1400,6 +1407,7 @@ fahrrad-discount24.de
 fahrrad-hess.de
 fahrrad-komponenten.com
 fahrrad-sparwelt.de
+fahrradangebotede.com
 fahrradanhaenger-freilauf.de
 fahrradbulls.com
 fahrradcitat.de
@@ -1701,6 +1709,7 @@ germanproduktshop.de
 germanqualitaet.de
 gesamtgarten.de
 gesundheit-md.de
+get-airzuma.topashopo.com
 get-epicooler.com
 get-epicooler.topashopo.com
 get-nuro.com
@@ -1798,6 +1807,7 @@ greenbird-shop.com
 greeneggstore.de
 greentrimmer.de
 greentuning-de.com
+greiner-marktanalyse.de
 grekkstore.com
 griesersanitar.com
 grillen-shop.com
@@ -1807,6 +1817,7 @@ grillo-music.com
 grilloon.de
 grillssoon.de
 grillterrasse.com
+grillwizz-grillreiniger.de
 grillzentrum.com
 grlavfta.shop
 groomifypetsstore.com
@@ -1883,6 +1894,7 @@ haus-gartenservice-bozkurt.de
 haus-kaufen-istrien.de
 haus-wein.com
 hausdampf.com
+haushalt-plan.com
 haushalts-versand.de
 hausmez.de
 hausofvedashop.com
@@ -2133,6 +2145,7 @@ iptv-kaufen-germany.shop
 iptvanbieter.at
 iptvkaufen24.shop
 ipuroangebote.com
+iridologykamera.com
 irina-liebmann.de
 irrigationprostore.com
 isabellazce.de
@@ -2214,6 +2227,7 @@ juwelierkunst.de
 k-apotheke.de
 k4-kulturgarten.de
 kadoshops.de
+kaelte-held.com
 kaercherde.shop
 kaffee-de.com
 kaffee-feier.de
@@ -2754,6 +2768,7 @@ mobel-lenk.store
 mobelmomente.com
 mobelonlineshop24.com
 mobetrix.com
+mobiklima.myshopify.com
 mobilefusspflegerega.de
 mobilitaetsnation.de
 mobilixpro.com
@@ -4115,6 +4130,7 @@ treemexholz.de
 trendigehandtaschenkaufen.com
 trenessshop.de
 trgartenservice.de
+trikotadler.com
 trikotfc.com
 trinkflasche-shop.de
 trinkmeistershop.com
@@ -4158,6 +4174,7 @@ uk.stanley1913.com
 uketaonline.net
 ulmgmbh.com
 ultenicstaubsauger.com
+ulwbwifv.shop
 umymall.com
 under-armour.com.de
 unibetcasino777.net
