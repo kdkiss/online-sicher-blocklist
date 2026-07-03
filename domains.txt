@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-07-03
-# Domains: 4507
+# Domains: 4538
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -168,6 +168,7 @@ all-eco.eu
 all-liuliutiyu-online.com
 alldastore.de
 alldealsworld.com
+allemart-hamburg.com
 allerleitrendshop.de
 alles-brennholz.com
 alles-brennholz.de
@@ -293,6 +294,7 @@ apothekenkarte.com
 apothekeohnerezept.de
 apotheker365.com
 apothekerwissen.online
+apothekevienna.com
 apparelhardware.com
 apple-pay-casino.de
 appleeden.de
@@ -722,6 +724,7 @@ bozzer.de
 bpbioheat.de
 bracgartenservice.de
 brachiumautoteile.de
+brand-fahrradladen.de
 brandsoutlet.at
 brauneagrar.com
 brazoshybridpharmacy.com
@@ -1081,6 +1084,7 @@ deinsportimperium.de
 dejia.shop
 dekoartikelrabatt.de
 dekorabatt.com
+dekorasyonege.com
 dekorations-o-grod.de
 dekorativeholzprodukte.com
 delecato.de
@@ -1377,6 +1381,7 @@ evoqueebikeshop.shop
 evoragaming.com
 evosgaming-15l.site
 ewigesleder.com
+exclusive-keys.de
 exclusiveurl.shop
 expressbrennholz.de
 expresssalestx.com
@@ -1553,6 +1558,7 @@ fribooneu.com
 fridayrollcasino-online.de
 friluftsguru.com
 fritz-container-gmbh.de
+frostorio.shop
 fts-gmbhmaschine.com
 fuehrungszeugnis.at
 fuhr-brennstoffe.de
@@ -1684,6 +1690,7 @@ georglagerberg.com
 geoxfabrikverkauf.de
 geoxoutlet.de
 geraetedoc.com
+gerate-holz.de
 gerhard-tremmel.de
 gerlinelshop.com
 germalls-garten.de
@@ -1714,6 +1721,7 @@ giesportaquitaine.com
 giesswein.com.de
 giesswein.cz
 giesswein.ro
+giessweinca.com
 giessweinno.com
 giessweins.it
 giessweinshop.com
@@ -1819,6 +1827,7 @@ guardianrestorenj.com
 guenstigere-apotheke.de
 gueta-handel.com
 gueta-handel.de
+guetahandel.com
 gueyeclasse-shop.com
 gurstore.net
 gut-werkzeug.com
@@ -1951,6 +1960,7 @@ hermes-project.net
 heyi-handel.de
 hezoposo.com
 hgtyfd.shop
+hhvmerch.com
 hico-shop.de
 hiddenbarandgrill.com
 hidra-pool.com
@@ -2318,6 +2328,7 @@ kkz-insolvenz.de
 kkz-insolvenzrecht.de
 klangaeder.com
 klangatem.com
+klangfluss.com
 klassischesfahrradneu.com
 klauenpflegeschmid.de
 klaus-meat-grill.ch
@@ -2423,6 +2434,7 @@ lautisbikeshop.de
 lavacucina.com
 lavendearbeauty.de
 lbsbikes.com
+lbslepe.de
 lccontainersupply.com
 lcxholz.de
 learnshopifydevelopment.com
@@ -2494,6 +2506,7 @@ livingaction.de
 livohaus.com
 livorentino.com
 liwed.barpalm.shop
+liwed.boycotton.shop
 liwed.wedstrip.shop
 lkw-reifenpanne.com
 lloyd.co.at
@@ -2657,6 +2670,7 @@ mein-alltagsbedarf.com
 mein-ebikepro.com
 mein-handel.at
 mein-solar24.com
+mein-technikmarkt.com
 mein-trailer.de
 mein.lhk.de-plushilfe.com
 meinbeautykollektiv.de
@@ -2696,6 +2710,7 @@ michel-auto-concpt.com
 micka-shop.org
 microsoft1drive.net
 microsotfsstore.com
+midea-europe.de
 midea-klima.de
 mideaklima.de
 midlandmodels.com
@@ -2772,6 +2787,7 @@ moebelstil.com
 moebeluber.de
 moebelundgarten.com
 moebelundzubehoer.com
+moebelverlosung.de
 moebelwunerland.de
 moebelzone.com
 moedllbahnlippe.shop
@@ -2810,6 +2826,7 @@ movementkoeln.de
 mpgarten-shop.de
 mrlmshop.com
 mrsoda.myshopify.com
+msfranceexport.com
 mskauf.de
 mtbandroad.com
 mto-service.com
@@ -2854,6 +2871,7 @@ myshopify.com
 myspirituosen.com
 mysportfisch.de
 mytholon-vip.shop
+mytrumerholz.shop
 mytuckshop.com
 nabonlinesupport.com
 nachbarschaftsmarktplatz.de
@@ -2974,6 +2992,7 @@ oberhafengarten.de
 obibaumarkt.at
 obstbaumrabatt.com
 ocevashop.de
+octirtast.shop
 oel-zuhause-online.de
 oelbonus.de
 oelfast.de
@@ -3085,6 +3104,7 @@ orchidblazebeauty.com
 orchidnailpooler.com
 ordinarybarbershop.com
 orientacionvocacionalonline.org
+orion-warenhandel.de
 orlenshop.de
 orlidelo.com
 ortovoxs.de
@@ -3156,6 +3176,7 @@ perpetualstore.com
 personaisstore.com
 persunshop.de
 peryshop.com
+pet-bigfamily.com
 petempireonline.com
 peterjeskouhren.de
 peterkenkelgruppe.de
@@ -3220,6 +3241,7 @@ plazuna.com
 pleaserosterreich.com
 plushroomdesign.com
 pmtree.lowcruise.shop
+pnzietbd.shop
 pocrabatt.de
 poiner.com
 pokerstars-online.com
@@ -3468,6 +3490,7 @@ root-shop.at
 rossignol.com.de
 rotecobra.com
 rovlier.com
+rowentaelektro.com
 royalkindergarten.com
 rpebike.online
 rpgmerchstore.com
@@ -3615,6 +3638,7 @@ shop-hausdesfildern.de
 shop-pharmacie-france.net
 shop-pierce.com
 shop-vergleicher.de
+shop.asfinaq.de
 shop.tegeler.com
 shopandroid.de
 shopapphero.de
@@ -3783,6 +3807,7 @@ sovectoron-1-naatlasix-losolara.com
 sovora-shop.com
 sparkamerad.de
 speedautoservice.de
+speelwereld.shop
 spezialwerkzeug-profi.com
 spidem-kaffee.de
 spiderbaby.xyz
@@ -3950,6 +3975,7 @@ teeto.de
 teich-gartenbau-zickert.de
 teichwunder.com
 teilrad24.de
+teilradln.de
 telecarsten-shop.de
 telekom-dresden.de
 tencap.herate.shop
@@ -4097,6 +4123,7 @@ trivanode.com
 trivio-handel.de
 truckstopshop.de
 truerebuy.com
+trumerholz-store.shop
 trumerholzliving.shop
 trupharmacbd.com
 trustgarganoelectric.com
@@ -4394,6 +4421,7 @@ wintopia-online.de
 withingss.at
 wlandrucker-tests.de
 wnwzxocb.shop
+wobasolar-energie.com
 wohnelektro.com
 wohnello.com
 wohnen-diy.com
@@ -4420,6 +4448,7 @@ wpengine-aspencreekgrill.com
 wplaytvonline.com
 wpokr.store
 wuffstore.de
+wunderrasen.com
 wunderzeit-baby.de
 wuording.shop
 wyrmkinsolar.shop
@@ -4499,6 +4528,7 @@ zoneneinkauf.com
 zoofaster.de
 zookatzeshop.com
 zoomil.de
+zorbainc.com
 zorilenta.com
 zoukoutlet.com
 zova.at
@@ -4511,4 +4541,5 @@ zumil.de
 zurbrueggende.com
 zusellmk.click
 zutechnik.de
+zwclsaablueashe.shop
 zyronpaneele.com
