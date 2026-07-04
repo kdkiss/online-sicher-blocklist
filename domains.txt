@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-07-04
-# Domains: 4570
+# Domains: 4584
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -237,6 +237,7 @@ angoraberlin.de
 angstrom-vos.de
 anhaenger-brennholz.de
 anhaenger-geraete.com
+anhaenger-gross.de
 anhaenger-klasen.de
 anhaengerhandel-leipziig.de
 anhaengerhub.de
@@ -1211,9 +1212,11 @@ dsprsupshop.com
 dualtron-scooters.com
 dugshop.de
 dunstro.shop
+duryoafe.shop
 dw-energieholz.de
 dwellcollect.com
 dwellgallery.com
+dwellglory.com
 dwellhavenly.com
 dwellingix.com
 dwellinguse.com
@@ -1831,6 +1834,7 @@ groomifypetsstore.com
 grootfmoveshop.com
 grosshandelwebservice.de
 grossiste-parfum-generique.com
+groundies.at
 groupeferroignis.com
 groupeshf.com
 grow-dutch.com
@@ -2145,6 +2149,7 @@ interiorene.com
 intermaschineauktion.com
 interwood-holz.com
 intimewatches.de
+intimissimiat.at
 intothelightsolar.com
 ioneebeauty.com
 iovyshop.com
@@ -2338,6 +2343,7 @@ kindergartenpaedergogik.de
 kinderlichtblicke.de
 kindrucksackgarten.com
 kingbillycasino-online.de
+kingofindigo.com
 kingswella.com
 kirchner-rechtsanwaelte.de
 kirschservices.de
@@ -2699,6 +2705,7 @@ mein-trailer.de
 mein.lhk.de-plushilfe.com
 meinbeautykollektiv.de
 meindampf.com
+meindlaustria.at
 meindls.at
 meinepflegeapotheke.de
 meinmodellbaukeller.de
@@ -2734,6 +2741,7 @@ michel-auto-concpt.com
 micka-shop.org
 microsoft1drive.net
 microsotfsstore.com
+midea-europa.de
 midea-europe.de
 midea-klima.de
 mideaklima.de
@@ -2777,6 +2785,7 @@ mobel-lenk.shop
 mobel-lenk.store
 mobelmomente.com
 mobelonlineshop24.com
+mobelwohnen.com
 mobetrix.com
 mobiklima.myshopify.com
 mobilefusspflegerega.de
@@ -2823,6 +2832,7 @@ monperastore.com
 montanasaunabuilders.com
 montblancsale.de
 montflames.com
+moodors.shop
 moosufergarten.de
 mopolodenim.de
 mora-gartenbau.de
@@ -2834,6 +2844,7 @@ mosaicdevelopmentonline.com
 mossvibers.com
 motelmio.shop
 motherbabydoulaservices.com
+motivoebike.com
 moto-discounts-germany.com
 moto-teile24.com
 motonordic.shop
@@ -3265,6 +3276,7 @@ playgamingheaven77.top
 playphonstore.com
 plazuna.com
 pleaserosterreich.com
+plovurikant.at
 plushroomdesign.com
 pmtree.lowcruise.shop
 pnzietbd.shop
@@ -3646,6 +3658,7 @@ seidenblumen-ross.com
 seifenbrause.de
 seifertundstil.de
 selbsthilfegruppekonstant.de
+selvorinai.net
 sem-solar.de
 semipool.store
 senkkopfschraube.com
@@ -4003,6 +4016,7 @@ teeto.de
 teich-gartenbau-zickert.de
 teichwunder.com
 teilrad24.de
+teilradln.com
 teilradln.de
 telecarsten-shop.de
 telekom-dresden.de
