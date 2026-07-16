@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
-# Updated: 2026-07-15
-# Domains: 4694
+# Updated: 2026-07-16
+# Domains: 4720
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -87,6 +87,7 @@ adl.iuvxvo.shop
 adl.lreubk.shop
 adl.tlhqca.shop
 adl.ukdil.shop
+adl.uoyps.shop
 adl.zixoko.shop
 adlsb6996.xleqvu.shop
 admotours.de
@@ -190,6 +191,8 @@ alocar-gmbh.com
 aloyogasale.de
 alpenadler.de
 alpenapothekebgl.de
+alpenholz.shop
+alpenmode.com
 alpenpellets.pro
 alphaletedeutschland.de
 alpinex-outdoor.de
@@ -792,6 +795,7 @@ buchsonderangebote.de
 buckbasil.com
 buckbirch.com
 buddingscholarsonline.com
+buecherfreund.com
 buergersolarfabrik.de
 buerobedarfshop.com
 bueromoebels.de
@@ -829,6 +833,7 @@ campenwelt.com
 camper--schuhe.com
 campingdebarf.com
 campingneu.com
+campingspezialisten.com
 campingsupplybest.com
 campingzubehorhub.com
 canadianpharmacysir.com
@@ -1306,6 +1311,7 @@ editionschuh.com
 edpillen.at
 effiziente-taubenabwehr.at
 ehfzhepg.shop
+ehketzlg.shop
 ehs-pellets.de
 ehspellets.de
 ehspelletsgmbh.de
@@ -1364,6 +1370,7 @@ energy-premium.de
 englandsoccerfanstore.com
 engweebike.de
 enigmaonlineworld.com
+eolatetuko.shop
 eoutlet.2023shoponline.com
 epic-dianjing-online.com
 epicooler.checkoutera.com
@@ -1456,6 +1463,7 @@ fahrraddampfle.de
 fahrraddirekt24.de
 fahrradergeschaft.com
 fahrradersport.com
+fahrradexklusiv.de
 fahrradfreilaufde.com
 fahrradgeschaft-de.com
 fahrradhandel-alf.de
@@ -1551,6 +1559,7 @@ finde-dein-bestes-angebot.de
 findedstore.com
 fiphaseus-e-cophaseum-fisolarus.com
 firat-shopping.de
+fireworksecho.com
 fishingluresverkauf.com
 fisolare-7-vidrifta-tafluxon.com
 fitnessmarktplatz.de
@@ -1612,6 +1621,7 @@ fritz-container-gmbh.de
 frostorio.shop
 fts-gmbhmaschine.com
 fuehrungszeugnis.at
+fueloutlets.com
 fuhr-brennstoffe.de
 fumot-shop.de
 fundfennel.com
@@ -1673,6 +1683,7 @@ gartenfeiern.de
 gartenfreundetwisselmoor452.de
 gartenfuchskreation.de
 gartenfuhrer.de
+gartengenussde.com
 gartengluecklich.de
 gartengreifer.de
 gartenhausmodern.com
@@ -1967,6 +1978,7 @@ heimguts.shop
 heimhof24.de
 heimwerkende.de
 heimwerkzeugesde.com
+heinen-klimahaus.myshopify.com
 heinrich-handel.com
 heiseno.de
 heiz-fachmann.de
@@ -2218,6 +2230,7 @@ it2-use.de
 italianskinstore.com
 itisrainvintage.com
 iuwaqlbm.shop
+ivdmlqrb.shop
 ivfan.herate.shop
 ivfile.hpattack.shop
 iwamonmodeshop.com
@@ -2416,6 +2429,7 @@ klassischesfahrradneu.com
 klauenpflegeschmid.de
 klaurboutik.shop
 klaus-meat-grill.ch
+kleemeyermichael.com
 kleinanzeiqen-verkauf.de
 kleinre.myshopify.com
 kleinverkaufen.de
@@ -2913,6 +2927,7 @@ moriaccessoires.com
 morpilotsales.shop
 mosaicdevelopmentonline.com
 mossvibers.com
+motelamiioofficial.com
 motelmio.shop
 motherbabydoulaservices.com
 motivoebike.com
@@ -3089,6 +3104,7 @@ nurulamal.com
 nusalemqjxy.click
 nuxifuland.shop
 nwstore1game.com
+nxhdyeu.shop
 nyhead.bookfocus.surf
 nyhead.localdraw.shop
 nyhead.morepush.shop
@@ -3368,6 +3384,7 @@ pokerstars-online.com
 polarlyset.de
 polenegermany.de
 poleneoutlet.de
+poleneparis.at
 polluxer.com
 poodlestoresaigon.com
 pool-uniswap.com
@@ -3408,6 +3425,7 @@ pricehaiku.com
 pridesaunaclub.com
 primarycarenw.com
 prime-tech-deals.shop
+primetechmarket.co
 primetoolingsupply.com
 printtestpageonline.com
 prisabeauty.com
@@ -3524,8 +3542,10 @@ realzonline.de
 rebikesports.shop
 receiverdual.de
 rechtsanwalt-sirrenberg.de
+rechtskanzlei-karls.de
 redbeautysalon.com
 redcopperbeauty.com
+redefinedrebelit.com
 redlich-becker.de
 reebokoutlet.de
 reeddecory.com
@@ -3829,6 +3849,7 @@ shopyalili.com
 shopzogu.com
 shredlab-bike-academy-sauerland.de
 shreedhaonlineparts.com
+shujuwang.de
 shumbastore.com
 sieundihn.de
 silberschmuckpro.com
@@ -3901,6 +3922,7 @@ solarbundesliga.at
 solarc.click
 solaregis.com
 solarek-energie.com
+solarek-energie.de
 solarenergyplatinum.com
 solarfehlercodes.de
 solarflowcrm.com
@@ -4086,6 +4108,7 @@ swordofthespiritbookstore.com
 sydneypools1.net
 syyqjsxt.shop
 sz-tax.com
+szxlbxlz.shop
 tadauswelpen.de
 tagesgeld-onlinecheck.de
 tagespflegedorfflitzer.de
@@ -4161,6 +4184,7 @@ theworkshopoflife.com
 thiamtransports.com
 thierseifer.de
 thlifureshop.com
+thorogoodeutschland.de
 thriftfolio.com
 thriftnexus.com
 thule-familien.de
@@ -4540,6 +4564,7 @@ werkzeugonlineshop.com
 werkzeugversorgung.com
 wertexmarkt.de
 wertglanzedelmetall.de
+wertlebenshop.com
 weserstore.de
 westcoastmarketing-sales.com
 western-cowboy-shop.de
@@ -4559,6 +4584,7 @@ wika-shop.de
 wikfinal.shop
 wildblumenparadies.de
 wildcatchco.com
+wildlingschuh.com
 wildlingschuhede.com
 wildlingshoes.cc
 wildundfreide.com
