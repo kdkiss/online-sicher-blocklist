@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
 # Updated: 2026-08-15
-# Domains: 5063
+# Domains: 5068
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -1878,6 +1878,7 @@ germanmanufaktur.de
 germanproduktshop.de
 germanqualitaet.de
 germins.de
+germusik.com
 gesamtgarten.de
 gesundheit-md.de
 get-airzuma.topashopo.com
@@ -3770,6 +3771,7 @@ rabattwandern.de
 rabeagrigmbh.de
 racedaypool.com
 racgjshq.shop
+rad-teile.com
 radbasis.com
 raderstore.de
 radhandel24.de
@@ -4069,6 +4071,7 @@ shop-hausdesfildern.de
 shop-pharmacie-france.net
 shop-pierce.com
 shop-vergleicher.de
+shop.asfinag.llc
 shop.asfinaq.de
 shop.tegeler.com
 shop.uifuifx.shop
@@ -4617,6 +4620,7 @@ turkishsilverwholesale.com
 tuvas-tech.de
 tv-longzhu-online.com
 uaeteampissei.team
+uarleniz.com
 uberwachungskamera-ohne-wlan.de
 udoke.com
 uggfans.myshoplaza.com
@@ -4987,6 +4991,7 @@ yeezy.at
 yenbeauty.de
 yerbrtaa.lol
 yesacbeautybar.com
+yexktahz.shop
 yinzmkt-sales.com
 yipmriso.shop
 yiyang-solar.com
