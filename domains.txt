@@ -1,7 +1,7 @@
 # Online-Sicher.de — Fake-Shop Domain Blocklist
 # Format: one domain per line
-# Updated: 2026-08-26
-# Domains: 5256
+# Updated: 2026-09-06
+# Domains: 5255
 # Source: https://online-sicher.de
 # License: CC BY-NC-SA 4.0 — attribution required, non-commercial use only
 
@@ -586,7 +586,6 @@ bcpstores.shop
 bd222-online.com
 be-aetlcnshop.com
 beambright.de
-beamdeals.de
 beautifyshop.de
 beauttyystore.com
 beauty-begins-here.com
